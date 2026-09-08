@@ -1,0 +1,45 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import Related from "../../components/Related.astro";
+import firstaid from "../../data/thelongdark_firstaid.json";
+
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? parseFloat(m[0]) : "";
+};
+const rows = firstaid
+  .map((x) => ({
+    name: `<a href="/firstaid/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+    _sort: x.title.toLowerCase(),
+    unit: (x.fields?.["unit name"] || "").slice(0, 20),
+    count: num1(x.fields?.["unit count"]),
+    weight: num1(x.fields?.weight),
+  }))
+  .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+---
+<Base
+  title={`The Long Dark First Aid — ${firstaid.length} medical items with weight & unit stats`}
+  description={`The Long Dark first aid items: antibiotics, bandages, painkillers and more with weight and unit counts for ${firstaid.length} medical items.`}
+>
+  <h1>First Aid</h1>
+  <p class="muted">{firstaid.length} items · medical supplies for afflictions. Click a column to sort.</p>
+  <DataTable
+    id="firstaid"
+    rows={rows as any}
+    searchPlaceholder="Search first aid..."
+    columns={[
+      { key: "name", label: "Item" },
+      { key: "unit", label: "Unit" },
+      { key: "count", label: "Units per pack", type: "number" },
+      { key: "weight", label: "Weight (kg)", type: "number" },
+    ]}
+  />
+  <Related
+    links={[
+      { href: "/afflictions/", title: "Afflictions", sub: "Conditions & treatments" },
+      { href: "/tools/", title: "Tools", sub: "All tools & gear" },
+      { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
+    ]}
+  />
+</Base>

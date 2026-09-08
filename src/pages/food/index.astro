@@ -1,0 +1,49 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import Related from "../../components/Related.astro";
+import food from "../../data/thelongdark_food.json";
+
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? parseFloat(m[0]) : "";
+};
+const rows = food
+  .map((x) => ({
+    name: `<a href="/food/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+    _sort: x.title.toLowerCase(),
+    calories: num1(x.fields?.calories),
+    hydration: num1(x.fields?.hydration),
+    vitaminc: (x.fields?.vitaminc || "").slice(0, 24),
+    weight: num1(x.fields?.weight),
+    type: (x.fields?.type || "").slice(0, 30),
+  }))
+  .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+---
+<Base
+  title={`The Long Dark Food & Drink — ${food.length} items with calories, hydration & vitamin C`}
+  description={`Complete The Long Dark food database: calories, hydration, vitamin C and weight for ${food.length} food and drink items — raw, cooked and canned.`}
+>
+  <h1>Food & Drink</h1>
+  <p class="muted">{food.length} items · calories (kcal), hydration (%), vitamin C and weight. Click a column to sort.</p>
+  <DataTable
+    id="food"
+    rows={rows as any}
+    searchPlaceholder="Search food..."
+    columns={[
+      { key: "name", label: "Item" },
+      { key: "calories", label: "Calories (kcal)", type: "number" },
+      { key: "hydration", label: "Hydration (%)", type: "number" },
+      { key: "vitaminc", label: "Vitamin C" },
+      { key: "weight", label: "Weight (kg)", type: "number" },
+      { key: "type", label: "Type" },
+    ]}
+  />
+  <Related
+    links={[
+      { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your daily intake", tool: true },
+      { href: "/rankings/", title: "Rankings", sub: "Best calorie & warmth picks" },
+      { href: "/clothing/", title: "Clothing", sub: "Warmth & windproof values" },
+    ]}
+  />
+</Base>

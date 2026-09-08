@@ -1,0 +1,149 @@
+---
+import Base from "../layouts/Base.astro";
+import Related from "../components/Related.astro";
+import food from "../data/thelongdark_food.json";
+import clothing from "../data/thelongdark_clothing.json";
+
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? parseFloat(m[0]) : 0;
+};
+const pct = (v: any) => {
+  const m = String(v ?? "").match(/\((\d+(?:\.\d+)?)%\)/);
+  return m ? parseFloat(m[1]) : 0;
+};
+
+const calFoods = food
+  .map((x) => ({ ...x, cal: num1(x.fields?.calories), wt: num1(x.fields?.weight) }))
+  .filter((x) => x.cal > 0);
+const topCal = calFoods.slice().sort((a, b) => b.cal - a.cal).slice(0, 10);
+const calPerKg = calFoods
+  .filter((x) => x.wt > 0)
+  .map((x) => ({ ...x, perkg: x.cal / x.wt }))
+  .sort((a, b) => b.perkg - a.perkg)
+  .slice(0, 10);
+const topHyd = food
+  .map((x) => ({ ...x, hyd: num1(x.fields?.hydration) }))
+  .sort((a, b) => b.hyd - a.hyd)
+  .slice(0, 10);
+const topVit = food
+  .map((x) => ({ ...x, vit: pct(x.fields?.vitaminc) }))
+  .filter((x) => x.vit > 0)
+  .sort((a, b) => b.vit - a.vit)
+  .slice(0, 10);
+const warmCloth = clothing
+  .map((x) => ({ ...x, warm: num1(x.fields?.["warmth bonus"]), wt: num1(x.fields?.weight) }))
+  .filter((x) => x.warm > 0);
+const topWarm = warmCloth.slice().sort((a, b) => b.warm - a.warm).slice(0, 10);
+const warmPerKg = warmCloth
+  .filter((x) => x.wt > 0)
+  .map((x) => ({ ...x, perkg: x.warm / x.wt }))
+  .sort((a, b) => b.perkg - a.perkg)
+  .slice(0, 10);
+const topWind = clothing
+  .map((x) => ({ ...x, wind: num1(x.fields?.["windproof bonus"]) }))
+  .sort((a, b) => b.wind - a.wind)
+  .slice(0, 10);
+---
+<Base
+  title="The Long Dark Rankings — best calories, warmth, windproof & vitamin C"
+  description="The Long Dark leaderboards: highest-calorie foods, best calories per kg, warmest clothing, warmth per kg carried, best windproof and top vitamin C sources."
+>
+  <h1>Rankings</h1>
+  <p class="muted">Leaderboards computed from full infobox data. Click any entry for details.</p>
+
+  <div class="grid grid-2" style="margin:1.25rem 0">
+    <div class="card">
+      <h2 style="margin-top:0">🔥 Highest-calorie foods</h2>
+      <ol class="rank-list">
+        {topCal.map((x) => (
+          <li>
+            <a href={`/food/${x.slug}/`}>{x.title}</a>
+            {x.icon_file && <img src={`/icons/${x.icon_file}`} alt="" width="20" height="20" style="vertical-align:middle" loading="lazy" />}
+            <span class="muted"> — {x.cal} kcal</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div class="card">
+      <h2 style="margin-top:0">🎒 Best calories per kg</h2>
+      <ol class="rank-list">
+        {calPerKg.map((x) => (
+          <li>
+            <a href={`/food/${x.slug}/`}>{x.title}</a>
+            <span class="muted"> — {Math.round(x.perkg)} kcal/kg ({x.cal} kcal, {x.wt} kg)</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div class="card">
+      <h2 style="margin-top:0">💧 Best hydration</h2>
+      <ol class="rank-list">
+        {topHyd.map((x) => (
+          <li>
+            <a href={`/food/${x.slug}/`}>{x.title}</a>
+            <span class="muted"> — +{x.hyd}% hydration</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div class="card">
+      <h2 style="margin-top:0">🍊 Top vitamin C sources</h2>
+      <ol class="rank-list">
+        {topVit.map((x) => (
+          <li>
+            <a href={`/food/${x.slug}/`}>{x.title}</a>
+            <span class="muted"> — {x.vit}% vitamin C</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div class="card">
+      <h2 style="margin-top:0">🧥 Warmest clothing</h2>
+      <ol class="rank-list">
+        {topWarm.map((x) => (
+          <li>
+            <a href={`/clothing/${x.slug}/`}>{x.title}</a>
+            {x.icon_file && <img src={`/icons/${x.icon_file}`} alt="" width="20" height="20" style="vertical-align:middle" loading="lazy" />}
+            <span class="muted"> — +{x.warm}°C warmth</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div class="card">
+      <h2 style="margin-top:0">⚖️ Best warmth per kg</h2>
+      <ol class="rank-list">
+        {warmPerKg.map((x) => (
+          <li>
+            <a href={`/clothing/${x.slug}/`}>{x.title}</a>
+            <span class="muted"> — {Math.round(x.perkg * 10) / 10}°C/kg ({x.warm}°C, {x.wt} kg)</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </div>
+  <div class="card" style="margin:1.25rem 0">
+    <h2 style="margin-top:0">🌬️ Best windproof</h2>
+    <ol class="rank-list">
+      {topWind.map((x) => (
+        <li>
+          <a href={`/clothing/${x.slug}/`}>{x.title}</a>
+          <span class="muted"> — +{x.wind}°C windproof</span>
+        </li>
+      ))}
+    </ol>
+  </div>
+
+  <Related
+    links={[
+      { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your intake", tool: true },
+      { href: "/food/", title: "Food & Drink", sub: "Sortable nutrition table" },
+      { href: "/clothing/", title: "Clothing", sub: "Sortable warmth table" },
+    ]}
+  />
+</Base>
+
+<style>
+  .rank-list { margin: 0; padding-left: 1.3rem; line-height: 1.9; }
+  .rank-list img { margin-left: 0.3rem; }
+</style>

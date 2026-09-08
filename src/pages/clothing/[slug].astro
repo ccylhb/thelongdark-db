@@ -1,0 +1,46 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import EntryStats from "../../components/EntryStats.astro";
+import clothing from "../../data/thelongdark_clothing.json";
+
+export function getStaticPaths() {
+  return clothing.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
+}
+
+const { x } = Astro.props as any;
+const f = x.fields || {};
+const sameSlot = clothing
+  .filter((o: any) => o.slug !== x.slug && (o.fields?.["clothing slot"] || "") === (f["clothing slot"] || ""))
+  .slice(0, 6);
+---
+<Base
+  title={`${x.title} — The Long Dark clothing stats (warmth ${f["warmth bonus"] || "?"}°C, windproof ${f["windproof bonus"] || "?"}°C)`}
+  description={`${x.title}: ${f["warmth bonus"] || "?"}°C warmth bonus, ${f["windproof bonus"] || "?"}°C windproof${f.waterproofness ? `, ${f.waterproofness} waterproof` : ""}, ${f.weight || "?"} kg — The Long Dark clothing values.`}
+>
+  <h1 class="icon-h1">
+    {x.icon_file ? <img src={`/icons/${x.icon_file}`} alt={x.title} loading="eager" /> : null}
+    <span>{x.title}</span>
+  </h1>
+  <EntryStats entry={x} keys={["warmth bonus", "windproof bonus", "waterproofness", "protection", "mobility", "weight"]} labels={{ "warmth bonus": "Warmth (°C)", "windproof bonus": "Windproof (°C)", waterproofness: "Waterproof", protection: "Protection", mobility: "Mobility", weight: "Weight (kg)" }} />
+  <p>
+    {f["clothing slot"] && <span class="tag" style="margin:0.1rem">Slot: {f["clothing slot"]}</span>}
+    {f["item type"] && <span class="tag" style="margin:0.1rem">{f["item type"]}</span>}
+    {f.renewable && <span class="tag" style="margin:0.1rem">Renewable</span>}
+  </p>
+  {f.harvest && <p><strong>Harvest:</strong> {f.harvest}</p>}
+  {f.repair && <p><strong>Repair:</strong> {f.repair}</p>}
+  {x.intro && <p>{x.intro}</p>}
+  <Related
+    links={[
+      ...sameSlot.map((s: any) => ({
+        href: `/clothing/${s.slug}/`,
+        title: s.title,
+        sub: `Warmth ${s.fields?.["warmth bonus"] || "?"}°C · Windproof ${s.fields?.["windproof bonus"] || "?"}°C`,
+        icon: s.icon_file ? `/icons/${s.icon_file}` : undefined,
+      })),
+      { href: "/clothing/", title: "All Clothing", sub: "Sortable warmth table" },
+      { href: "/rankings/", title: "Rankings", sub: "Warmest per kg" },
+    ]}
+  />
+</Base>

@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import EntryStats from "../../components/EntryStats.astro";
+import aff from "../../data/thelongdark_afflictions.json";
+
+export function getStaticPaths() {
+  return aff.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
+}
+
+const { x } = Astro.props as any;
+const f = x.fields || {};
+---
+<Base
+  title={`${x.title} — The Long Dark affliction (treatment: ${f.treatment || "?"})`}
+  description={`${x.title}: ${f.description || "The Long Dark affliction"} — caused by ${f["caused by"] || "?"}, treatment: ${f.treatment || "?"}.`}
+>
+  <h1 class="icon-h1">
+    {x.icon_file ? <img src={`/icons/${x.icon_file}`} alt={x.title} loading="eager" /> : null}
+    <span>{x.title}</span>
+  </h1>
+  {f.description && <p class="muted">{f.description}</p>}
+  <EntryStats entry={x} keys={["type (benefit/injury/disease)", "affliction duration", "recoverytime", "+/- effect"]} labels={{ "type (benefit/injury/disease)": "Type", "affliction duration": "Duration", recoverytime: "Recovery", "+/- effect": "Effect" }} />
+  {f["caused by"] && <p><strong>Caused by:</strong> {f["caused by"]}</p>}
+  {f.treatment && <p><strong>Treatment:</strong> {f.treatment}</p>}
+  {x.intro && <p>{x.intro}</p>}
+  <Related
+    links={[
+      { href: "/afflictions/", title: "All Afflictions", sub: "Conditions table" },
+      { href: "/firstaid/", title: "First Aid", sub: "Medical items" },
+      { href: "/food/", title: "Food & Drink", sub: "Stay fed & hydrated" },
+    ]}
+  />
+</Base>

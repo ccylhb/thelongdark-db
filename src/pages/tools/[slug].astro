@@ -1,0 +1,37 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import EntryStats from "../../components/EntryStats.astro";
+import tools from "../../data/thelongdark_tools.json";
+
+export function getStaticPaths() {
+  return tools.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
+}
+
+const { x } = Astro.props as any;
+const f = x.fields || {};
+const similar = tools.slice(0, 0);
+---
+<Base
+  title={`${x.title} — The Long Dark tool stats (weight ${f.weight || "?"} kg)`}
+  description={`${x.title}: ${f.weight || "?"} kg${f["warmth bonus"] ? `, ${f["warmth bonus"]}°C warmth bonus` : ""} — The Long Dark tool values and uses.`}
+>
+  <h1 class="icon-h1">
+    {x.icon_file ? <img src={`/icons/${x.icon_file}`} alt={x.title} loading="eager" /> : null}
+    <span>{x.title}</span>
+  </h1>
+  {f.examine && <p class="muted">{f.examine}</p>}
+  <EntryStats entry={x} keys={["weight", "warmth bonus", "windproof bonus", "item type"]} labels={{ weight: "Weight (kg)", "warmth bonus": "Warmth (°C)", "windproof bonus": "Windproof (°C)", "item type": "Type" }} />
+  <p>
+    {f.type && <span class="tag" style="margin:0.1rem">{f.type}</span>}
+    {f.renewable && <span class="tag" style="margin:0.1rem">Renewable</span>}
+  </p>
+  {x.intro && <p>{x.intro}</p>}
+  <Related
+    links={[
+      { href: "/tools/", title: "All Tools", sub: "Sortable table" },
+      { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
+      { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your intake", tool: true },
+    ]}
+  />
+</Base>

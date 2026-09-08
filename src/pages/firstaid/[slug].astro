@@ -1,0 +1,31 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import EntryStats from "../../components/EntryStats.astro";
+import firstaid from "../../data/thelongdark_firstaid.json";
+
+export function getStaticPaths() {
+  return firstaid.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
+}
+
+const { x } = Astro.props as any;
+const f = x.fields || {};
+---
+<Base
+  title={`${x.title} — The Long Dark first aid stats (${f.weight || "?"} kg)`}
+  description={`${x.title}: ${f.weight || "?"} kg${f["unit name"] ? `, ${f["unit count"] || "?"} ${f["unit name"]}(s)` : ""} — The Long Dark medical item values and uses.`}
+>
+  <h1 class="icon-h1">
+    {x.icon_file ? <img src={`/icons/${x.icon_file}`} alt={x.title} loading="eager" /> : null}
+    <span>{x.title}</span>
+  </h1>
+  <EntryStats entry={x} keys={["weight", "unit count", "unit name", "item type"]} labels={{ weight: "Weight (kg)", "unit count": "Units per pack", "unit name": "Unit", "item type": "Type" }} />
+  {x.intro && <p>{x.intro}</p>}
+  <Related
+    links={[
+      { href: "/firstaid/", title: "All First Aid", sub: "Medical items table" },
+      { href: "/afflictions/", title: "Afflictions", sub: "Conditions & treatments" },
+      { href: "/search/", title: "A–Z Index", sub: "Every entry" },
+    ]}
+  />
+</Base>

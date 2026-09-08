@@ -1,0 +1,32 @@
+{
+  "siteName": "LongDarkDB",
+  "siteUrl": "https://thelongdark-db.pages.dev",
+  "tagline": "The Long Dark database — food calories, clothing warmth & afflictions",
+  "description": "The Long Dark stats: food calories, hydration and vitamin C, clothing warmth, windproof and protection values, tools and affliction treatments — with a calorie calculator.",
+  "adsenseClientId": "ca-pub-3245910354455258",
+  "adsensePublisherId": "pub-3245910354455258",
+  "favicon": "❄️",
+  "footerNote": "Unofficial fan-made database for The Long Dark. Not affiliated with Hinterland Studio.",
+  "theme": {
+    "bg": "#0d1319",
+    "bgSoft": "#121a23",
+    "card": "#16202b",
+    "border": "#2a3a4a",
+    "text": "#dfe8ef",
+    "muted": "#8ca0b3",
+    "accent": "#6fb3d9",
+    "accent2": "#9ed0ec",
+    "good": "#7fb069",
+    "bad": "#c75146"
+  },
+  "nav": [
+    { "href": "/food/", "label": "Food" },
+    { "href": "/clothing/", "label": "Clothing" },
+    { "href": "/tools/", "label": "Tools" },
+    { "href": "/firstaid/", "label": "First Aid" },
+    { "href": "/afflictions/", "label": "Afflictions" },
+    { "href": "/rankings/", "label": "Rankings" },
+    { "href": "/calorie-calculator/", "label": "Calorie Calculator", "tool": true },
+    { "href": "/search/", "label": "A-Z" }
+  ]
+}

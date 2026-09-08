@@ -1,0 +1,49 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import EntryStats from "../../components/EntryStats.astro";
+import food from "../../data/thelongdark_food.json";
+
+export function getStaticPaths() {
+  return food.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
+}
+
+const { x } = Astro.props as any;
+const f = x.fields || {};
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? m[0] : "";
+};
+const similar = food
+  .filter((o: any) => o.slug !== x.slug && (o.fields?.type || "") === (f.type || ""))
+  .slice(0, 6);
+---
+<Base
+  title={`${x.title} — The Long Dark food stats (calories ${num1(f.calories) || "?"}, hydration ${num1(f.hydration) || "?"})`}
+  description={`${x.title}: ${num1(f.calories) || "?"} kcal calories, ${num1(f.hydration) || "?"}% hydration${f.vitaminc ? `, vitamin C ${f.vitaminc}` : ""}, ${f.weight || "?"} kg — The Long Dark nutrition values.`}
+>
+  <h1 class="icon-h1">
+    {x.icon_file ? <img src={`/icons/${x.icon_file}`} alt={x.title} loading="eager" /> : null}
+    <span>{x.title}</span>
+  </h1>
+  {f.examine && <p class="muted">{f.examine}</p>}
+  <EntryStats entry={x} keys={["calories", "hydration", "vitaminc", "weight", "decay-inside", "decay-outside"]} labels={{ calories: "Calories (kcal)", hydration: "Hydration (%)", vitaminc: "Vitamin C", weight: "Weight (kg)", "decay-inside": "Decay indoors", "decay-outside": "Decay outdoors" }} />
+  <p>
+    {f.type && <span class="tag" style="margin:0.1rem">{f.type}</span>}
+    {f.renewable && <span class="tag" style="margin:0.1rem">Renewable</span>}
+    {f.stackable && <span class="tag" style="margin:0.1rem">Stackable</span>}
+  </p>
+  {x.intro && <p>{x.intro}</p>}
+  <Related
+    links={[
+      ...similar.map((s: any) => ({
+        href: `/food/${s.slug}/`,
+        title: s.title,
+        sub: `Calories ${s.fields?.calories || "?"} · ${s.fields?.weight || "?"} kg`,
+        icon: s.icon_file ? `/icons/${s.icon_file}` : undefined,
+      })),
+      { href: "/food/", title: "All Food", sub: "Sortable nutrition table" },
+      { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your intake", tool: true },
+    ]}
+  />
+</Base>

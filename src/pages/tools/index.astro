@@ -1,0 +1,47 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import Related from "../../components/Related.astro";
+import tools from "../../data/thelongdark_tools.json";
+
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? parseFloat(m[0]) : "";
+};
+const rows = tools
+  .map((x) => ({
+    name: `<a href="/tools/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+    _sort: x.title.toLowerCase(),
+    type: (x.fields?.["item type"] || x.fields?.type || "").slice(0, 24),
+    warmth: num1(x.fields?.["warmth bonus"]),
+    weight: num1(x.fields?.weight),
+    examine: (x.fields?.examine || "").slice(0, 60),
+  }))
+  .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+---
+<Base
+  title={`The Long Dark Tools — ${tools.length} tools with weight & warmth values`}
+  description={`Complete The Long Dark tools database: weight, warmth bonus and stats for ${tools.length} tools and fire starting items.`}
+>
+  <h1>Tools</h1>
+  <p class="muted">{tools.length} items · tools and fire starting gear. Click a column to sort.</p>
+  <DataTable
+    id="tools"
+    rows={rows as any}
+    searchPlaceholder="Search tools..."
+    columns={[
+      { key: "name", label: "Item" },
+      { key: "type", label: "Type" },
+      { key: "warmth", label: "Warmth (°C)", type: "number" },
+      { key: "weight", label: "Weight (kg)", type: "number" },
+      { key: "examine", label: "Notes" },
+    ]}
+  />
+  <Related
+    links={[
+      { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
+      { href: "/firstaid/", title: "First Aid", sub: "Medical items" },
+      { href: "/rankings/", title: "Rankings", sub: "Best picks" },
+    ]}
+  />
+</Base>

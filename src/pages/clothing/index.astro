@@ -1,0 +1,51 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import Related from "../../components/Related.astro";
+import clothing from "../../data/thelongdark_clothing.json";
+
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? parseFloat(m[0]) : "";
+};
+const rows = clothing
+  .map((x) => ({
+    name: `<a href="/clothing/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+    _sort: x.title.toLowerCase(),
+    slot: (x.fields?.["clothing slot"] || "").slice(0, 20),
+    warmth: num1(x.fields?.["warmth bonus"]),
+    windproof: num1(x.fields?.["windproof bonus"]),
+    protection: num1(x.fields?.protection),
+    mobility: num1(x.fields?.mobility),
+    weight: num1(x.fields?.weight),
+  }))
+  .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+---
+<Base
+  title={`The Long Dark Clothing — ${clothing.length} pieces with warmth, windproof & protection values`}
+  description={`Complete The Long Dark clothing database: warmth bonus, windproof bonus, waterproofness, protection, mobility and weight for ${clothing.length} clothing items.`}
+>
+  <h1>Clothing</h1>
+  <p class="muted">{clothing.length} pieces · warmth bonus (°C), windproof (°C), protection, mobility and weight. Click a column to sort.</p>
+  <DataTable
+    id="clothing"
+    rows={rows as any}
+    searchPlaceholder="Search clothing..."
+    columns={[
+      { key: "name", label: "Item" },
+      { key: "slot", label: "Slot" },
+      { key: "warmth", label: "Warmth (°C)", type: "number" },
+      { key: "windproof", label: "Windproof (°C)", type: "number" },
+      { key: "protection", label: "Protection (%)", type: "number" },
+      { key: "mobility", label: "Mobility (%)", type: "number" },
+      { key: "weight", label: "Weight (kg)", type: "number" },
+    ]}
+  />
+  <Related
+    links={[
+      { href: "/rankings/", title: "Rankings", sub: "Warmest clothing per kg", tool: false },
+      { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
+      { href: "/tools/", title: "Tools", sub: "All tools & fire starting" },
+    ]}
+  />
+</Base>

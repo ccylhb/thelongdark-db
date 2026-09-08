@@ -1,0 +1,74 @@
+---
+import Base from "../layouts/Base.astro";
+import Related from "../components/Related.astro";
+import food from "../data/thelongdark_food.json";
+import clothing from "../data/thelongdark_clothing.json";
+import tools from "../data/thelongdark_tools.json";
+import firstaid from "../data/thelongdark_firstaid.json";
+import aff from "../data/thelongdark_afflictions.json";
+
+const total = food.length + clothing.length + tools.length + firstaid.length + aff.length;
+const num1 = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? parseFloat(m[0]) : 0;
+};
+const bestFood = food
+  .map((x) => ({ ...x, cal: num1(x.fields?.calories), wt: num1(x.fields?.weight) }))
+  .filter((x) => x.cal > 0 && x.wt > 0)
+  .sort((a, b) => b.cal / b.wt - a.cal / a.wt)[0];
+const bestCloth = clothing
+  .map((x) => ({ ...x, warm: num1(x.fields?.["warmth bonus"]) }))
+  .sort((a, b) => b.warm - a.warm)[0];
+---
+<Base title="LongDarkDB — The Long Dark food calories, clothing warmth & afflictions" description={`The Long Dark stats database: ${total} entries — food calories, hydration and vitamin C, clothing warmth/windproof/protection, tools and affliction treatments with a calorie calculator.`}>
+  <div style="text-align:center;margin:2.5rem 0 2rem">
+    <h1 style="font-size:clamp(2.2rem,6vw,3.4rem)">Survive the quiet apocalypse, by the numbers.</h1>
+    <p class="muted" style="font-size:1.15rem;max-width:640px;margin:0.75rem auto">
+      {total} The Long Dark entries with exact values — what to eat, what to wear, what to carry. Every stat, no fluff.
+    </p>
+    <p style="margin-top:1.5rem">
+      <a href="/food/" style="display:inline-block;background:var(--accent);color:var(--bg);font-weight:700;padding:0.7rem 1.4rem;border-radius:10px;margin:0.25rem">Food & nutrition</a>
+      <a href="/calorie-calculator/" style="display:inline-block;border:1px solid var(--accent);color:var(--accent);font-weight:700;padding:0.7rem 1.4rem;border-radius:10px;margin:0.25rem">Calorie Calculator</a>
+    </p>
+  </div>
+
+  <div class="grid grid-3" style="margin:2rem 0">
+    <a class="card" href="/food/" style="color:inherit">
+      <div class="stat-num">{food.length}</div>
+      <div class="stat-label">Food & drink · nutrition</div>
+      <p class="muted" style="font-size:0.9rem">Calories, hydration and vitamin C — raw, cooked and canned.</p>
+    </a>
+    <a class="card" href="/clothing/" style="color:inherit">
+      <div class="stat-num">{clothing.length}</div>
+      <div class="stat-label">Clothing · warmth</div>
+      <p class="muted" style="font-size:0.9rem">Warmth, windproof, waterproof, protection and mobility per piece.</p>
+    </a>
+    <a class="card" href="/tools/" style="color:inherit">
+      <div class="stat-num">{tools.length}</div>
+      <div class="stat-label">Tools · gear</div>
+      <p class="muted" style="font-size:0.9rem">Tools and fire starting with weights and warmth values.</p>
+    </a>
+  </div>
+
+  <h2>Jump to the answer</h2>
+  <div class="card answer-card">
+    <ul style="margin:0;padding-left:1.2rem;line-height:2">
+      <li>Best energy-to-weight food: <a href={`/food/${bestFood?.slug}/`}>{bestFood?.title}</a> — {Math.round(bestFood.cal / bestFood.wt)} kcal/kg</li>
+      <li>Warmest clothing: <a href={`/clothing/${bestCloth?.slug}/`}>{bestCloth?.title}</a> — +{bestCloth?.warm}°C warmth</li>
+      <li>Afflictions: <a href="/afflictions/">{aff.length} conditions</a> with causes & treatments · First aid: <a href="/firstaid/">{firstaid.length} items</a></li>
+    </ul>
+  </div>
+
+  <Related
+    heading="All boards"
+    links={[
+      { href: "/food/", title: "Food & Drink", sub: `${food.length} entries` },
+      { href: "/clothing/", title: "Clothing", sub: `${clothing.length} entries` },
+      { href: "/tools/", title: "Tools", sub: `${tools.length} entries` },
+      { href: "/firstaid/", title: "First Aid", sub: `${firstaid.length} entries` },
+      { href: "/afflictions/", title: "Afflictions", sub: `${aff.length} entries` },
+      { href: "/rankings/", title: "Rankings", sub: "Leaderboards" },
+      { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your survival diet", tool: true },
+    ]}
+  />
+</Base>

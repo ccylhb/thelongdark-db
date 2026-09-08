@@ -1,0 +1,5 @@
+node_modules/
+dist/
+scripts/cache/
+scripts/icon_fails.json
+.wrangler/

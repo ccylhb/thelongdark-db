@@ -1,0 +1,41 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import Related from "../../components/Related.astro";
+import aff from "../../data/thelongdark_afflictions.json";
+
+const rows = aff
+  .map((x) => ({
+    name: `<a href="/afflictions/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+    _sort: x.title.toLowerCase(),
+    type: (x.fields?.["type (benefit/injury/disease)"] || "").slice(0, 20),
+    duration: (x.fields?.["affliction duration"] || "").slice(0, 30),
+    treatment: (x.fields?.treatment || "").slice(0, 40),
+  }))
+  .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+---
+<Base
+  title={`The Long Dark Afflictions — ${aff.length} conditions with treatments`}
+  description={`The Long Dark afflictions database: ${aff.length} conditions — injuries, diseases and risks — with causes, durations and treatments.`}
+>
+  <h1>Afflictions</h1>
+  <p class="muted">{aff.length} conditions · injuries, diseases and risks with their treatments. Click a column to sort.</p>
+  <DataTable
+    id="afflictions"
+    rows={rows as any}
+    searchPlaceholder="Search afflictions..."
+    columns={[
+      { key: "name", label: "Affliction" },
+      { key: "type", label: "Type" },
+      { key: "duration", label: "Duration" },
+      { key: "treatment", label: "Treatment" },
+    ]}
+  />
+  <Related
+    links={[
+      { href: "/firstaid/", title: "First Aid", sub: "Medical items" },
+      { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
+      { href: "/rankings/", title: "Rankings", sub: "Best picks" },
+    ]}
+  />
+</Base>
