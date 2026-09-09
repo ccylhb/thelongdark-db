@@ -21,6 +21,18 @@ const bestFood = food
 const bestCloth = clothing
   .map((x) => ({ ...x, warm: num1(x.fields?.["warmth bonus"]) }))
   .sort((a, b) => b.warm - a.warm)[0];
+const __ld = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "LongDarkDB",
+  url: "https://thelongdark-db.pages.dev/",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: { "@type": "EntryPoint", urlTemplate: "https://thelongdark-db.pages.dev/search/?q={search_term_string}" },
+    "query-input": "required name=search_term_string",
+  },
+};
+
 ---
 <Base title="LongDarkDB — The Long Dark food calories, clothing warmth & afflictions" description={`The Long Dark stats database: ${total} entries — food calories, hydration and vitamin C, clothing warmth/windproof/protection, tools and affliction treatments with a calorie calculator.`}>
   <div style="text-align:center;margin:2.5rem 0 2rem">
@@ -81,4 +93,5 @@ const bestCloth = clothing
       { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your survival diet", tool: true },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>

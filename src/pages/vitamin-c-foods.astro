@@ -20,6 +20,16 @@ const rows = data.map((x: any) => ({
     vitaminc: (x.fields?.vitaminc || "").slice(0, 24),
     weight: n(x.fields?.weight),
   }));
+const __ld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: `Vitamin C Foods — Beat Scurvy`,
+    description: `Every The Long Dark food that restores vitamin C, ranked — plus calories and hydration. Scurvy is survivable when you know what to eat.`,
+    mainEntityOfPage: "https://thelongdark-db.pages.dev/vitamin-c-foods/",
+  },
+];
+
 ---
 <Base
   title={`Vitamin C Foods — Beat Scurvy`}
@@ -40,4 +50,5 @@ const rows = data.map((x: any) => ({
       { key: "weight", label: "Weight kg", type: "number" },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>

@@ -20,6 +20,23 @@ const rows = clothing
     weight: num1(x.fields?.weight),
   }))
   .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+const __ld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://thelongdark-db.pages.dev/" },
+      { "@type": "ListItem", position: 2, name: "Clothing", item: "https://thelongdark-db.pages.dev/clothing/" },
+    ],
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Clothing",
+    mainEntityOfPage: "https://thelongdark-db.pages.dev/clothing/",
+  },
+];
+
 ---
 <Base
   title={`The Long Dark Clothing — ${clothing.length} pieces with warmth, windproof & protection values`}
@@ -48,4 +65,5 @@ const rows = clothing
       { href: "/tools/", title: "Tools", sub: "All tools & fire starting" },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>

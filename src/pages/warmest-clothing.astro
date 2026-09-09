@@ -22,6 +22,16 @@ const rows = data.map((x: any) => ({
     slot: (x.fields["clothing slot"] || "").slice(0, 14),
     weight: n(x.fields?.weight),
   }));
+const __ld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: `Warmest Clothing — Highest Warmth Bonus`,
+    description: `The Long Dark clothing ranked by warmth bonus, with windproofing, waterproofness and protection — the best layers for Interloper cold.`,
+    mainEntityOfPage: "https://thelongdark-db.pages.dev/warmest-clothing/",
+  },
+];
+
 ---
 <Base
   title={`Warmest Clothing — Highest Warmth Bonus`}
@@ -44,4 +54,5 @@ const rows = data.map((x: any) => ({
       { key: "weight", label: "Weight kg", type: "number" },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>

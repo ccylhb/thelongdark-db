@@ -44,6 +44,7 @@ const topWind = clothing
   .map((x) => ({ ...x, wind: num1(x.fields?.["windproof bonus"]) }))
   .sort((a, b) => b.wind - a.wind)
   .slice(0, 10);
+
 ---
 <Base
   title="The Long Dark Rankings — best calories, warmth, windproof & vitamin C"

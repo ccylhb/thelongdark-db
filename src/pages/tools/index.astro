@@ -18,6 +18,23 @@ const rows = tools
     examine: (x.fields?.examine || "").slice(0, 60),
   }))
   .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+const __ld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://thelongdark-db.pages.dev/" },
+      { "@type": "ListItem", position: 2, name: "Tools", item: "https://thelongdark-db.pages.dev/tools/" },
+    ],
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Tools",
+    mainEntityOfPage: "https://thelongdark-db.pages.dev/tools/",
+  },
+];
+
 ---
 <Base
   title={`The Long Dark Tools — ${tools.length} tools with weight & warmth values`}
@@ -44,4 +61,5 @@ const rows = tools
       { href: "/rankings/", title: "Rankings", sub: "Best picks" },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>

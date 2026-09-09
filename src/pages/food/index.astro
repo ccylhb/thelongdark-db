@@ -19,6 +19,23 @@ const rows = food
     type: (x.fields?.type || "").slice(0, 30),
   }))
   .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+const __ld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://thelongdark-db.pages.dev/" },
+      { "@type": "ListItem", position: 2, name: "Food", item: "https://thelongdark-db.pages.dev/food/" },
+    ],
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Food",
+    mainEntityOfPage: "https://thelongdark-db.pages.dev/food/",
+  },
+];
+
 ---
 <Base
   title={`The Long Dark Food & Drink — ${food.length} items with calories, hydration & vitamin C`}
@@ -46,4 +63,5 @@ const rows = food
       { href: "/clothing/", title: "Clothing", sub: "Warmth & windproof values" },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>

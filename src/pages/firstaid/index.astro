@@ -17,6 +17,23 @@ const rows = firstaid
     weight: num1(x.fields?.weight),
   }))
   .sort((a: any, b: any) => a._sort.localeCompare(b._sort));
+const __ld = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://thelongdark-db.pages.dev/" },
+      { "@type": "ListItem", position: 2, name: "Firstaid", item: "https://thelongdark-db.pages.dev/firstaid/" },
+    ],
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Firstaid",
+    mainEntityOfPage: "https://thelongdark-db.pages.dev/firstaid/",
+  },
+];
+
 ---
 <Base
   title={`The Long Dark First Aid — ${firstaid.length} medical items with weight & unit stats`}
@@ -42,4 +59,5 @@ const rows = firstaid
       { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
     ]}
   />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(__ld)}></script>
 </Base>
