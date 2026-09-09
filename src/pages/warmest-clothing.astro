@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import DataTable from "../components/DataTable.astro";
+import clothing from "../data/thelongdark_clothing.json";
+const n = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? m[0] : "";
+};
+const wnum = (v: any) => {
+  const ms = String(v ?? "").match(/-?\d+(?:\.\d+)?/g);
+  return ms ? Math.max(...ms.map(Number)) : 0;
+};
+let data = clothing.slice();
+data = data.sort((a: any, b: any) => wnum(b.fields["warmth bonus"]) - wnum(a.fields["warmth bonus"]));
+const rows = data.map((x: any) => ({
+    name: `<a href="/clothing/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+
+    warmth: wnum(x.fields["warmth bonus"]),
+    wind: wnum(x.fields["windproof bonus"]),
+    water: (x.fields?.waterproofness || "").slice(0, 12),
+    protect: (x.fields?.protection || "").slice(0, 8),
+    slot: (x.fields["clothing slot"] || "").slice(0, 14),
+    weight: n(x.fields?.weight),
+  }));
+---
+<Base
+  title={`Warmest Clothing — Highest Warmth Bonus`}
+  description={`The Long Dark clothing ranked by warmth bonus, with windproofing, waterproofness and protection — the best layers for Interloper cold.`}
+>
+  <h1>Warmest Clothing — Highest Warmth Bonus</h1>
+  <p class="muted">The Long Dark clothing ranked by warmth bonus, with windproofing, waterproofness and protection — the best layers for Interloper cold.</p>
+  
+  <DataTable
+    id="warmest-clothing"
+    rows={rows as any}
+    searchPlaceholder="Filter..."
+    columns={[
+      { key: "name", label: "Clothing" },
+      { key: "warmth", label: "Warmth", type: "number" },
+      { key: "wind", label: "Windproof", type: "number" },
+      { key: "water", label: "Waterproof" },
+      { key: "protect", label: "Protection" },
+      { key: "slot", label: "Slot" },
+      { key: "weight", label: "Weight kg", type: "number" },
+    ]}
+  />
+</Base>

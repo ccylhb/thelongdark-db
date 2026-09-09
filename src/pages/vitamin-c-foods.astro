@@ -1,0 +1,43 @@
+---
+import Base from "../layouts/Base.astro";
+import DataTable from "../components/DataTable.astro";
+import food from "../data/thelongdark_food.json";
+const n = (v: any) => {
+  const m = String(v ?? "").match(/-?\d+(?:\.\d+)?/);
+  return m ? m[0] : "";
+};
+const vcnum = (v: any) => {
+  const ms = String(v ?? "").match(/\d+(?:\.\d+)?/g);
+  return ms ? Math.max(...ms.map(Number)) : 0;
+};
+let data = food.filter((x: any) => x.fields?.vitaminc);
+data = data.sort((a: any, b: any) => vcnum(b.fields.vitaminc) - vcnum(a.fields.vitaminc));
+const rows = data.map((x: any) => ({
+    name: `<a href="/food/${x.slug}/">${x.title}</a>${x.icon_file ? ` <img src="/icons/${x.icon_file}" alt="" width="22" height="22" style="vertical-align:middle" loading="lazy" />` : ""}`,
+
+    calories: n(x.fields?.calories),
+    hydration: n(x.fields?.hydration),
+    vitaminc: (x.fields?.vitaminc || "").slice(0, 24),
+    weight: n(x.fields?.weight),
+  }));
+---
+<Base
+  title={`Vitamin C Foods — Beat Scurvy`}
+  description={`Every The Long Dark food that restores vitamin C, ranked — plus calories and hydration. Scurvy is survivable when you know what to eat.`}
+>
+  <h1>Vitamin C Foods — Beat Scurvy</h1>
+  <p class="muted">Every The Long Dark food that restores vitamin C, ranked — plus calories and hydration. Scurvy is survivable when you know what to eat.</p>
+  
+  <DataTable
+    id="vitamin-c-foods"
+    rows={rows as any}
+    searchPlaceholder="Filter..."
+    columns={[
+      { key: "name", label: "Food" },
+      { key: "calories", label: "Calories (kcal)", type: "number" },
+      { key: "hydration", label: "Hydration %", type: "number" },
+      { key: "vitaminc", label: "Vitamin C" },
+      { key: "weight", label: "Weight kg", type: "number" },
+    ]}
+  />
+</Base>

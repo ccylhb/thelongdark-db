@@ -3,6 +3,8 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import EntryStats from "../../components/EntryStats.astro";
 import clothing from "../../data/thelongdark_clothing.json";
+import mesh from "../../data/mesh.json";
+import { introHtml } from "../../lib/mesh";
 
 export function getStaticPaths() {
   return clothing.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
@@ -13,6 +15,7 @@ const f = x.fields || {};
 const sameSlot = clothing
   .filter((o: any) => o.slug !== x.slug && (o.fields?.["clothing slot"] || "") === (f["clothing slot"] || ""))
   .slice(0, 6);
+const ihtml = introHtml(x.intro, mesh, x.title);
 ---
 <Base
   title={`${x.title} — The Long Dark clothing stats (warmth ${f["warmth bonus"] || "?"}°C, windproof ${f["windproof bonus"] || "?"}°C)`}
@@ -30,7 +33,7 @@ const sameSlot = clothing
   </p>
   {f.harvest && <p><strong>Harvest:</strong> {f.harvest}</p>}
   {f.repair && <p><strong>Repair:</strong> {f.repair}</p>}
-  {x.intro && <p>{x.intro}</p>}
+  {ihtml && <p set:html={ihtml}></p>}
   <Related
     links={[
       ...sameSlot.map((s: any) => ({

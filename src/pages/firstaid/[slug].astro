@@ -3,6 +3,8 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import EntryStats from "../../components/EntryStats.astro";
 import firstaid from "../../data/thelongdark_firstaid.json";
+import mesh from "../../data/mesh.json";
+import { introHtml } from "../../lib/mesh";
 
 export function getStaticPaths() {
   return firstaid.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
@@ -10,6 +12,7 @@ export function getStaticPaths() {
 
 const { x } = Astro.props as any;
 const f = x.fields || {};
+const ihtml = introHtml(x.intro, mesh, x.title);
 ---
 <Base
   title={`${x.title} — The Long Dark first aid stats (${f.weight || "?"} kg)`}
@@ -20,12 +23,14 @@ const f = x.fields || {};
     <span>{x.title}</span>
   </h1>
   <EntryStats entry={x} keys={["weight", "unit count", "unit name", "item type"]} labels={{ weight: "Weight (kg)", "unit count": "Units per pack", "unit name": "Unit", "item type": "Type" }} />
-  {x.intro && <p>{x.intro}</p>}
+  {ihtml && <p set:html={ihtml}></p>}
   <Related
     links={[
       { href: "/firstaid/", title: "All First Aid", sub: "Medical items table" },
       { href: "/afflictions/", title: "Afflictions", sub: "Conditions & treatments" },
       { href: "/search/", title: "A–Z Index", sub: "Every entry" },
+    
+      { href: "/rankings/", title: "Rankings", sub: "Best picks" },
     ]}
   />
 </Base>

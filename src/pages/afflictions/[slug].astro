@@ -3,6 +3,8 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import EntryStats from "../../components/EntryStats.astro";
 import aff from "../../data/thelongdark_afflictions.json";
+import mesh from "../../data/mesh.json";
+import { introHtml } from "../../lib/mesh";
 
 export function getStaticPaths() {
   return aff.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
@@ -10,6 +12,7 @@ export function getStaticPaths() {
 
 const { x } = Astro.props as any;
 const f = x.fields || {};
+const ihtml = introHtml(x.intro, mesh, x.title);
 ---
 <Base
   title={`${x.title} — The Long Dark affliction (treatment: ${f.treatment || "?"})`}
@@ -23,12 +26,14 @@ const f = x.fields || {};
   <EntryStats entry={x} keys={["type (benefit/injury/disease)", "affliction duration", "recoverytime", "+/- effect"]} labels={{ "type (benefit/injury/disease)": "Type", "affliction duration": "Duration", recoverytime: "Recovery", "+/- effect": "Effect" }} />
   {f["caused by"] && <p><strong>Caused by:</strong> {f["caused by"]}</p>}
   {f.treatment && <p><strong>Treatment:</strong> {f.treatment}</p>}
-  {x.intro && <p>{x.intro}</p>}
+  {ihtml && <p set:html={ihtml}></p>}
   <Related
     links={[
       { href: "/afflictions/", title: "All Afflictions", sub: "Conditions table" },
       { href: "/firstaid/", title: "First Aid", sub: "Medical items" },
       { href: "/food/", title: "Food & Drink", sub: "Stay fed & hydrated" },
+    
+      { href: "/rankings/", title: "Rankings", sub: "Best picks" },
     ]}
   />
 </Base>

@@ -3,6 +3,8 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import EntryStats from "../../components/EntryStats.astro";
 import tools from "../../data/thelongdark_tools.json";
+import mesh from "../../data/mesh.json";
+import { introHtml } from "../../lib/mesh";
 
 export function getStaticPaths() {
   return tools.map((x: any) => ({ params: { slug: x.slug }, props: { x } }));
@@ -11,6 +13,7 @@ export function getStaticPaths() {
 const { x } = Astro.props as any;
 const f = x.fields || {};
 const similar = tools.slice(0, 0);
+const ihtml = introHtml(x.intro, mesh, x.title);
 ---
 <Base
   title={`${x.title} — The Long Dark tool stats (weight ${f.weight || "?"} kg)`}
@@ -26,12 +29,14 @@ const similar = tools.slice(0, 0);
     {f.type && <span class="tag" style="margin:0.1rem">{f.type}</span>}
     {f.renewable && <span class="tag" style="margin:0.1rem">Renewable</span>}
   </p>
-  {x.intro && <p>{x.intro}</p>}
+  {ihtml && <p set:html={ihtml}></p>}
   <Related
     links={[
       { href: "/tools/", title: "All Tools", sub: "Sortable table" },
       { href: "/food/", title: "Food & Drink", sub: "Calories & hydration" },
       { href: "/calorie-calculator/", title: "Calorie Calculator", sub: "Plan your intake", tool: true },
+    
+      { href: "/rankings/", title: "Rankings", sub: "Best picks" },
     ]}
   />
 </Base>
