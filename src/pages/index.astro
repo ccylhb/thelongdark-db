@@ -1,6 +1,8 @@
 ---
 import Base from "../layouts/Base.astro";
 import Related from "../components/Related.astro";
+import updates from "../data/updates.json";
+
 import food from "../data/thelongdark_food.json";
 import clothing from "../data/thelongdark_clothing.json";
 import tools from "../data/thelongdark_tools.json";
@@ -48,6 +50,14 @@ const bestCloth = clothing
       <div class="stat-label">Tools · gear</div>
       <p class="muted" style="font-size:0.9rem">Tools and fire starting with weights and warmth values.</p>
     </a>
+  </div>
+
+
+  <h2>What changed</h2>
+  <div class="card updates-card">
+    {updates.slice(0, 5).map((u) => (
+      <p class="update-line"><span class="dot">●</span> <a href={u.href}>{u.text}</a> <span class="muted">— {u.date}</span></p>
+    ))}
   </div>
 
   <h2>Jump to the answer</h2>
