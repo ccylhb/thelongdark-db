@@ -1,4 +1,5 @@
 ---
+const SITE = Astro.site?.origin ?? "";
 import Base from "../layouts/Base.astro";
 import DataTable from "../components/DataTable.astro";
 import food from "../data/thelongdark_food.json";
@@ -26,7 +27,7 @@ const __ld = [
     "@type": "Article",
     headline: `Vitamin C Foods — Beat Scurvy`,
     description: `Every The Long Dark food that restores vitamin C, ranked — plus calories and hydration. Scurvy is survivable when you know what to eat.`,
-    mainEntityOfPage: "https://thelongdark-db.pages.dev/vitamin-c-foods/",
+    mainEntityOfPage: SITE + "/vitamin-c-foods/",
   },
 ];
 

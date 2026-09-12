@@ -1,4 +1,5 @@
 ---
+const SITE = Astro.site?.origin ?? "";
 import Base from "../../layouts/Base.astro";
 import DataTable from "../../components/DataTable.astro";
 import Related from "../../components/Related.astro";
@@ -23,15 +24,15 @@ const __ld = [
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://thelongdark-db.pages.dev/" },
-      { "@type": "ListItem", position: 2, name: "Tools", item: "https://thelongdark-db.pages.dev/tools/" },
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE + "/" },
+      { "@type": "ListItem", position: 2, name: "Tools", item: SITE + "/tools/" },
     ],
   },
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     name: "Tools",
-    mainEntityOfPage: "https://thelongdark-db.pages.dev/tools/",
+    mainEntityOfPage: SITE + "/tools/",
   },
 ];
 
