@@ -134,15 +134,38 @@ def clean(v):
     v = re.sub(r"\[(https?://\S+)\s+([^\]]+)\]", r"\2", v)
     v = re.sub(r"\[(https?://\S+)\]", "", v)
     v = v.replace("'''", "").replace("''", "")
+    # 兜底：清掉被截断的模板尾巴与孤立括号（残留形如 '… Hunger. }'）
+    v = re.sub(r"\{\{[^{}]*$", "", v)
+    v = v.replace("}", "").replace("{", "")
     return re.sub(r"\s+", " ", v).strip()
 
 
+def drop_leading_templates(t: str) -> str:
+    """按括号深度剥掉开头的连续模板块（含前置的 [[File:...]]）。
+
+    旧写法用 re.search 定位「第一个右括号对」来跳过 infobox：只要 infobox 里
+    有嵌套模板、或正文中出现内联模板，就会切在模板内部，正文变成 '}}' /
+    'to unlock.' / 'and 4 x |recoverytime=...' 这类残渣（跨站上千条）。
+    """
+    while True:
+        t = re.sub(r"^\s*\[\[(?:File|Image):[^\]]*\]\]\s*", "", t)
+        m = re.search(r"\{\{", t)
+        if not m or t[: m.start()].strip():
+            return t
+        depth, j = 0, m.start()
+        while j < len(t):
+            if t[j] == "{":
+                depth += 1
+            elif t[j] == "}":
+                depth -= 1
+                if depth == 0:
+                    break
+            j += 1
+        t = t[: m.start()] + t[j + 1 :]
+
+
 def first_para(wt):
-    body = strip_comments(wt)
-    # drop infobox region
-    m = re.search(r"\}\}", body)
-    if m:
-        body = body[m.end():]
+    body = drop_leading_templates(strip_comments(wt))
     for ln in body.splitlines():
         ln = ln.strip()
         if ln and not ln.startswith(("=", "{", "|", "[[", "<", "#")):
@@ -160,6 +183,27 @@ def cat_members(cat):
         if not cont:
             return titles
         time.sleep(0.4)
+
+
+# --- wiki 魔术字展开 ---------------------------------------------------------
+# 清洗器用 re.sub(r"\{\{[^{}]*\}\}", "", v) 整段删无名模板，{{PAGENAME}}（条目名）
+# 随之消失，正文出现 "The is a ..." 残句。必须在清洗前展开成真实文本。
+_MAGIC_TITLE = re.compile(r"\{\{\s*(?:SUB|BASE|FULL)?PAGENAME(?:E)?\s*\}\}", re.I)
+_MAGIC_GAME = re.compile(r"\{\{\s*(?:Gamename|Game|SITENAME|Sitename)\s*\}\}", re.I)
+_MAGIC_DROP = re.compile(
+    r"\{\{\s*(?:DISPLAYTITLE|DEFAULTSORT|#(?:expr|var|if|ifeq|ifexist|switch|tag|invoke|time|pos|len|replace|sub|explode|titleparts)[^}]*)\}\}",
+    re.I,
+)
+
+
+def expand_magic(wt, title):
+    """把 {{PAGENAME}} 换成条目名，丢弃解析器函数等元魔术字。"""
+    if not wt:
+        return wt
+    wt = _MAGIC_TITLE.sub(lambda _m: title, wt)
+    wt = _MAGIC_GAME.sub("The Long Dark", wt)
+    wt = _MAGIC_DROP.sub("", wt)
+    return wt
 
 
 def fetch_wikitexts(titles, cache_path):
@@ -218,6 +262,8 @@ def main():
     print(f"[total] {len(all_titles)} unique pages")
     cache = os.path.join(CACHE_DIR, "wikitexts.json")
     wts = fetch_wikitexts(all_titles, cache)
+    # 展开 wiki 魔术字（缓存保持原始，每次解析重展开，便于回滚）
+    wts = {t: expand_magic(wt, t) for t, wt in wts.items()}
     # 2) route + parse (first infobox wins; board by source; global dedupe)
     global_seen = set()
     for board, titles in board_titles.items():

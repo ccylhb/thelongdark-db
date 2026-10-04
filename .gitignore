@@ -3,3 +3,6 @@ dist/
 scripts/cache/
 scripts/icon_fails.json
 .wrangler/
+_bak_tmp*/
+dist.bak/
+_push.log

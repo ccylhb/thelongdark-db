@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thelongdark-db.pages.dev/sitemap.xml
+Sitemap: https://thelongdark.lootseer.com/sitemap.xml
