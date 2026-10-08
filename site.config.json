@@ -52,6 +52,16 @@
     {
       "href": "/search/",
       "label": "A-Z"
+    },
+    {
+      "href": "/vitamin-c-foods/",
+      "label": "Vitamin C",
+      "tool": true
+    },
+    {
+      "href": "/warmest-clothing/",
+      "label": "Warmest Clothing",
+      "tool": true
     }
   ],
   "sisterSites": [
