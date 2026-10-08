@@ -20,13 +20,64 @@
     "bad": "#c75146"
   },
   "nav": [
-    { "href": "/food/", "label": "Food" },
-    { "href": "/clothing/", "label": "Clothing" },
-    { "href": "/tools/", "label": "Tools" },
-    { "href": "/firstaid/", "label": "First Aid" },
-    { "href": "/afflictions/", "label": "Afflictions" },
-    { "href": "/rankings/", "label": "Rankings" },
-    { "href": "/calorie-calculator/", "label": "Calorie Calculator", "tool": true },
-    { "href": "/search/", "label": "A-Z" }
-  ]
+    {
+      "href": "/food/",
+      "label": "Food"
+    },
+    {
+      "href": "/clothing/",
+      "label": "Clothing"
+    },
+    {
+      "href": "/tools/",
+      "label": "Tools"
+    },
+    {
+      "href": "/firstaid/",
+      "label": "First Aid"
+    },
+    {
+      "href": "/afflictions/",
+      "label": "Afflictions"
+    },
+    {
+      "href": "/rankings/",
+      "label": "Rankings"
+    },
+    {
+      "href": "/calorie-calculator/",
+      "label": "Calorie Calculator",
+      "tool": true
+    },
+    {
+      "href": "/search/",
+      "label": "A-Z"
+    }
+  ],
+  "sisterSites": [
+    {
+      "name": "ValheimDB",
+      "url": "https://valheim.lootseer.com",
+      "blurb": "Weapon damage per tier, food health and creature resistances."
+    },
+    {
+      "name": "DayZDB",
+      "url": "https://dayz.lootseer.com",
+      "blurb": "Food energy, water, ammo damage and penetration."
+    },
+    {
+      "name": "EmberDB",
+      "url": "https://enshrouded.lootseer.com",
+      "blurb": "Items, recipes, locations and guides with sortable infoboxes."
+    },
+    {
+      "name": "TimberDB",
+      "url": "https://sons.lootseer.com",
+      "blurb": "Weapons, animals and crafting with the stats the UI hides."
+    }
+  ],
+  "hubSite": {
+    "name": "LootSeer",
+    "url": "https://lootseer.com"
+  }
 }
