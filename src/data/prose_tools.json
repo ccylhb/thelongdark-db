@@ -1,0 +1,1072 @@
+{
+ "a-sewing-primer": {
+  "lead": "A Sewing Primer is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall A Sewing Primer is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "a-skeleton-and-note": {
+  "lead": "A Skeleton And Note is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall A Skeleton And Note is a Tools item used from the inventory rather than equipped."
+ },
+ "accelerant": {
+  "lead": "Accelerant is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Accelerant is a tool item."
+ },
+ "advanced-guns-guns-guns": {
+  "lead": "Advanced Guns Guns Guns! is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Advanced Guns Guns Guns! is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "astrids-backpack": {
+  "lead": "Astrid's Backpack is a tool item in The Long Dark. It weighs 5 kg.",
+  "body": [
+   "Within the tool group its 5 kg is among the lighter of the 43 entries here (#2)."
+  ],
+  "verdict": "Overall Astrid's Backpack is a tool item."
+ },
+ "barbs-rifle": {
+  "lead": "Barb's Rifle is a Tools item in The Long Dark. It weighs 4.5 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 4.5 kg is among the lighter of the 67 entries here (#3).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Barb's Rifle is a Tools item."
+ },
+ "bear-skin-bedroll": {
+  "lead": "Bear Skin Bedroll is a tool item in The Long Dark. It weighs 3 kg.",
+  "body": [
+   "Within the tool group its 3 kg is among the lighter of the 43 entries here (#7)."
+  ],
+  "verdict": "Overall Bear Skin Bedroll is a tool item."
+ },
+ "bear-spear": {
+  "lead": "Bear Spear is a Tools item in The Long Dark. It weighs 4 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 4 kg is among the lighter of the 67 entries here (#4).",
+   "Available actions: Examine."
+  ],
+  "verdict": "Overall Bear Spear is a Tools item."
+ },
+ "bedroll": {
+  "lead": "Bedroll is a tool item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Within the tool group its 1 kg is mid-pack on weight of the 43 entries here (#13)."
+  ],
+  "verdict": "Overall Bedroll is a tool item."
+ },
+ "bolt-cutters": {
+  "lead": "Bolt Cutters is a Tools item in The Long Dark. It weighs 1.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 1.5 kg is among the lighter of the 67 entries here (#11).",
+   "Available actions: Pick Up, Examine, Drop."
+  ],
+  "verdict": "Overall Bolt Cutters is a Tools item used from the inventory rather than equipped."
+ },
+ "book": {
+  "lead": "Book is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Book is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "brand": {
+  "lead": "Brand is a Tools item in The Long Dark. It weighs 0.3 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.3 kg is mid-pack on weight of the 67 entries here (#31)."
+  ],
+  "verdict": "Overall Brand is a Tools item."
+ },
+ "broken-arrow": {
+  "lead": "Broken Arrow is a tool item in The Long Dark. It weighs 0.15 kg.",
+  "body": [
+   "Within the tool group its 0.15 kg is mid-pack on weight of the 43 entries here (#30)."
+  ],
+  "verdict": "Overall Broken Arrow is a tool item."
+ },
+ "broken-bear-spear": {
+  "lead": "Broken Bear Spear is a Tools item in The Long Dark. It weighs 3.75 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 3.75 kg is among the lighter of the 67 entries here (#8).",
+   "Available actions: Examine."
+  ],
+  "verdict": "Overall Broken Bear Spear is a Tools item used from the inventory rather than equipped."
+ },
+ "broken-fire-hardened-arrow": {
+  "lead": "Broken Fire Hardened Arrow is a Tools item in The Long Dark. It weighs 0.15 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.15 kg is mid-pack on weight of the 67 entries here (#38).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Broken Fire Hardened Arrow is a Tools item used from the inventory rather than equipped."
+ },
+ "broken-hatch-wheel": {
+  "lead": "Broken Hatch Wheel is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Broken Hatch Wheel is a Tools item used from the inventory rather than equipped."
+ },
+ "broken-manufactured-arrow": {
+  "lead": "Broken Manufactured Arrow is a Tools item in The Long Dark. It weighs 0.15 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.15 kg is mid-pack on weight of the 67 entries here (#38)."
+  ],
+  "verdict": "Overall Broken Manufactured Arrow is a Tools item used from the inventory rather than equipped."
+ },
+ "bunker-rifle": {
+  "lead": "Bunker Rifle is a Tools item in The Long Dark. It weighs 1.5 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1.5 kg is among the lighter of the 67 entries here (#11).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Bunker Rifle is a Tools item."
+ },
+ "burned-out-fuse": {
+  "lead": "Burned Out Fuse is a Tools item in The Long Dark. It weighs 0.2 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.2 kg is mid-pack on weight of the 67 entries here (#34)."
+  ],
+  "verdict": "Overall Burned Out Fuse is a Tools item used from the inventory rather than equipped."
+ },
+ "bushcraft-bow": {
+  "lead": "Bushcraft Bow is a Tools item in The Long Dark. It weighs 0.5 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.5 kg is mid-pack on weight of the 67 entries here (#25).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Bushcraft Bow is a Tools item."
+ },
+ "camera": {
+  "lead": "Camera is a Tools item in The Long Dark. It weighs 0 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Camera is a Tools item."
+ },
+ "campfire": {
+  "lead": "Campfire is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Campfire is a firebox item."
+ },
+ "can-opener": {
+  "lead": "Can Opener is a Tools item in The Long Dark. It weighs 0.25 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.25 kg is mid-pack on weight of the 67 entries here (#33).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Can Opener is a Tools item used from the inventory rather than equipped."
+ },
+ "can-of-gunpowder": {
+  "lead": "Can of Gunpowder is a Tools item in The Long Dark. It weighs 0.5 kg.",
+  "body": [
+   "Within the Tools group its 0.5 kg is mid-pack on weight of the 67 entries here (#25).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Can of Gunpowder is a Tools item."
+ },
+ "car-battery": {
+  "lead": "Car Battery is a tool item in The Long Dark. It weighs 15 kg.",
+  "body": [
+   "Within the tool group its 15 kg is the lightest of the 43 entries here (#1)."
+  ],
+  "verdict": "Overall Car Battery is a tool item."
+ },
+ "cardboard-matches": {
+  "lead": "Cardboard Matches is a tool item in The Long Dark. It weighs 0.01 kg.",
+  "body": [
+   "Within the tool group its 0.01 kg is one of the heavier of the 43 entries here (#43).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Cardboard Matches is a tool item."
+ },
+ "cash": {
+  "lead": "Cash is a Fire Starting item in The Long Dark. It weighs 0.05 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.05 kg is one of the heavier of the 20 entries here (#19).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Cash is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "cat-tail-head": {
+  "lead": "Cat Tail Head is a Fire Starting item in The Long Dark. It weighs 0.05 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.05 kg is one of the heavier of the 20 entries here (#19).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Cat Tail Head is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "cedar-firewood": {
+  "lead": "Cedar Firewood is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Cedar Firewood is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "charcoal": {
+  "lead": "Charcoal is a Tools item in The Long Dark. It weighs 0.1 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.1 kg is mid-pack on weight of the 67 entries here (#43).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Charcoal is a Tools item."
+ },
+ "coal": {
+  "lead": "Coal is a Fire Starting item in The Long Dark. It weighs 0.3 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.3 kg is one of the heavier of the 20 entries here (#15).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Coal is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "cooking-pot": {
+  "lead": "Cooking Pot is a Tools item in The Long Dark. It weighs 1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 1 kg is among the lighter of the 67 entries here (#17).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Cooking Pot is a Tools item used from the inventory rather than equipped."
+ },
+ "cooking-skillet": {
+  "lead": "Cooking Skillet is a Tools item in The Long Dark. It weighs 1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 1 kg is among the lighter of the 67 entries here (#17).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Cooking Skillet is a Tools item used from the inventory rather than equipped."
+ },
+ "cougar-claw-knife": {
+  "lead": "Cougar Claw Knife is a Tools item in The Long Dark. It weighs 0.6 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.6 kg is mid-pack on weight of the 67 entries here (#24)."
+  ],
+  "verdict": "Overall Cougar Claw Knife is a Tools item used from the inventory rather than equipped."
+ },
+ "crank-light": {
+  "lead": "Crank Light is a Tools item in The Long Dark. It weighs 1 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1 kg is among the lighter of the 67 entries here (#17).",
+   "Available actions: Turn on. Turn off. Crank handle."
+  ],
+  "verdict": "Overall Crank Light is a Tools item."
+ },
+ "curators-rifle": {
+  "lead": "Curator's Rifle is a Tools item in The Long Dark. It weighs 4 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 4 kg is among the lighter of the 67 entries here (#4).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Curator's Rifle is a Tools item."
+ },
+ "distress-pistol": {
+  "lead": "Distress Pistol is a Tools item in The Long Dark. It weighs 0.4 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.4 kg is mid-pack on weight of the 67 entries here (#29).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Distress Pistol is a Tools item."
+ },
+ "distress-pistol-kit": {
+  "lead": "Distress Pistol Kit is a tool item in The Long Dark. It weighs 5 kg.",
+  "body": [
+   "Within the tool group its 5 kg is among the lighter of the 43 entries here (#2)."
+  ],
+  "verdict": "Overall Distress Pistol Kit is a tool item."
+ },
+ "document-stash-1": {
+  "lead": "Document Stash 1 is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Document Stash 1 is a Tools item used from the inventory rather than equipped."
+ },
+ "document-stash-2": {
+  "lead": "Document Stash 2 is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Document Stash 2 is a Tools item used from the inventory rather than equipped."
+ },
+ "document-stash-3": {
+  "lead": "Document Stash 3 is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Document Stash 3 is a Tools item used from the inventory rather than equipped."
+ },
+ "document-stash-4": {
+  "lead": "Document Stash 4 is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Document Stash 4 is a Tools item used from the inventory rather than equipped."
+ },
+ "emergency-food": {
+  "lead": "Emergency Food is a tool item in The Long Dark. It weighs 5 kg.",
+  "body": [
+   "Within the tool group its 5 kg is among the lighter of the 43 entries here (#2)."
+  ],
+  "verdict": "Overall Emergency Food is a tool item."
+ },
+ "field-dressing-your-kill-vol-i": {
+  "lead": "Field Dressing Your Kill, Vol. I is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Field Dressing Your Kill, Vol. I is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "fir-firewood": {
+  "lead": "Fir Firewood is a Fire Starting item in The Long Dark. It weighs 1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 1 kg is among the lighter of the 20 entries here (#2).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Fir Firewood is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "fire-barrel": {
+  "lead": "Fire Barrel is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Fire Barrel is a firebox item."
+ },
+ "fire-hardened-arrow": {
+  "lead": "Fire Hardened Arrow is a Tools item in The Long Dark. It weighs 0.1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.1 kg is mid-pack on weight of the 67 entries here (#43).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Fire Hardened Arrow is a Tools item used from the inventory rather than equipped."
+ },
+ "firearm-cleaning-kit": {
+  "lead": "Firearm Cleaning Kit is a Tools item in The Long Dark. It weighs 0.1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.1 kg is mid-pack on weight of the 67 entries here (#43).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Firearm Cleaning Kit is a Tools item used from the inventory rather than equipped."
+ },
+ "firelog": {
+  "lead": "Firelog is a Fire Starting item in The Long Dark. It weighs 2 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 2 kg is the lightest of the 20 entries here (#1).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Firelog is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "fireplace": {
+  "lead": "Fireplace is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Fireplace is a firebox item."
+ },
+ "firestriker": {
+  "lead": "Firestriker is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Firestriker is a tool item."
+ },
+ "first-aid-kit-tool": {
+  "lead": "First Aid Kit (tool) is a Tools item in The Long Dark. It weighs 5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 5 kg is the lightest of the 67 entries here (#1)."
+  ],
+  "verdict": "Overall First Aid Kit (tool) is a Tools item used from the inventory rather than equipped."
+ },
+ "fishing-bait": {
+  "lead": "Fishing Bait is a Tools item in The Long Dark. It weighs 0.05 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.05 kg is one of the heavier of the 67 entries here (#48).",
+   "Available actions: Use, Actions, Drop.",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Fishing Bait is a Tools item used from the inventory rather than equipped."
+ },
+ "fishing-lure-acorns": {
+  "lead": "Fishing Lure (Acorns) is a Tools item in The Long Dark. It weighs 0.01 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52)."
+  ],
+  "verdict": "Overall Fishing Lure (Acorns) is a Tools item used from the inventory rather than equipped."
+ },
+ "fishing-lure-revolver-shell-casing": {
+  "lead": "Fishing Lure (Revolver Shell Casing) is a Tools item in The Long Dark. It weighs 0.01 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52)."
+  ],
+  "verdict": "Overall Fishing Lure (Revolver Shell Casing) is a Tools item used from the inventory rather than equipped."
+ },
+ "fishing-lure-wire-bundle": {
+  "lead": "Fishing Lure (Wire Bundle) is a Tools item in The Long Dark. It weighs 0.01 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52)."
+  ],
+  "verdict": "Overall Fishing Lure (Wire Bundle) is a Tools item used from the inventory rather than equipped."
+ },
+ "fishing-tackle": {
+  "lead": "Fishing Tackle is a Tools item in The Long Dark. It weighs 0.02 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.02 kg is one of the heavier of the 67 entries here (#50).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Fishing Tackle is a Tools item used from the inventory rather than equipped."
+ },
+ "fishing-tip-up": {
+  "lead": "Fishing Tip-Up is a Tools item in The Long Dark. It weighs 0.3 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.3 kg is mid-pack on weight of the 67 entries here (#31).",
+   "Available actions: Place, Drop, Leave."
+  ],
+  "verdict": "Overall Fishing Tip-Up is a Tools item used from the inventory rather than equipped."
+ },
+ "flare": {
+  "lead": "Flare is a tool item in The Long Dark. It weighs 0.25 kg.",
+  "body": [
+   "Within the tool group its 0.25 kg is mid-pack on weight of the 43 entries here (#28).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Flare is a tool item."
+ },
+ "flare-shell": {
+  "lead": "Flare Shell is a Tools item in The Long Dark. It weighs 0.05 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.05 kg is one of the heavier of the 67 entries here (#48).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Flare Shell is a Tools item used from the inventory rather than equipped."
+ },
+ "flashlight": {
+  "lead": "Flashlight is a tool item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Within the tool group its 1 kg is mid-pack on weight of the 43 entries here (#13)."
+  ],
+  "verdict": "Overall Flashlight is a tool item."
+ },
+ "foresters-revolver": {
+  "lead": "Forester's Revolver is a Tools item in The Long Dark. It weighs 1.5 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1.5 kg is among the lighter of the 67 entries here (#11).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Forester's Revolver is a Tools item."
+ },
+ "frontier-shooting-guide": {
+  "lead": "Frontier Shooting Guide is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Frontier Shooting Guide is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "furnace": {
+  "lead": "Furnace is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Furnace is a firebox item."
+ },
+ "hacksaw": {
+  "lead": "Hacksaw is a tool item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Within the tool group its 1 kg is mid-pack on weight of the 43 entries here (#13).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Hacksaw is a tool item."
+ },
+ "handheld-shortwave-radio": {
+  "lead": "Handheld Shortwave Radio is a Tools item in The Long Dark. It weighs 0 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Handheld Shortwave Radio is a Tools item."
+ },
+ "hatchet": {
+  "lead": "Hatchet is a tool item in The Long Dark. It weighs 1.5 kg.",
+  "body": [
+   "Within the tool group its 1.5 kg is among the lighter of the 43 entries here (#10).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Hatchet is a tool item."
+ },
+ "heavy-hammer": {
+  "lead": "Heavy Hammer is a tool item in The Long Dark. It weighs 2 kg.",
+  "body": [
+   "Within the tool group its 2 kg is among the lighter of the 43 entries here (#8).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Heavy Hammer is a tool item."
+ },
+ "hook": {
+  "lead": "Hook is a Tools item in The Long Dark. It weighs 0.01 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Hook is a Tools item used from the inventory rather than equipped."
+ },
+ "hunters-revolver": {
+  "lead": "Hunter's Revolver is a Tools item in The Long Dark. It weighs 1.75 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1.75 kg is among the lighter of the 67 entries here (#10).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Hunter's Revolver is a Tools item."
+ },
+ "hunting-knife": {
+  "lead": "Hunting Knife is a tool item in The Long Dark. It weighs 0.5 kg.",
+  "body": [
+   "Within the tool group its 0.5 kg is mid-pack on weight of the 43 entries here (#23).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Hunting Knife is a tool item."
+ },
+ "hunting-lodge-rifle": {
+  "lead": "Hunting Lodge Rifle is a Tools item in The Long Dark. It weighs 4 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 4 kg is among the lighter of the 67 entries here (#4).",
+   "Available actions: Examine."
+  ],
+  "verdict": "Overall Hunting Lodge Rifle is a Tools item used from the inventory rather than equipped."
+ },
+ "hunting-rifle": {
+  "lead": "Hunting Rifle is a tool item in The Long Dark. It weighs 4 kg.",
+  "body": [
+   "Within the tool group its 4 kg is among the lighter of the 43 entries here (#5).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Hunting Rifle is a tool item."
+ },
+ "improvised-down-bedroll": {
+  "lead": "Improvised Down Bedroll is a tool item in The Long Dark. It weighs 1.1 kg.",
+  "body": [
+   "Within the tool group its 1.1 kg is among the lighter of the 43 entries here (#12)."
+  ],
+  "verdict": "Overall Improvised Down Bedroll is a tool item."
+ },
+ "improvised-hatchet": {
+  "lead": "Improvised Hatchet is a tool item in The Long Dark. It weighs 1.75 kg.",
+  "body": [
+   "Within the tool group its 1.75 kg is among the lighter of the 43 entries here (#9).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Improvised Hatchet is a tool item."
+ },
+ "improvised-knife": {
+  "lead": "Improvised Knife is a tool item in The Long Dark. It weighs 0.75 kg.",
+  "body": [
+   "Within the tool group its 0.75 kg is mid-pack on weight of the 43 entries here (#19).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Improvised Knife is a tool item."
+ },
+ "insulated-flask": {
+  "lead": "Insulated Flask is a Tools item in The Long Dark. It weighs 0.2 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.2 kg is mid-pack on weight of the 67 entries here (#34)."
+  ],
+  "verdict": "Overall Insulated Flask is a Tools item used from the inventory rather than equipped."
+ },
+ "jeremiahs-knife": {
+  "lead": "Jeremiah's Knife is a Tools item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.5 kg is mid-pack on weight of the 67 entries here (#25).",
+   "Available actions: Pick Up, Examine, Drop."
+  ],
+  "verdict": "Overall Jeremiah's Knife is a Tools item used from the inventory rather than equipped."
+ },
+ "jerry-can": {
+  "lead": "Jerry Can is a tool item in The Long Dark. It weighs 3.3 kg.",
+  "body": [
+   "Within the tool group its 3.3 kg is among the lighter of the 43 entries here (#6).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Jerry Can is a tool item."
+ },
+ "lantern-fuel": {
+  "lead": "Lantern Fuel is a tool item in The Long Dark. It weighs 0.5 kg.",
+  "body": [
+   "Within the tool group its 0.5 kg is mid-pack on weight of the 43 entries here (#23).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Lantern Fuel is a tool item."
+ },
+ "line": {
+  "lead": "Line is a Tools item in The Long Dark. It weighs 0.01 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Line is a Tools item used from the inventory rather than equipped."
+ },
+ "magnifying-lens": {
+  "lead": "Magnifying Lens is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Magnifying Lens is a tool item."
+ },
+ "manufactured-arrow": {
+  "lead": "Manufactured Arrow is a Tools item in The Long Dark. It weighs 0.15 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.15 kg is mid-pack on weight of the 67 entries here (#38).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Manufactured Arrow is a Tools item used from the inventory rather than equipped."
+ },
+ "marine-flare": {
+  "lead": "Marine Flare is a tool item in The Long Dark. It weighs 0.25 kg.",
+  "body": [
+   "Within the tool group its 0.25 kg is mid-pack on weight of the 43 entries here (#28).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Marine Flare is a tool item."
+ },
+ "miners-flashlight": {
+  "lead": "Miner's Flashlight is a Tools item in The Long Dark. It weighs 1.25 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1.25 kg is among the lighter of the 67 entries here (#15).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Miner's Flashlight is a Tools item."
+ },
+ "mountaineering-rope": {
+  "lead": "Mountaineering Rope is a Tools item in The Long Dark. It weighs 5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 5 kg is the lightest of the 67 entries here (#1).",
+   "Available actions: Examine."
+  ],
+  "verdict": "Overall Mountaineering Rope is a Tools item used from the inventory rather than equipped."
+ },
+ "newsprint": {
+  "lead": "Newsprint is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32)."
+  ],
+  "verdict": "Overall Newsprint is a tool item."
+ },
+ "newsprint-roll": {
+  "lead": "Newsprint Roll is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32)."
+  ],
+  "verdict": "Overall Newsprint Roll is a tool item."
+ },
+ "noisemaker": {
+  "lead": "Noisemaker is a Tools item in The Long Dark. It weighs 0.2 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.2 kg is mid-pack on weight of the 67 entries here (#34).",
+   "Available actions: Drop."
+  ],
+  "verdict": "Overall Noisemaker is a Tools item."
+ },
+ "pot-belly-stove": {
+  "lead": "Pot Belly Stove is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Pot Belly Stove is a firebox item."
+ },
+ "practical-gunsmithing": {
+  "lead": "Practical Gunsmithing is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Practical Gunsmithing is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "prybar": {
+  "lead": "Prybar is a tool item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Within the tool group its 1 kg is mid-pack on weight of the 43 entries here (#13)."
+  ],
+  "verdict": "Overall Prybar is a tool item."
+ },
+ "quality-tools": {
+  "lead": "Quality Tools is a tool item in The Long Dark. It weighs 0.75 kg.",
+  "body": [
+   "Within the tool group its 0.75 kg is mid-pack on weight of the 43 entries here (#19).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Quality Tools is a tool item."
+ },
+ "reclaimed-wood": {
+  "lead": "Reclaimed Wood is a Fire Starting item in The Long Dark. It weighs 0.25 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.25 kg is one of the heavier of the 20 entries here (#17).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Reclaimed Wood is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "recycled-can": {
+  "lead": "Recycled Can is a Tools item in The Long Dark. It weighs 0.15 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.15 kg is mid-pack on weight of the 67 entries here (#38).",
+   "Available actions: Use, Actions, Drop.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Recycled Can is a Tools item used from the inventory rather than equipped."
+ },
+ "replacement-fuse": {
+  "lead": "Replacement Fuse is a Tools item in The Long Dark. It weighs 0.2 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.2 kg is mid-pack on weight of the 67 entries here (#34)."
+  ],
+  "verdict": "Overall Replacement Fuse is a Tools item used from the inventory rather than equipped."
+ },
+ "revolver": {
+  "lead": "Revolver is a tool item in The Long Dark. It weighs 1.5 kg.",
+  "body": [
+   "Within the tool group its 1.5 kg is among the lighter of the 43 entries here (#10).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Revolver is a tool item."
+ },
+ "revolver-ammunition": {
+  "lead": "Revolver Ammunition is a tool item in The Long Dark. It weighs 0.02 kg.",
+  "body": [
+   "Within the tool group its 0.02 kg is one of the heavier of the 43 entries here (#40).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Revolver Ammunition is a tool item."
+ },
+ "rifle-ammunition": {
+  "lead": "Rifle Ammunition is a tool item in The Long Dark. It weighs 0.02 kg.",
+  "body": [
+   "Within the tool group its 0.02 kg is one of the heavier of the 43 entries here (#40).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Rifle Ammunition is a tool item."
+ },
+ "rim-grill": {
+  "lead": "Rim Grill is a tool item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Rim Grill is a tool item."
+ },
+ "scrap-metal-shard": {
+  "lead": "Scrap Metal Shard is a tool item in The Long Dark. It weighs 0.3 kg.",
+  "body": [
+   "Within the tool group its 0.3 kg is mid-pack on weight of the 43 entries here (#26)."
+  ],
+  "verdict": "Overall Scrap Metal Shard is a tool item."
+ },
+ "sewing-kit": {
+  "lead": "Sewing Kit is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Sewing Kit is a tool item."
+ },
+ "shotgun": {
+  "lead": "Shotgun is a Tools item in The Long Dark. It weighs 4 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 4 kg is among the lighter of the 67 entries here (#4).",
+   "Available actions: Use, Unload, Drop."
+  ],
+  "verdict": "Overall Shotgun is a Tools item."
+ },
+ "shotgun-ammunition": {
+  "lead": "Shotgun Ammunition is a Tools item in The Long Dark. It weighs 0.02 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.02 kg is one of the heavier of the 67 entries here (#50).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Shotgun Ammunition is a Tools item used from the inventory rather than equipped."
+ },
+ "shotgun-shell-casing": {
+  "lead": "Shotgun Shell Casing is a Tools item in The Long Dark. It weighs 0.01 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Shotgun Shell Casing is a Tools item used from the inventory rather than equipped."
+ },
+ "simple-arrow": {
+  "lead": "Simple Arrow is a tool item in The Long Dark. It weighs 0.15 kg.",
+  "body": [
+   "Within the tool group its 0.15 kg is mid-pack on weight of the 43 entries here (#30).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Simple Arrow is a tool item."
+ },
+ "simple-fishing-lure": {
+  "lead": "Simple Fishing Lure is a Tools item in The Long Dark. It weighs 0.01 kg.",
+  "body": [
+   "Within the Tools group its 0.01 kg is one of the heavier of the 67 entries here (#52).",
+   "Available actions: Drop."
+  ],
+  "verdict": "Overall Simple Fishing Lure is a Tools item."
+ },
+ "simple-tools": {
+  "lead": "Simple Tools is a tool item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Within the tool group its 1 kg is mid-pack on weight of the 43 entries here (#13)."
+  ],
+  "verdict": "Overall Simple Tools is a tool item."
+ },
+ "small-arms-handbook": {
+  "lead": "Small Arms Handbook is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Small Arms Handbook is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "snare": {
+  "lead": "Snare is a tool item in The Long Dark. It weighs 0.3 kg.",
+  "body": [
+   "Within the tool group its 0.3 kg is mid-pack on weight of the 43 entries here (#26)."
+  ],
+  "verdict": "Overall Snare is a tool item."
+ },
+ "spear-head": {
+  "lead": "Spear Head is a Tools item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.5 kg is mid-pack on weight of the 67 entries here (#25).",
+   "Available actions: Examine."
+  ],
+  "verdict": "Overall Spear Head is a Tools item used from the inventory rather than equipped."
+ },
+ "spelunkers-lantern": {
+  "lead": "Spelunker's Lantern is a Tools item in The Long Dark. It weighs 1 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1 kg is among the lighter of the 67 entries here (#17)."
+  ],
+  "verdict": "Overall Spelunker's Lantern is a Tools item."
+ },
+ "sport-bow": {
+  "lead": "Sport Bow is a Tools item in The Long Dark. It weighs 0.35 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.35 kg is mid-pack on weight of the 67 entries here (#30).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Sport Bow is a Tools item."
+ },
+ "spray-paint": {
+  "lead": "Spray Paint is a tool item in The Long Dark. It weighs 0.54 kg.",
+  "body": [
+   "Within the tool group its 0.54 kg is mid-pack on weight of the 43 entries here (#21).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Spray Paint is a tool item."
+ },
+ "spray-paint---glyph": {
+  "lead": "Spray Paint - Glyph is a tool item in The Long Dark. It weighs 0.54 kg.",
+  "body": [
+   "Within the tool group its 0.54 kg is mid-pack on weight of the 43 entries here (#21)."
+  ],
+  "verdict": "Overall Spray Paint - Glyph is a tool item."
+ },
+ "stack-of-papers": {
+  "lead": "Stack of Papers is a tool item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "Within the tool group its 0.1 kg is one of the heavier of the 43 entries here (#32)."
+  ],
+  "verdict": "Overall Stack of Papers is a tool item."
+ },
+ "stay-on-target": {
+  "lead": "Stay on Target is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Stay on Target is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "stick": {
+  "lead": "Stick is a Fire Starting item in The Long Dark. It weighs 0.15 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.15 kg is one of the heavier of the 20 entries here (#18).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Stick is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "stone": {
+  "lead": "Stone is a Tools item in The Long Dark. It weighs 0.15 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.15 kg is mid-pack on weight of the 67 entries here (#38).",
+   "Available actions: Toss from hip, Aim and Throw.",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each."
+  ],
+  "verdict": "Overall Stone is a Tools item."
+ },
+ "storm-lantern": {
+  "lead": "Storm Lantern is a tool item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Within the tool group its 1 kg is mid-pack on weight of the 43 entries here (#13)."
+  ],
+  "verdict": "Overall Storm Lantern is a tool item."
+ },
+ "stove": {
+  "lead": "Stove is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Stove is a firebox item."
+ },
+ "survival-bow": {
+  "lead": "Survival Bow is a tool item in The Long Dark. It weighs 0.5 kg.",
+  "body": [
+   "Within the tool group its 0.5 kg is mid-pack on weight of the 43 entries here (#23).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Survival Bow is a tool item."
+ },
+ "survival-knife": {
+  "lead": "Survival Knife is a Tools item in The Long Dark. It weighs 0.75 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.75 kg is mid-pack on weight of the 67 entries here (#22)."
+  ],
+  "verdict": "Overall Survival Knife is a Tools item used from the inventory rather than equipped."
+ },
+ "survive-the-outdoors": {
+  "lead": "Survive the Outdoors! is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Survive the Outdoors! is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "the-frozen-angler": {
+  "lead": "The Frozen Angler is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall The Frozen Angler is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "tinder-plug": {
+  "lead": "Tinder Plug is a tool item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Within the tool group its 0.05 kg is one of the heavier of the 43 entries here (#39)."
+  ],
+  "verdict": "Overall Tinder Plug is a tool item."
+ },
+ "torch": {
+  "lead": "Torch is a Fire Starting item in The Long Dark. It weighs 0.3 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.3 kg is one of the heavier of the 20 entries here (#15).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Torch is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "travois": {
+  "lead": "Travois is a Tools item in The Long Dark. It weighs 1 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1 kg is among the lighter of the 67 entries here (#17).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Travois is a Tools item."
+ },
+ "vaughns-rifle": {
+  "lead": "Vaughn's Rifle is a Tools item in The Long Dark. It weighs 3 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 3 kg is among the lighter of the 67 entries here (#9).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Vaughn's Rifle is a Tools item."
+ },
+ "wardens-revolver": {
+  "lead": "Warden's Revolver is a Tools item in The Long Dark. It weighs 1.25 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 1.25 kg is among the lighter of the 67 entries here (#15).",
+   "Available actions: Use, Actions, Drop."
+  ],
+  "verdict": "Overall Warden's Revolver is a Tools item."
+ },
+ "whetstone": {
+  "lead": "Whetstone is a Tools item in The Long Dark. It weighs 0.1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.1 kg is mid-pack on weight of the 67 entries here (#43).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Whetstone is a Tools item used from the inventory rather than equipped."
+ },
+ "wilderness-kitchen": {
+  "lead": "Wilderness Kitchen is a Fire Starting item in The Long Dark. It weighs 0.5 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Fire Starting group its 0.5 kg is among the lighter of the 20 entries here (#3).",
+   "Available actions: Research, Drop."
+  ],
+  "verdict": "Overall Wilderness Kitchen is a Fire Starting item used from the inventory rather than equipped."
+ },
+ "wires": {
+  "lead": "Wires is a Tools item in The Long Dark. It weighs 0.1 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0.1 kg is mid-pack on weight of the 67 entries here (#43).",
+   "It stacks, so duplicates cost one slot up to the stack limit rather than one slot each.",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Wires is a Tools item used from the inventory rather than equipped."
+ },
+ "wood-matches": {
+  "lead": "Wood Matches is a tool item in The Long Dark. It weighs 0.01 kg.",
+  "body": [
+   "Within the tool group its 0.01 kg is one of the heavier of the 43 entries here (#42).",
+   "It is renewable, so it can be re-obtained rather than only scavenged once."
+  ],
+  "verdict": "Overall Wood Matches is a tool item."
+ },
+ "wood-stove": {
+  "lead": "Wood Stove is a firebox item in The Long Dark.",
+  "body": [
+   "Only the headline tool values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Wood Stove is a firebox item."
+ },
+ "woodworking-tools": {
+  "lead": "Woodworking Tools is a Tools item in The Long Dark. It weighs 1.5 kg.",
+  "body": [
+   "Within the Tools group its 1.5 kg is among the lighter of the 67 entries here (#11).",
+   "Available actions: Examine, Drop, Pick up."
+  ],
+  "verdict": "Overall Woodworking Tools is a Tools item."
+ },
+ "woodwrights-bow": {
+  "lead": "Woodwright's Bow is a Tools item in The Long Dark. It weighs 0.75 kg. It can be equipped.",
+  "body": [
+   "Within the Tools group its 0.75 kg is mid-pack on weight of the 67 entries here (#22).",
+   "Available actions: Use, Drop."
+  ],
+  "verdict": "Overall Woodwright's Bow is a Tools item."
+ },
+ "wyatts-skeleton": {
+  "lead": "Wyatt's Skeleton is a Tools item in The Long Dark. It weighs 0 kg. It is not equipped — it is used from the inventory.",
+  "body": [
+   "Within the Tools group its 0 kg is one of the heavier of the 67 entries here (#59)."
+  ],
+  "verdict": "Overall Wyatt's Skeleton is a Tools item used from the inventory rather than equipped."
+ }
+}

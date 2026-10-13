@@ -1,0 +1,105 @@
+{
+ "antibiotics": {
+  "lead": "Antibiotics is a first aid item in The Long Dark. It weighs 0.1 kg for 6 doses.",
+  "body": [
+   "It is the listed treatment for the 4 afflictions in this database that are treated with it — Dysentery, Food Poisoning, Infection and Intestinal Parasites.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Antibiotics is the go-to item for Dysentery, Food Poisoning and Infection."
+ },
+ "antiseptic": {
+  "lead": "Antiseptic is a first aid item in The Long Dark. It weighs 0.7 kg.",
+  "body": [
+   "It is the listed treatment for the 1 affliction in this database that is treated with it — Infection Risk.",
+   "At 0.7 kg it is the lightest here (#1 of 12), which matters when you are rationing carry weight for a long journey."
+  ],
+  "verdict": "Overall Antiseptic is the go-to item for Infection Risk."
+ },
+ "bandage": {
+  "lead": "Bandage is a first aid item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "It is the listed treatment for the 5 afflictions in this database that are treated with it — Blood Loss, Broken Ribs, Burns and Sprained Ankle and 1 more.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Bandage is the go-to item for Blood Loss, Broken Ribs and Burns."
+ },
+ "blackrock-infirmary-medication": {
+  "lead": "Blackrock Infirmary Medication is a first aid item in The Long Dark. It weighs 0 kg.",
+  "body": [
+   "No affliction in this database lists it as a required treatment, so it is a general-purpose supply rather than a specific cure.",
+   "At 0 kg it is one of the heavier medical items here (#11 of 12), which matters when you are rationing carry weight for a long journey."
+  ],
+  "verdict": "Overall Blackrock Infirmary Medication is a general first aid supply."
+ },
+ "canister": {
+  "lead": "Canister is a first aid item in The Long Dark. It weighs 0.2 kg.",
+  "body": [
+   "No affliction in this database lists it as a required treatment, so it is a general-purpose supply rather than a specific cure.",
+   "At 0.2 kg it is among the lightest here (#3 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Canister is a general first aid supply."
+ },
+ "emergency-stim": {
+  "lead": "Emergency Stim is a first aid item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "It is the listed treatment for the 1 affliction in this database that is treated with it — Chemical Poisoning.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Emergency Stim is the go-to item for Chemical Poisoning."
+ },
+ "heat-pack": {
+  "lead": "Heat Pack is a first aid item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "No affliction in this database lists it as a required treatment, so it is a general-purpose supply rather than a specific cure.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Heat Pack is a general first aid supply."
+ },
+ "insulin": {
+  "lead": "Insulin is a first aid item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "It is the listed treatment for the 1 affliction in this database that is treated with it — Hyperglycemic Risk.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey."
+  ],
+  "verdict": "Overall Insulin is the go-to item for Hyperglycemic Risk."
+ },
+ "military-stim": {
+  "lead": "Military Stim is a first aid item in The Long Dark. It weighs 0.1 kg.",
+  "body": [
+   "No affliction in this database lists it as a required treatment, so it is a general-purpose supply rather than a specific cure.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey."
+  ],
+  "verdict": "Overall Military Stim is a general first aid supply."
+ },
+ "painkillers": {
+  "lead": "Painkillers is a first aid item in The Long Dark. It weighs 0.1 kg for 6 doses.",
+  "body": [
+   "It is the listed treatment for the 1 affliction in this database that is treated with it — Broken Ribs.",
+   "At 0.1 kg it is mid-pack on weight here (#4 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Painkillers is the go-to item for Broken Ribs."
+ },
+ "respirator": {
+  "lead": "Respirator is a first aid item in The Long Dark. It weighs 0 kg.",
+  "body": [
+   "It is the listed treatment for the 1 affliction in this database that is treated with it — Suffocation Risk.",
+   "At 0 kg it is one of the heavier medical items here (#11 of 12), which matters when you are rationing carry weight for a long journey."
+  ],
+  "verdict": "Overall Respirator is the go-to item for Suffocation Risk."
+ },
+ "water-purification-tablets": {
+  "lead": "Water Purification Tablets is a first aid item in The Long Dark. It weighs 0.25 kg for 4 tablets.",
+  "body": [
+   "No affliction in this database lists it as a required treatment, so it is a general-purpose supply rather than a specific cure.",
+   "At 0.25 kg it is among the lightest here (#2 of 12), which matters when you are rationing carry weight for a long journey.",
+   "It is renewable — re-stockable from the sources listed rather than a one-off find."
+  ],
+  "verdict": "Overall Water Purification Tablets is a general first aid supply."
+ }
+}

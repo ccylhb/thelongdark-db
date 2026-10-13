@@ -4,6 +4,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import EntryStats from "../../components/EntryStats.astro";
 import aff from "../../data/thelongdark_afflictions.json";
+import proseMap from "../../data/prose_afflictions.json";
 import mesh from "../../data/mesh.json";
 import { introHtml } from "../../lib/mesh";
 
@@ -12,6 +13,7 @@ export function getStaticPaths() {
 }
 
 const { x } = Astro.props as any;
+const prose = (proseMap as any)[x.slug];
 const f = x.fields || {};
 const ihtml = introHtml(x.intro, mesh, x.title);
 const __slug = Astro.params.slug;
@@ -47,6 +49,13 @@ const __ld = [
   {f["caused by"] && <p><strong>Caused by:</strong> {f["caused by"]}</p>}
   {f.treatment && <p><strong>Treatment:</strong> {f.treatment}</p>}
   {ihtml && <p set:html={ihtml}></p>}
+  {prose && (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  )}
   <Related
     links={[
       { href: "/afflictions/", title: "All Afflictions", sub: "Conditions table" },

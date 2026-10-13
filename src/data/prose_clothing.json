@@ -1,0 +1,1070 @@
+{
+ "astrids-boots": {
+  "lead": "Astrid's Boots is an Outer feet item in The Long Dark. It adds 1°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer feet slot its 1°C warmth ranks #8 of 12 entries here — on the lighter-warmth end for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Leather; 30 minutes; 25% condition and harvests into 1 × Leather; 90 minutes."
+  ],
+  "verdict": "Overall Astrid's Boots is a 1°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "astrids-gloves": {
+  "lead": "Astrid's Gloves is a Hands item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. Waterproofing is 5%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 0.5°C warmth ranks #10 of 13 entries here — on the lighter-warmth end for that layer.",
+   "At 5°C per kg its warmth-to-weight ratio ranks #18 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 65% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Astrid's Gloves is a 0.5°C Hands piece."
+ },
+ "astrids-jacket": {
+  "lead": "Astrid's Jacket is an Outer torso item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 30%. It weighs 1.25 kg.",
+  "body": [
+   "Within the Outer torso slot its 2°C warmth ranks #11 of 19 entries here — mid-pack for that layer.",
+   "At 1.6°C per kg its warmth-to-weight ratio ranks #74 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 4% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 45 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Astrid's Jacket is a 2°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "astrids-jeans": {
+  "lead": "Astrid's Jeans is an Outer legs item in The Long Dark. It adds 1°C warmth and 0°C windproofing. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer legs slot its 1°C warmth ranks #7 of 9 entries here — on the lighter-warmth end for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Astrid's Jeans is a 1°C Outer legs piece."
+ },
+ "astrids-sweater": {
+  "lead": "Astrid's Sweater is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 1°C windproofing. Waterproofing is 10%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Astrid's Sweater is a 0.5°C Inner torso piece."
+ },
+ "astrids-toque": {
+  "lead": "Astrid's Toque is a Head item in The Long Dark. It adds 1.5°C warmth and 0.75°C windproofing. Waterproofing is 30%. It weighs 0.15 kg.",
+  "body": [
+   "Within the Head slot its 1.5°C warmth ranks #7 of 15 entries here — mid-pack for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Astrid's Toque is a 1.5°C Head piece."
+ },
+ "aviator-cap": {
+  "lead": "Aviator Cap is a Head item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 30%. It weighs 0.3 kg.",
+  "body": [
+   "Within the Head slot its 2°C warmth ranks #3 of 15 entries here — among the warmest for that layer.",
+   "At 6.67°C per kg its warmth-to-weight ratio ranks #14 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cured Leather; 25 minutes; 60% condition and harvests into 1 × Cured Leather; 10 minutes."
+  ],
+  "verdict": "Overall Aviator Cap is a 2°C Head piece."
+ },
+ "balaclava": {
+  "lead": "Balaclava is a Head item in The Long Dark. It adds 2°C warmth and 1.5°C windproofing. Waterproofing is 30%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Head slot its 2°C warmth ranks #3 of 15 entries here — among the warmest for that layer.",
+   "At 8°C per kg its warmth-to-weight ratio ranks #11 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Balaclava is a 2°C Head piece."
+ },
+ "baseball-cap": {
+  "lead": "Baseball Cap is a Head item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. It weighs 0.1 kg.",
+  "body": [
+   "Within the Head slot its 0.5°C warmth ranks #14 of 15 entries here — on the lighter-warmth end for that layer.",
+   "At 5°C per kg its warmth-to-weight ratio ranks #18 of 100 clothing items with both values recorded — a strong ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Baseball Cap is a 0.5°C Head piece."
+ },
+ "bearskin-coat": {
+  "lead": "Bearskin Coat is an Outer torso item in The Long Dark. It adds 6°C warmth and 5°C windproofing. Waterproofing is 80%. It weighs 5 kg.",
+  "body": [
+   "Within the Outer torso slot its 6°C warmth ranks #1 of 19 entries here — the warmest for that layer.",
+   "At 1.2°C per kg its warmth-to-weight ratio ranks #84 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 15% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 20% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Black Bear Hide; 2 × Cured Gut; 120 minutes; 40% condition and harvests into 1 × Cured Black Bear Hide; 120 minutes."
+  ],
+  "verdict": "Overall Bearskin Coat is the warmest Outer torso option catalogued here, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "cargo-pants": {
+  "lead": "Cargo Pants is an Outer legs item in The Long Dark. It adds 1.5°C warmth and 0.5°C windproofing. It weighs 0.75 kg.",
+  "body": [
+   "Within the Outer legs slot its 1.5°C warmth ranks #4 of 9 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Cargo Pants is a 1.5°C Outer legs piece."
+ },
+ "chemical-boots": {
+  "lead": "Chemical Boots is a Shoes item in The Long Dark. It adds 2°C warmth and 3°C windproofing. Waterproofing is 60%. It weighs 2 kg.",
+  "body": [
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 8% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with Cannot Repair and harvests into Cannot Harvest."
+  ],
+  "verdict": "Overall Chemical Boots is a 2°C Shoes piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "climbing-socks": {
+  "lead": "Climbing Socks is an Inner feet item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 25%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner feet slot its 1°C warmth ranks #1 of 6 entries here — the warmest for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 55% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Climbing Socks is the warmest Inner feet option catalogued here."
+ },
+ "combat-boots": {
+  "lead": "Combat Boots is an Outer feet item in The Long Dark. It adds 1.5°C warmth and 1°C windproofing. Waterproofing is 20%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer feet slot its 1.5°C warmth ranks #7 of 12 entries here — mid-pack for that layer.",
+   "At 0.75°C per kg its warmth-to-weight ratio ranks #99 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 10% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 7% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 30 minutes; 25% condition and harvests into 1 × Cured leather; 90 minutes."
+  ],
+  "verdict": "Overall Combat Boots is a 1.5°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "combat-pants": {
+  "lead": "Combat Pants is an Outer legs item in The Long Dark. It adds 2°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.75 kg.",
+  "body": [
+   "Within the Outer legs slot its 2°C warmth ranks #2 of 9 entries here — among the warmest for that layer.",
+   "At 2.67°C per kg its warmth-to-weight ratio ranks #37 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 7% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Combat Pants is a 2°C Outer legs piece."
+ },
+ "cotton-scarf": {
+  "lead": "Cotton Scarf is a Head item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. Waterproofing is 5%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Head slot its 0.5°C warmth ranks #14 of 15 entries here — on the lighter-warmth end for that layer.",
+   "At 5°C per kg its warmth-to-weight ratio ranks #18 of 100 clothing items with both values recorded — a strong ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 60% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Cotton Scarf is a 0.5°C Head piece."
+ },
+ "cotton-toque": {
+  "lead": "Cotton Toque is a Head item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 10%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Head slot its 1°C warmth ranks #11 of 15 entries here — on the lighter-warmth end for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 40% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Cotton Toque is a 1°C Head piece."
+ },
+ "cougar-hide-wrap": {
+  "lead": "Cougar Hide Wrap is a Head item in The Long Dark. It adds 4°C warmth and 4°C windproofing. Waterproofing is 40%. It weighs 1 kg.",
+  "body": [
+   "Within the Head slot its 4°C warmth ranks #1 of 15 entries here — the warmest for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 6% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cured Cougar Hide; 1 × Cured Gut; 240 minutes; 70% condition and harvests into 1 × Cured Cougar Hide; 90 minutes."
+  ],
+  "verdict": "Overall Cougar Hide Wrap is the warmest Head option catalogued here."
+ },
+ "cowichan-sweater": {
+  "lead": "Cowichan Sweater is an Inner torso item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 50%. It weighs 1 kg.",
+  "body": [
+   "Within the Inner torso slot its 2.5°C warmth ranks #1 of 18 entries here — the warmest for that layer.",
+   "At 2.5°C per kg its warmth-to-weight ratio ranks #39 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 2% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 60 minutes; 30% condition and harvests into 1 × Cloth; 45 minutes."
+  ],
+  "verdict": "Overall Cowichan Sweater is the warmest Inner torso option catalogued here."
+ },
+ "crampons": {
+  "lead": "Crampons is an Accessory item in The Long Dark. It adds 0°C warmth and 0°C windproofing. Waterproofing is 100%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Accessory slot its 0°C warmth ranks #2 of 4 entries here — mid-pack for that layer.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Scrap Metal; 60 minutes; 20% condition and harvests into Cannot Harvest."
+  ],
+  "verdict": "Overall Crampons is a 0°C Accessory piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "deerskin-boots": {
+  "lead": "Deerskin Boots is an Outer feet item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 50%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer feet slot its 2.5°C warmth ranks #3 of 12 entries here — among the warmest for that layer.",
+   "At 1.25°C per kg its warmth-to-weight ratio ranks #83 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 7% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Deer Hide; 1 × Cured Gut; 90 minutes; 30% condition and harvests into 1 × Cured Deer Hide; 110 minutes."
+  ],
+  "verdict": "Overall Deerskin Boots is a 2.5°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "deerskin-pants": {
+  "lead": "Deerskin Pants is an Outer legs item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 60%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer legs slot its 2°C warmth ranks #2 of 9 entries here — among the warmest for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 10% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Deer Hide; 1 × Cured Gut; 100 minutes; 30% condition and harvests into 1 × Cured Deer Hide; 30 minutes."
+  ],
+  "verdict": "Overall Deerskin Pants is a 2°C Outer legs piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "down-vest": {
+  "lead": "Down Vest is an Outer torso item in The Long Dark. It adds 1°C warmth and 1°C windproofing. Waterproofing is 10%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer torso slot its 1°C warmth ranks #16 of 19 entries here — on the lighter-warmth end for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 25% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Down Vest is a 1°C Outer torso piece."
+ },
+ "dress-shirt": {
+  "lead": "Dress Shirt is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 1°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Dress Shirt is a 0.5°C Inner torso piece."
+ },
+ "driving-gloves": {
+  "lead": "Driving Gloves is a Hands item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 0.5°C warmth ranks #10 of 13 entries here — on the lighter-warmth end for that layer.",
+   "At 5°C per kg its warmth-to-weight ratio ranks #18 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cured Leather; 30 minutes; 25% condition and harvests into 1 × Cured Leather; 10 minutes."
+  ],
+  "verdict": "Overall Driving Gloves is a 0.5°C Hands piece."
+ },
+ "expedition-parka": {
+  "lead": "Expedition Parka is an Outer torso item in The Long Dark. It adds 4°C warmth and 6°C windproofing. Waterproofing is 50%. It weighs 1.5 kg.",
+  "body": [
+   "Within the Outer torso slot its 4°C warmth ranks #2 of 19 entries here — among the warmest for that layer.",
+   "At 2.67°C per kg its warmth-to-weight ratio ranks #37 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 6% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 45 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Expedition Parka is a 4°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "festive-sweater": {
+  "lead": "Festive Sweater is an Inner torso item in The Long Dark. It adds 1°C warmth and 3°C windproofing. Waterproofing is 15%. It weighs 0.3 kg.",
+  "body": [
+   "Within the Inner torso slot its 1°C warmth ranks #4 of 18 entries here — among the warmest for that layer.",
+   "At 3.33°C per kg its warmth-to-weight ratio ranks #33 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 60 minutes; 40% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Festive Sweater is a 1°C Inner torso piece."
+ },
+ "fishermans-sweater": {
+  "lead": "Fisherman's Sweater is an Inner torso item in The Long Dark. It adds 2°C warmth and 1.5°C windproofing. Waterproofing is 40%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Inner torso slot its 2°C warmth ranks #2 of 18 entries here — among the warmest for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 60 minutes; 30% condition and harvests into 1 × Cloth; 45 minutes."
+  ],
+  "verdict": "Overall Fisherman's Sweater is a 2°C Inner torso piece."
+ },
+ "fleece-cowl": {
+  "lead": "Fleece Cowl is a Head item in The Long Dark. It adds 1.5°C warmth and 1°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Head slot its 1.5°C warmth ranks #7 of 15 entries here — mid-pack for that layer.",
+   "At 6°C per kg its warmth-to-weight ratio ranks #15 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 60% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Fleece Cowl is a 1.5°C Head piece."
+ },
+ "fleece-mittens": {
+  "lead": "Fleece Mittens is a Hands item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. Waterproofing is 5%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 0.5°C warmth ranks #10 of 13 entries here — on the lighter-warmth end for that layer.",
+   "At 5°C per kg its warmth-to-weight ratio ranks #18 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 65% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Fleece Mittens is a 0.5°C Hands piece."
+ },
+ "flight-jacket": {
+  "lead": "Flight Jacket is an Outer torso item in The Long Dark. It adds 3°C warmth and 5°C windproofing. Waterproofing is 50%. It weighs 2.5 kg.",
+  "body": [
+   "Within the Outer torso slot its 3°C warmth ranks #5 of 19 entries here — mid-pack for that layer.",
+   "At 1.2°C per kg its warmth-to-weight ratio ranks #84 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 10% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cured Leather; 60 minutes; 40% condition and harvests into 3 × Cured Leather; 30 minutes."
+  ],
+  "verdict": "Overall Flight Jacket is a 3°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "gauntlets": {
+  "lead": "Gauntlets is a Hands item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 40%. It weighs 1 kg.",
+  "body": [
+   "Within the Hands slot its 2°C warmth ranks #1 of 13 entries here — the warmest for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 6% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather 30 minutes; 65% condition and harvests into 1 × Cured leather 10 minutes."
+  ],
+  "verdict": "Overall Gauntlets is the warmest Hands option catalogued here, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "hardhat": {
+  "lead": "Hardhat is a Headgear item in The Long Dark. It adds 0°C warmth and 0°C windproofing. Waterproofing is 30%. It weighs 0.4 kg.",
+  "body": [
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with Cannot Repair and harvests into Cannot Harvest."
+  ],
+  "verdict": "Overall Hardhat is a 0°C Headgear piece."
+ },
+ "hockey-jersey": {
+  "lead": "Hockey Jersey is an Inner torso item in The Long Dark. It adds 1°C warmth and 3°C windproofing. Waterproofing is 15%. It weighs 0.3 kg.",
+  "body": [
+   "Within the Inner torso slot its 1°C warmth ranks #4 of 18 entries here — among the warmest for that layer.",
+   "At 3.33°C per kg its warmth-to-weight ratio ranks #33 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 60 minutes; 40% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Hockey Jersey is a 1°C Inner torso piece."
+ },
+ "hoodie": {
+  "lead": "Hoodie is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. Waterproofing is 10%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 Cloth; 60 minutes; 30% condition and harvests into 1 Cloth; 45 minutes."
+  ],
+  "verdict": "Overall Hoodie is a 0.5°C Inner torso piece."
+ },
+ "improvised-crampons": {
+  "lead": "Improvised Crampons is an Accessory item in The Long Dark. It adds 0°C warmth and 0°C windproofing. Waterproofing is 100%. It weighs 0.75 kg.",
+  "body": [
+   "Within the Accessory slot its 0°C warmth ranks #2 of 4 entries here — mid-pack for that layer.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Scrap Metal; 60 minutes; 20% Condition and harvests into Cannot Harvest."
+  ],
+  "verdict": "Overall Improvised Crampons is a 0°C Accessory piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "improvised-hand-wraps": {
+  "lead": "Improvised Hand Wraps is a Hands item in The Long Dark. It adds 0.5°C warmth and 0.3°C windproofing. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 0.5°C warmth ranks #10 of 13 entries here — on the lighter-warmth end for that layer.",
+   "At 5°C per kg its warmth-to-weight ratio ranks #18 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 0.5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 25% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Improvised Hand Wraps is a 0.5°C Hands piece."
+ },
+ "improvised-head-wrap": {
+  "lead": "Improvised Head Wrap is a Head item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. It weighs 0.1 kg.",
+  "body": [
+   "Within the Head slot its 1°C warmth ranks #11 of 15 entries here — on the lighter-warmth end for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 0.5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 25% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Improvised Head Wrap is a 1°C Head piece."
+ },
+ "improvised-insulation": {
+  "lead": "Improvised Insulation is a clothing item in The Long Dark. It adds 2°C warmth and 1°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "At 8°C per kg its warmth-to-weight ratio ranks #11 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth 2 x Ptarmigan Down; 30 minutes; 60% condition and harvests into 20 minutes 2 × Cloth; 3 x Ptarmigan Down."
+  ],
+  "verdict": "Overall Improvised Insulation is a 2°C clothing piece."
+ },
+ "insulated-boots": {
+  "lead": "Insulated Boots is an Outer feet item in The Long Dark. It adds 3°C warmth and 2°C windproofing. Waterproofing is 50%. It weighs 1.5 kg.",
+  "body": [
+   "Within the Outer feet slot its 3°C warmth ranks #1 of 12 entries here — the warmest for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 12% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 1 × Cloth; 90 minutes; 30% condition and harvests into 1 × Cured leather; 90 minutes."
+  ],
+  "verdict": "Overall Insulated Boots is the warmest Outer feet option catalogued here, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "jeans": {
+  "lead": "Jeans is an Outer legs item in The Long Dark. It adds 1°C warmth and 0°C windproofing. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer legs slot its 1°C warmth ranks #7 of 9 entries here — on the lighter-warmth end for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Jeans is a 1°C Outer legs piece."
+ },
+ "jeremiahs-bearskin-coat": {
+  "lead": "Jeremiah's Bearskin Coat is a clothing item in The Long Dark. It weighs 5 kg.",
+  "body": [
+   "Crafting notes: it repairs with 1 × Cured Black Bear Hide and harvests into Cannot Harvest."
+  ],
+  "verdict": "Overall Jeremiah's Bearskin Coat is a clothing piece."
+ },
+ "leather-shoes": {
+  "lead": "Leather Shoes is an Outer feet item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 10%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer feet slot its 1°C warmth ranks #8 of 12 entries here — on the lighter-warmth end for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather, 1 × Cloth; 90 minutes; 20% condition and harvests into 2 × Cured leather; 75 minutes."
+  ],
+  "verdict": "Overall Leather Shoes is a 1°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "light-shell": {
+  "lead": "Light Shell is an Outer torso item in The Long Dark. It adds 1°C warmth and 3°C windproofing. Waterproofing is 30%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer torso slot its 1°C warmth ranks #16 of 19 entries here — on the lighter-warmth end for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 2% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 30% condition and harvests into 2 × Cloth; 40 minutes."
+  ],
+  "verdict": "Overall Light Shell is a 1°C Outer torso piece."
+ },
+ "long-wool-scarf": {
+  "lead": "Long Wool Scarf is a Head item in The Long Dark. It adds 1.5°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Head slot its 1.5°C warmth ranks #7 of 15 entries here — mid-pack for that layer.",
+   "At 6°C per kg its warmth-to-weight ratio ranks #15 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 60% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Long Wool Scarf is a 1.5°C Head piece."
+ },
+ "mackenzies-boots": {
+  "lead": "Mackenzie's Boots is an Outer feet item in The Long Dark. It adds 1°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer feet slot its 1°C warmth ranks #8 of 12 entries here — on the lighter-warmth end for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Leather; 30 minutes; 25% condition and harvests into 1 × Cured Leather; 90 minutes."
+  ],
+  "verdict": "Overall Mackenzie's Boots is a 1°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "mackenzies-pants": {
+  "lead": "Mackenzie's Pants is an Outer legs item in The Long Dark. It adds 1°C warmth and 0°C windproofing. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer legs slot its 1°C warmth ranks #7 of 9 entries here — on the lighter-warmth end for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Mackenzie's Pants is a 1°C Outer legs piece."
+ },
+ "mackenzies-parka": {
+  "lead": "Mackenzie's Parka is an Outer torso item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 30%. It weighs 1.25 kg.",
+  "body": [
+   "Within the Outer torso slot its 2°C warmth ranks #11 of 19 entries here — mid-pack for that layer.",
+   "At 1.6°C per kg its warmth-to-weight ratio ranks #74 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 4% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 45 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Mackenzie's Parka is a 2°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "mackenzies-shirt": {
+  "lead": "Mackenzie's Shirt is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Mackenzie's Shirt is a 0.5°C Inner torso piece."
+ },
+ "mackenzies-sweater": {
+  "lead": "Mackenzie's Sweater is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 1°C windproofing. Waterproofing is 10%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Mackenzie's Sweater is a 0.5°C Inner torso piece."
+ },
+ "mackenzies-toque": {
+  "lead": "Mackenzie's Toque is a Head item in The Long Dark. It adds 1.5°C warmth and 0.75°C windproofing. Waterproofing is 30%. It weighs 0.15 kg.",
+  "body": [
+   "Within the Head slot its 1.5°C warmth ranks #7 of 15 entries here — mid-pack for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Mackenzie's Toque is a 1.5°C Head piece."
+ },
+ "mackinaw-jacket": {
+  "lead": "Mackinaw Jacket is an Outer torso item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 40%. It weighs 1.5 kg.",
+  "body": [
+   "Within the Outer torso slot its 2.5°C warmth ranks #9 of 19 entries here — mid-pack for that layer.",
+   "At 1.67°C per kg its warmth-to-weight ratio ranks #72 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 60 minutes; 35% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Mackinaw Jacket is a 2.5°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "mariners-pea-coat": {
+  "lead": "Mariner's Pea Coat is an Outer torso item in The Long Dark. It adds 3°C warmth and 4°C windproofing. Waterproofing is 75%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer torso slot its 3°C warmth ranks #5 of 19 entries here — mid-pack for that layer.",
+   "At 1.5°C per kg its warmth-to-weight ratio ranks #77 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 7% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 6% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 90 minutes; 40% condition and harvests into 2 × Cloth; 90 minutes."
+  ],
+  "verdict": "Overall Mariner's Pea Coat is a 3°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "military-coat": {
+  "lead": "Military Coat is an Outer torso item in The Long Dark. It adds 3°C warmth and 3°C windproofing. Waterproofing is 40%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer torso slot its 3°C warmth ranks #5 of 19 entries here — mid-pack for that layer.",
+   "At 1.5°C per kg its warmth-to-weight ratio ranks #77 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 8% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 90 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Military Coat is a 3°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "miners-jacket": {
+  "lead": "Miner's Jacket is a shirts item in The Long Dark. It adds 2°C warmth and 3°C windproofing. Waterproofing is 50%. It weighs 2 kg.",
+  "body": [
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 60 minutes; 35% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Miner's Jacket is a 2°C shirts piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "miners-pants": {
+  "lead": "Miner's Pants is an Outer legs item in The Long Dark. It adds 1.5°C warmth and 1°C windproofing. Waterproofing is 20%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer legs slot its 1.5°C warmth ranks #4 of 9 entries here — mid-pack for that layer.",
+   "At 1.5°C per kg its warmth-to-weight ratio ranks #77 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 6% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Miner's Pants is a 1.5°C Outer legs piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "moose-hide-cloak": {
+  "lead": "Moose-Hide Cloak is an Outer torso item in The Long Dark. It adds 3.5°C warmth and 4°C windproofing. Waterproofing is 90%. It weighs 4 kg.",
+  "body": [
+   "Within the Outer torso slot its 3.5°C warmth ranks #4 of 19 entries here — among the warmest for that layer.",
+   "At 0.88°C per kg its warmth-to-weight ratio ranks #98 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 20% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 10% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Moose Hide; 2 × Cured Gut; 120 minutes; 60% condition and harvests into 1 × Cured Moose Hide; 120 minutes."
+  ],
+  "verdict": "Overall Moose-Hide Cloak is a 3.5°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "moose-hide-satchel": {
+  "lead": "Moose-Hide Satchel is an Accessory item in The Long Dark. It adds 0°C warmth and 0°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Accessory slot its 0°C warmth ranks #2 of 4 entries here — mid-pack for that layer.",
+   "Crafting notes: it repairs with 1 x Cured Leather; 22.5 minutes; 75% condition and harvests into 1 x Cured Leather; 10 minutes."
+  ],
+  "verdict": "Overall Moose-Hide Satchel is a 0°C Accessory piece."
+ },
+ "mountaineering-boots": {
+  "lead": "Mountaineering Boots is an Outer feet item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 40%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer feet slot its 2.5°C warmth ranks #3 of 12 entries here — among the warmest for that layer.",
+   "At 2.5°C per kg its warmth-to-weight ratio ranks #39 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Leather; 1 × Cloth; 90 minutes; 50% condition and harvests into 2 × Cured Leather; 90 minutes."
+  ],
+  "verdict": "Overall Mountaineering Boots is a 2.5°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "mukluks": {
+  "lead": "Mukluks is an Outer feet item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 40%. It weighs 1.5 kg.",
+  "body": [
+   "Within the Outer feet slot its 2.5°C warmth ranks #3 of 12 entries here — among the warmest for that layer.",
+   "At 1.67°C per kg its warmth-to-weight ratio ranks #72 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 1 × Cloth; 90 minutes; 50% condition and harvests into 2 × Cured leather; 90 minutes."
+  ],
+  "verdict": "Overall Mukluks is a 2.5°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "old-fashioned-parka": {
+  "lead": "Old Fashioned Parka is an Outer torso item in The Long Dark. It adds 3°C warmth and 3°C windproofing. Waterproofing is 20%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer torso slot its 3°C warmth ranks #5 of 19 entries here — mid-pack for that layer.",
+   "At 1.5°C per kg its warmth-to-weight ratio ranks #77 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 7% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 60 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Old Fashioned Parka is a 3°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "patterned-wool-mittens-blue": {
+  "lead": "Patterned Wool Mittens (Blue) is a Hands item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 1°C warmth ranks #4 of 13 entries here — mid-pack for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 65% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Patterned Wool Mittens (Blue) is a 1°C Hands piece."
+ },
+ "patterned-wool-mittens-brown": {
+  "lead": "Patterned Wool Mittens (Brown) is a Hands item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 1°C warmth ranks #4 of 13 entries here — mid-pack for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 65% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Patterned Wool Mittens (Brown) is a 1°C Hands piece."
+ },
+ "patterned-wool-mittens-burgundy": {
+  "lead": "Patterned Wool Mittens (Burgundy) is a Hands item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 1°C warmth ranks #4 of 13 entries here — mid-pack for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 65% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Patterned Wool Mittens (Burgundy) is a 1°C Hands piece."
+ },
+ "patterned-wool-socks-dots": {
+  "lead": "Patterned Wool Socks (Dots) is an Inner feet item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner feet slot its 0.5°C warmth ranks #2 of 6 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 55% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Patterned Wool Socks (Dots) is a 0.5°C Inner feet piece."
+ },
+ "patterned-wool-socks-moose": {
+  "lead": "Patterned Wool Socks (Moose) is an Inner feet item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner feet slot its 0.5°C warmth ranks #2 of 6 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 55% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Patterned Wool Socks (Moose) is a 0.5°C Inner feet piece."
+ },
+ "patterned-wool-socks-plaid": {
+  "lead": "Patterned Wool Socks (Plaid) is an Inner feet item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner feet slot its 0.5°C warmth ranks #2 of 6 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 55% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Patterned Wool Socks (Plaid) is a 0.5°C Inner feet piece."
+ },
+ "plaid-shirt": {
+  "lead": "Plaid Shirt is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Plaid Shirt is a 0.5°C Inner torso piece."
+ },
+ "rabbitskin-hat": {
+  "lead": "Rabbitskin Hat is a Head item in The Long Dark. It adds 2°C warmth and 1.5°C windproofing. Waterproofing is 30%. It weighs 0.35 kg.",
+  "body": [
+   "Within the Head slot its 2°C warmth ranks #3 of 15 entries here — among the warmest for that layer.",
+   "At 5.71°C per kg its warmth-to-weight ratio ranks #17 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cured Rabbit Pelt; 1 × Cured Gut; 30 minutes; 50% condition and harvests into 1 × Cured Rabbit Pelt; 10 minutes."
+  ],
+  "verdict": "Overall Rabbitskin Hat is a 2°C Head piece."
+ },
+ "rabbitskin-mitts": {
+  "lead": "Rabbitskin Mitts is a Hands item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 50%. It weighs 1 kg.",
+  "body": [
+   "Within the Hands slot its 2°C warmth ranks #1 of 13 entries here — the warmest for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Rabbit Pelt; 1 × Cured Gut; 30 minutes; 30% condition and harvests into 1 × Cured Rabbit Pelt; 10 minutes."
+  ],
+  "verdict": "Overall Rabbitskin Mitts is the warmest Hands option catalogued here, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "running-shoes": {
+  "lead": "Running Shoes is an Outer feet item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer feet slot its 1°C warmth ranks #8 of 12 entries here — on the lighter-warmth end for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cured leather, 1 Cloth; 90 minutes; 20% condition and harvests into 2 × Cured leather; 75 minutes."
+  ],
+  "verdict": "Overall Running Shoes is a 1°C Outer feet piece."
+ },
+ "simple-parka": {
+  "lead": "Simple Parka is an Outer torso item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 30%. It weighs 1.25 kg.",
+  "body": [
+   "Within the Outer torso slot its 2°C warmth ranks #11 of 19 entries here — mid-pack for that layer.",
+   "At 1.6°C per kg its warmth-to-weight ratio ranks #74 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 4% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 45 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Simple Parka is a 2°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "ski-boots": {
+  "lead": "Ski Boots is an Outer feet item in The Long Dark. It adds 3°C warmth and 4°C windproofing. Waterproofing is 30%. It weighs 4 kg.",
+  "body": [
+   "Within the Outer feet slot its 3°C warmth ranks #1 of 12 entries here — the warmest for that layer.",
+   "At 0.75°C per kg its warmth-to-weight ratio ranks #99 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 10% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 20% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 1 × Cloth; 90 minutes; 30% condition and harvests into 1 × Cured leather; 90 minutes."
+  ],
+  "verdict": "Overall Ski Boots is the warmest Outer feet option catalogued here, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "ski-gloves": {
+  "lead": "Ski Gloves is a Hands item in The Long Dark. It adds 1°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Hands slot its 1°C warmth ranks #4 of 13 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 25% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Ski Gloves is a 1°C Hands piece."
+ },
+ "ski-jacket": {
+  "lead": "Ski Jacket is an Outer torso item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 30%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer torso slot its 2°C warmth ranks #11 of 19 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 2% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 45 minutes; 30% condition and harvests into 2 × Cloth; 90 minutes."
+  ],
+  "verdict": "Overall Ski Jacket is a 2°C Outer torso piece."
+ },
+ "snow-pants": {
+  "lead": "Snow Pants is an Outer legs item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 50%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer legs slot its 2.5°C warmth ranks #1 of 9 entries here — the warmest for that layer.",
+   "At 2.5°C per kg its warmth-to-weight ratio ranks #39 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Snow Pants is the warmest Outer legs option catalogued here, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "sport-vest": {
+  "lead": "Sport Vest is an Outer torso item in The Long Dark. It adds 0.5°C warmth and 0.5°C windproofing. Waterproofing is 5%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer torso slot its 0.5°C warmth ranks #18 of 19 entries here — on the lighter-warmth end for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 25% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Sport Vest is a 0.5°C Outer torso piece."
+ },
+ "sports-socks": {
+  "lead": "Sports Socks is an Inner feet item in The Long Dark. It adds 0.25°C warmth and 0°C windproofing. It weighs 0.1 kg.",
+  "body": [
+   "Within the Inner feet slot its 0.25°C warmth ranks #6 of 6 entries here — on the lighter-warmth end for that layer.",
+   "At 2.5°C per kg its warmth-to-weight ratio ranks #39 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 15 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Sports Socks is a 0.25°C Inner feet piece."
+ },
+ "sweatshirt": {
+  "lead": "Sweatshirt is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 1°C windproofing. Waterproofing is 10%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Sweatshirt is a 0.5°C Inner torso piece."
+ },
+ "t-shirt": {
+  "lead": "T-Shirt is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall T-Shirt is a 0.5°C Inner torso piece."
+ },
+ "t-shirt-cm": {
+  "lead": "T-Shirt (CM) is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall T-Shirt (CM) is a 0.5°C Inner torso piece."
+ },
+ "t-shirt-gbi": {
+  "lead": "T-Shirt (GBI) is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall T-Shirt (GBI) is a 0.5°C Inner torso piece."
+ },
+ "t-shirt-snappy": {
+  "lead": "T-Shirt (Snappy) is an Inner torso item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 0.5°C warmth ranks #8 of 18 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall T-Shirt (Snappy) is a 0.5°C Inner torso piece."
+ },
+ "tactical-gloves": {
+  "lead": "Tactical Gloves is a Hands item in The Long Dark. It adds 1.5°C warmth and 3°C windproofing. Waterproofing is 50%. It weighs 0.75 kg.",
+  "body": [
+   "Within the Hands slot its 1.5°C warmth ranks #3 of 13 entries here — among the warmest for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 7% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Leather; 30 minutes; 25% condition and harvests into 1 × Cured Leather; 10 minutes."
+  ],
+  "verdict": "Overall Tactical Gloves is a 1.5°C Hands piece."
+ },
+ "tactical-jacket": {
+  "lead": "Tactical Jacket is an Outer torso item in The Long Dark. It adds 2°C warmth and 4°C windproofing. Waterproofing is 50%. It weighs 2 kg.",
+  "body": [
+   "Within the Outer torso slot its 2°C warmth ranks #11 of 19 entries here — mid-pack for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 15% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 4% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 2 × Cloth; 180 minutes; 30% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Tactical Jacket is a 2°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "technical-balaclava": {
+  "lead": "Technical Balaclava is a Headgear item in The Long Dark. It adds 2°C warmth and 2°C windproofing. Waterproofing is 50%. It weighs 0.2 kg.",
+  "body": [
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Technical Balaclava is the warmest Headgear option catalogued here."
+ },
+ "thermal-underwear": {
+  "lead": "Thermal Underwear is an Inner legs item in The Long Dark. It adds 1°C warmth and 0°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 40% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Thermal Underwear is a 1°C Inner legs piece."
+ },
+ "thick-wool-sweater": {
+  "lead": "Thick Wool Sweater is an Inner torso item in The Long Dark. It adds 1.5°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Inner torso slot its 1.5°C warmth ranks #3 of 18 entries here — among the warmest for that layer.",
+   "At 3°C per kg its warmth-to-weight ratio ranks #35 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 3% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 1% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 60 minutes; 30% condition and harvests into 1 × Cloth; 45 minutes."
+  ],
+  "verdict": "Overall Thick Wool Sweater is a 1.5°C Inner torso piece."
+ },
+ "thin-wool-sweater": {
+  "lead": "Thin Wool Sweater is an Inner torso item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 1°C warmth ranks #4 of 18 entries here — among the warmest for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 60 minutes; 40% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Thin Wool Sweater is a 1°C Inner torso piece."
+ },
+ "trail-boots": {
+  "lead": "Trail Boots is an Outer feet item in The Long Dark. It adds 1°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer feet slot its 1°C warmth ranks #8 of 12 entries here — on the lighter-warmth end for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 5% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 30 minutes; 25% condition and harvests into 1 × Cured leather; 90 minutes."
+  ],
+  "verdict": "Overall Trail Boots is a 1°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "urban-parka": {
+  "lead": "Urban Parka is an Outer torso item in The Long Dark. It adds 2.5°C warmth and 2°C windproofing. Waterproofing is 10%. It weighs 1 kg.",
+  "body": [
+   "Within the Outer torso slot its 2.5°C warmth ranks #9 of 19 entries here — mid-pack for that layer.",
+   "At 2.5°C per kg its warmth-to-weight ratio ranks #39 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 2% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 3 × Cloth; 60 minutes; 35% condition and harvests into 3 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Urban Parka is a 2.5°C Outer torso piece."
+ },
+ "windbreaker": {
+  "lead": "Windbreaker is an Outer torso item in The Long Dark. It adds 0.5°C warmth and 3°C windproofing. Waterproofing is 50%. It weighs 0.5 kg.",
+  "body": [
+   "Within the Outer torso slot its 0.5°C warmth ranks #18 of 19 entries here — on the lighter-warmth end for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 25% condition and harvests into 2 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Windbreaker is a 0.5°C Outer torso piece."
+ },
+ "wolfskin-coat": {
+  "lead": "Wolfskin Coat is an Outer torso item in The Long Dark. It adds 4°C warmth and 4°C windproofing. Waterproofing is 60%. It weighs 3 kg.",
+  "body": [
+   "Within the Outer torso slot its 4°C warmth ranks #2 of 19 entries here — among the warmest for that layer.",
+   "At 1.33°C per kg its warmth-to-weight ratio ranks #81 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 12% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 15% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Wolf Pelt; 1 × Cured Gut; 120 minutes; 30% condition and harvests into 1 × Cured Wolf Pelt; 90 minutes."
+  ],
+  "verdict": "Overall Wolfskin Coat is a 4°C Outer torso piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "wolfskin-hat": {
+  "lead": "Wolfskin Hat is a Head item in The Long Dark. It adds 3°C warmth and 2°C windproofing. Waterproofing is 30%. It weighs 1 kg.",
+  "body": [
+   "Within the Head slot its 3°C warmth ranks #2 of 15 entries here — among the warmest for that layer.",
+   "At 3°C per kg its warmth-to-weight ratio ranks #35 of 100 clothing items with both values recorded — a middling ratio.",
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cured Wolf Pelt; 125 minutes; 50% condition and harvests into 1 × Cured Wolf Pelt; 20 minutes."
+  ],
+  "verdict": "Overall Wolfskin Hat is a 3°C Head piece."
+ },
+ "wolfskin-pants": {
+  "lead": "Wolfskin Pants is a Leg item in The Long Dark. It adds 3°C warmth and 1.5°C windproofing. Waterproofing is 50%. It weighs 2.5 kg.",
+  "body": [
+   "At 1.2°C per kg its warmth-to-weight ratio ranks #84 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 10% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 5% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured Wolf Pelt; 1 × Cured Gut; 125 minutes; 50% condition and harvests into 1 × Cured Wolf Pelt; 40 minutes."
+  ],
+  "verdict": "Overall Wolfskin Pants is a 3°C Leg piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "wool-ear-wrap": {
+  "lead": "Wool Ear Wrap is an Accessory item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Accessory slot its 1°C warmth ranks #1 of 4 entries here — the warmest for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Wool Ear Wrap is the warmest Accessory option catalogued here."
+ },
+ "wool-longjohns": {
+  "lead": "Wool Longjohns is an Inner legs item in The Long Dark. It adds 2°C warmth and 0°C windproofing. Waterproofing is 35%. It weighs 0.5 kg.",
+  "body": [
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 50% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Wool Longjohns is the warmest Inner legs option catalogued here."
+ },
+ "wool-mittens": {
+  "lead": "Wool Mittens is a Hands item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Hands slot its 1°C warmth ranks #4 of 13 entries here — mid-pack for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 65% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Wool Mittens is a 1°C Hands piece."
+ },
+ "wool-scarf": {
+  "lead": "Wool Scarf is a Head item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 20%. It weighs 0.1 kg.",
+  "body": [
+   "Within the Head slot its 1°C warmth ranks #11 of 15 entries here — on the lighter-warmth end for that layer.",
+   "At 10°C per kg its warmth-to-weight ratio ranks #1 of 100 clothing items with both values recorded — the best in the table.",
+   "Its 1% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 60% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Wool Scarf is a 1°C Head piece."
+ },
+ "wool-shirt": {
+  "lead": "Wool Shirt is an Inner torso item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. Waterproofing is 40%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner torso slot its 1°C warmth ranks #4 of 18 entries here — among the warmest for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 35% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Wool Shirt is a 1°C Inner torso piece."
+ },
+ "wool-socks": {
+  "lead": "Wool Socks is an Inner feet item in The Long Dark. It adds 0.5°C warmth and 0°C windproofing. Waterproofing is 20%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Inner feet slot its 0.5°C warmth ranks #2 of 6 entries here — mid-pack for that layer.",
+   "At 2°C per kg its warmth-to-weight ratio ranks #44 of 100 clothing items with both values recorded — a middling ratio.",
+   "Crafting notes: it repairs with 1 × Cloth; 45 minutes; 55% condition and harvests into 1 × Cloth; 20 minutes."
+  ],
+  "verdict": "Overall Wool Socks is a 0.5°C Inner feet piece."
+ },
+ "wool-toque": {
+  "lead": "Wool Toque is a Head item in The Long Dark. It adds 2°C warmth and 1°C windproofing. Waterproofing is 30%. It weighs 0.25 kg.",
+  "body": [
+   "Within the Head slot its 2°C warmth ranks #3 of 15 entries here — among the warmest for that layer.",
+   "At 8°C per kg its warmth-to-weight ratio ranks #11 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 2% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 75% condition and harvests into 1 × Cloth; 10 minutes."
+  ],
+  "verdict": "Overall Wool Toque is a 2°C Head piece."
+ },
+ "work-boots": {
+  "lead": "Work Boots is an Outer feet item in The Long Dark. It adds 2°C warmth and 1°C windproofing. Waterproofing is 5%. It weighs 1.5 kg.",
+  "body": [
+   "Within the Outer feet slot its 2°C warmth ranks #6 of 12 entries here — mid-pack for that layer.",
+   "At 1.33°C per kg its warmth-to-weight ratio ranks #81 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 7% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 10% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 1 × Cloth; 90 minutes; 50% condition and harvests into 2 × Cured leather; 90 minutes."
+  ],
+  "verdict": "Overall Work Boots is a 2°C Outer feet piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ },
+ "work-gloves": {
+  "lead": "Work Gloves is a Hands item in The Long Dark. It adds 1°C warmth and 0.5°C windproofing. It weighs 0.25 kg.",
+  "body": [
+   "Within the Hands slot its 1°C warmth ranks #4 of 13 entries here — mid-pack for that layer.",
+   "At 4°C per kg its warmth-to-weight ratio ranks #24 of 100 clothing items with both values recorded — a strong ratio.",
+   "Its 4% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 2% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cured leather; 30 minutes; 25% condition and harvests into 1 × Cured leather; 10 minutes."
+  ],
+  "verdict": "Overall Work Gloves is a 1°C Hands piece."
+ },
+ "work-pants": {
+  "lead": "Work Pants is an Outer legs item in The Long Dark. It adds 1.5°C warmth and 1°C windproofing. Waterproofing is 10%. It weighs 1.5 kg.",
+  "body": [
+   "Within the Outer legs slot its 1.5°C warmth ranks #4 of 9 entries here — mid-pack for that layer.",
+   "At 1°C per kg its warmth-to-weight ratio ranks #87 of 100 clothing items with both values recorded — a poor return for the weight.",
+   "Its 8% protection is a small edge in a predator struggle, though mobility and warmth matter more in most runs.",
+   "Note the 3% mobility penalty — it slows you slightly, so a lighter inner layer can be the better trade when you are carrying a heavy load.",
+   "Crafting notes: it repairs with 1 × Cloth; 30 minutes; 30% condition and harvests into 1 × Cloth; 30 minutes."
+  ],
+  "verdict": "Overall Work Pants is a 1.5°C Outer legs piece, best reserved for cold-weather loadouts where the mobility hit is affordable."
+ }
+}

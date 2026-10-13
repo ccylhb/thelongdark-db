@@ -44,6 +44,14 @@ const __ld = [
 >
   <h1>Food & Drink</h1>
   <p class="muted">{food.length} items · calories (kcal), hydration (%), vitamin C and weight. Click a column to sort.</p>
+
+  <p class="muted">
+    Calories, hydration, vitamin C and weight for every item you can eat or drink. The number that decides
+    what is worth carrying is calories per kilogram, not calories alone, and each entry is ranked on it.
+    Watch the hydration column: many foods dehydrate you, and decay differs indoors versus outdoors. Click
+    a column to sort.
+  </p>
+
   <DataTable
     id="food"
     rows={rows as any}

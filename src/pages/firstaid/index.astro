@@ -42,6 +42,13 @@ const __ld = [
 >
   <h1>First Aid</h1>
   <p class="muted">{firstaid.length} items · medical supplies for afflictions. Click a column to sort.</p>
+
+  <p class="muted">
+    Weight, pack size and use for every medical item. The useful question is which affliction each item
+    actually clears, so every entry names the conditions in this database it is the listed treatment for —
+    check a supply against a condition before you rely on it. Click a column to sort.
+  </p>
+
   <DataTable
     id="firstaid"
     rows={rows as any}

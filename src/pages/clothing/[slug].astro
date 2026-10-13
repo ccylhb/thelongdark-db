@@ -4,6 +4,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import EntryStats from "../../components/EntryStats.astro";
 import clothing from "../../data/thelongdark_clothing.json";
+import proseMap from "../../data/prose_clothing.json";
 import mesh from "../../data/mesh.json";
 import { introHtml } from "../../lib/mesh";
 
@@ -12,6 +13,7 @@ export function getStaticPaths() {
 }
 
 const { x } = Astro.props as any;
+const prose = (proseMap as any)[x.slug];
 const f = x.fields || {};
 const sameSlot = clothing
   .filter((o: any) => o.slug !== x.slug && (o.fields?.["clothing slot"] || "") === (f["clothing slot"] || ""))
@@ -54,6 +56,13 @@ const __ld = [
   {f.harvest && <p><strong>Harvest:</strong> {f.harvest}</p>}
   {f.repair && <p><strong>Repair:</strong> {f.repair}</p>}
   {ihtml && <p set:html={ihtml}></p>}
+  {prose && (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  )}
   <Related
     links={[
       ...sameSlot.map((s: any) => ({

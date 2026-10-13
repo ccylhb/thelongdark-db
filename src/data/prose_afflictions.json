@@ -1,0 +1,566 @@
+{
+ "anxiety": {
+  "lead": "Anxiety is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by being within 200-51m from the darkwalker.",
+   "Treatment: Move more than 200m away from the Darkwalker.",
+   "Recovery time is listed as instant.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Anxiety is a risk best handled by avoiding its cause."
+ },
+ "armoured": {
+  "lead": "Armoured is an affliction affliction in The Long Dark.",
+  "body": [
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Armoured is an affliction best handled by avoiding its cause."
+ },
+ "blood-loss": {
+  "lead": "Blood Loss is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated or death.",
+  "body": [
+   "It is caused by falls (rope climbing) predator struggle.",
+   "It is treated with Bandage ×1.",
+   "The tracked medical items for it are Bandage — see their pages for weight and where each is found.",
+   "Recovery time is listed as treated instantly."
+  ],
+  "verdict": "Overall Blood Loss is an injury you clear with Bandage."
+ },
+ "broken-body": {
+  "lead": "Broken Body is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by misery mode.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as no treatment."
+  ],
+  "verdict": "Overall Broken Body is an injury best handled by avoiding its cause."
+ },
+ "broken-ribs": {
+  "lead": "Broken Ribs is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated + recovery time.",
+  "body": [
+   "It is caused by moose struggle.",
+   "It is treated with Bandage ×2 and Painkillers ×4.",
+   "The tracked medical items for it are Bandage and Painkillers — see their pages for weight and where each is found.",
+   "Recovery time is listed as 120 hours."
+  ],
+  "verdict": "Overall Broken Ribs is an injury you clear with Bandage and Painkillers."
+ },
+ "burdened": {
+  "lead": "Burdened is an Injury affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by consume food and drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as 1 hour."
+  ],
+  "verdict": "Overall Burdened is an injury best handled by avoiding its cause."
+ },
+ "burns": {
+  "lead": "Burns is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated or recovery time passes.",
+  "body": [
+   "It is caused by fires electrical wires.",
+   "It is treated with Bandage ×1.",
+   "The tracked medical items for it are Bandage — see their pages for weight and where each is found.",
+   "Recovery time is listed as wait 30 hours (untreated)."
+  ],
+  "verdict": "Overall Burns is an injury you clear with Bandage."
+ },
+ "cabin-fever": {
+  "lead": "Cabin Fever is a Disease affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by spending too much time indoors.",
+   "Treatment: Spend time outdoors.",
+   "Recovery time is listed as 24 hours."
+  ],
+  "verdict": "Overall Cabin Fever is a disease best handled by avoiding its cause."
+ },
+ "cabin-fever-risk": {
+  "lead": "Cabin Fever Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by spending too much time indoors.",
+   "Treatment: Spend time outdoors.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Cabin Fever Risk is a risk best handled by avoiding its cause."
+ },
+ "cheated-death-penalty": {
+  "lead": "Cheated Death Penalty is an Injury affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes or permanent affliction.",
+  "body": [
+   "It is caused by cheat death.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as see charts."
+  ],
+  "verdict": "Overall Cheated Death Penalty is an injury best handled by avoiding its cause."
+ },
+ "chemical-poisoning": {
+  "lead": "Chemical Poisoning is an affliction affliction in The Long Dark.",
+  "body": [
+   "It is treated with Emergency Stim.",
+   "The tracked medical items for it are Emergency Stim — see their pages for weight and where each is found."
+  ],
+  "verdict": "Overall Chemical Poisoning is an affliction you clear with Emergency Stim."
+ },
+ "chemical-poisoning-risk": {
+  "lead": "Chemical Poisoning Risk is a Risk affliction in The Long Dark. Its effect is negative.",
+  "body": [
+   "It is caused by chemical hazard.",
+   "Treatment: Avoid Chemical Hazards.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Chemical Poisoning Risk is a risk best handled by avoiding its cause."
+ },
+ "concussion": {
+  "lead": "Concussion is an Injury affliction in The Long Dark. Its effect is negative. It lasts scripted.",
+  "body": [
+   "It is caused by plane crash injuries.",
+   "Treatment: No treatment needed."
+  ],
+  "verdict": "Overall Concussion is an injury best handled by avoiding its cause."
+ },
+ "dehydrated": {
+  "lead": "Dehydrated is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated or death.",
+  "body": [
+   "It is caused by crash survivor has 0 thirst.",
+   "It is treated with Water (Potable).",
+   "Recovery time is listed as instant."
+  ],
+  "verdict": "Overall Dehydrated is a disease you clear with Water (Potable)."
+ },
+ "dehydration-risk": {
+  "lead": "Dehydration Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by crash survivor has low thirst.",
+   "It is treated with Water (Potable).",
+   "Recovery time is listed as instant.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Dehydration Risk is a risk you clear with Water (Potable)."
+ },
+ "diminished-form": {
+  "lead": "Diminished Form is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by misery mode.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as no treatment."
+  ],
+  "verdict": "Overall Diminished Form is an injury best handled by avoiding its cause."
+ },
+ "dysentery": {
+  "lead": "Dysentery is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated or death.",
+  "body": [
+   "It is caused by consume water (unsafe).",
+   "It is treated with Water (Potable) ×2.00 and Antibiotics ×2.",
+   "The tracked medical items for it are Antibiotics — see their pages for weight and where each is found.",
+   "Recovery time is listed as 10 hours of sleep."
+  ],
+  "verdict": "Overall Dysentery is a disease you clear with Water (Potable) and Antibiotics."
+ },
+ "energy-boost": {
+  "lead": "Energy Boost is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consume first aid items.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Energy Boost is a benefit best handled by avoiding its cause."
+ },
+ "fatigue-reduced": {
+  "lead": "Fatigue Reduced is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consuming food and drink/first aid.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Fatigue Reduced is a benefit best handled by avoiding its cause."
+ },
+ "fear": {
+  "lead": "Fear is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by being within 50m or less from the darkwalker.",
+   "Treatment: Move 50m (~164 feet) away from the Darkwalker.",
+   "Recovery time is listed as instant."
+  ],
+  "verdict": "Overall Fear is an injury best handled by avoiding its cause."
+ },
+ "food-poisoning": {
+  "lead": "Food Poisoning is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated or it passes.",
+  "body": [
+   "It is caused by low condition food and drink eating raw meat.",
+   "It is treated with Antibiotics ×2.",
+   "The tracked medical items for it are Antibiotics — see their pages for weight and where each is found.",
+   "Recovery time is listed as 10 hours (treated); 12 - 24 hours (untreated)."
+  ],
+  "verdict": "Overall Food Poisoning is a disease you clear with Antibiotics."
+ },
+ "frigid-bones": {
+  "lead": "Frigid Bones is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by misery mode.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as no treatment."
+  ],
+  "verdict": "Overall Frigid Bones is an injury best handled by avoiding its cause."
+ },
+ "frostbite": {
+  "lead": "Frostbite is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by exposed bare skin to the cold wearing frozen clothing.",
+   "Treatment: No Treatment."
+  ],
+  "verdict": "Overall Frostbite is an injury best handled by avoiding its cause."
+ },
+ "frostbite-risk": {
+  "lead": "Frostbite Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by no clothing on body parts ; bare skin exposed to inner layer frozen clothing.",
+   "Treatment: Warm and cover exposed body part.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Frostbite Risk is a risk best handled by avoiding its cause."
+ },
+ "gorged": {
+  "lead": "Gorged is an Injury affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by consume food and drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as 1 hour."
+  ],
+  "verdict": "Overall Gorged is an injury best handled by avoiding its cause."
+ },
+ "haunted-mind": {
+  "lead": "Haunted Mind is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by misery mode.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as no treatment."
+  ],
+  "verdict": "Overall Haunted Mind is an injury best handled by avoiding its cause."
+ },
+ "headache": {
+  "lead": "Headache is an Injury affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by consuming food and drink or go! energy drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as 20 mins - 3 hours."
+  ],
+  "verdict": "Overall Headache is an injury best handled by avoiding its cause."
+ },
+ "heat-pack-affliction": {
+  "lead": "Heat Pack (Affliction) is a Benefit affliction in The Long Dark. Its effect is positive. It lasts 6 hours.",
+  "body": [
+   "It is caused by active heat pack in inventory.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Heat Pack (Affliction) is a benefit best handled by avoiding its cause."
+ },
+ "hyperglycemic-risk": {
+  "lead": "Hyperglycemic Risk is a Disease affliction in The Long Dark. Its effect is negative. It lasts scripted.",
+  "body": [
+   "It is caused by type-1 diabetes.",
+   "It is treated with Insulin.",
+   "The tracked medical items for it are Insulin — see their pages for weight and where each is found.",
+   "Recovery time is listed as instant."
+  ],
+  "verdict": "Overall Hyperglycemic Risk is a disease you clear with Insulin."
+ },
+ "hypothermia": {
+  "lead": "Hypothermia is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by warmth reaches 0 for too long.",
+   "It is treated with Warmth.",
+   "Recovery time is listed as 6 hours (pilgrim); 12 hours (voyageur); 18 hours (stalker); 24 hours (interloper)."
+  ],
+  "verdict": "Overall Hypothermia is a disease you clear with Warmth."
+ },
+ "hypothermia-risk": {
+  "lead": "Hypothermia Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by warmth reaches 0.",
+   "It is treated with Warmth.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Hypothermia Risk is a risk you clear with Warmth."
+ },
+ "improved-rest": {
+  "lead": "Improved Rest is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consume food and drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Improved Rest is a benefit best handled by avoiding its cause."
+ },
+ "infection": {
+  "lead": "Infection is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated or death.",
+  "body": [
+   "It is caused by wildlife struggle.",
+   "It is treated with Antibiotics ×2.",
+   "The tracked medical items for it are Antibiotics — see their pages for weight and where each is found.",
+   "Recovery time is listed as 8 hours of sleep."
+  ],
+  "verdict": "Overall Infection is a disease you clear with Antibiotics."
+ },
+ "infection-risk": {
+  "lead": "Infection Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by wildlife struggle.",
+   "It is treated with Antiseptic ×1.",
+   "The tracked medical items for it are Antiseptic — see their pages for weight and where each is found.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Infection Risk is a risk you clear with Antiseptic."
+ },
+ "insomnia": {
+  "lead": "Insomnia is a Disease affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by glimmer fog.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as 18-36 hours."
+  ],
+  "verdict": "Overall Insomnia is a disease best handled by avoiding its cause."
+ },
+ "insomnia-risk": {
+  "lead": "Insomnia Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by glimmer fog.",
+   "Treatment: Find an underground location.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Insomnia Risk is a risk best handled by avoiding its cause."
+ },
+ "intestinal-parasites": {
+  "lead": "Intestinal Parasites is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated or death.",
+  "body": [
+   "It is caused by raw/cooked predator meat.",
+   "It is treated with Antibiotics ×2.",
+   "The tracked medical items for it are Antibiotics — see their pages for weight and where each is found.",
+   "Recovery time is listed as 10 days (stalker) 20 days (interloper/misery)."
+  ],
+  "verdict": "Overall Intestinal Parasites is a disease you clear with Antibiotics."
+ },
+ "laceration": {
+  "lead": "Laceration is an Injury affliction in The Long Dark. Its effect is negative. It lasts instant treatment.",
+  "body": [
+   "It is caused by predator struggle.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as affliction instantly heals once acquired."
+  ],
+  "verdict": "Overall Laceration is an injury best handled by avoiding its cause."
+ },
+ "major-bruising": {
+  "lead": "Major Bruising is an Injury affliction in The Long Dark. Its effect is negative. It lasts instant treatment.",
+  "body": [
+   "It is caused by predator struggle.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as affliction instantly heals once acquired."
+  ],
+  "verdict": "Overall Major Bruising is an injury best handled by avoiding its cause."
+ },
+ "minor-bruising": {
+  "lead": "Minor Bruising is an Injury affliction in The Long Dark. Its effect is negative. It lasts instant treatment.",
+  "body": [
+   "It is caused by predator struggle.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as affliction instantly heals once acquired."
+  ],
+  "verdict": "Overall Minor Bruising is an injury best handled by avoiding its cause."
+ },
+ "nourished": {
+  "lead": "Nourished is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consume food and drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Nourished is a benefit best handled by avoiding its cause."
+ },
+ "pain": {
+  "lead": "Pain is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated or recovery time passes.",
+  "body": [
+   "It is caused by falls sprains.",
+   "Treatment: 2 x Painkillers.",
+   "Recovery time is listed as 20 min - 1 hour (untreated)."
+  ],
+  "verdict": "Overall Pain is an injury best handled by avoiding its cause."
+ },
+ "plane-crash-injuries": {
+  "lead": "Plane Crash Injuries is an Injury affliction in The Long Dark. Its effect is negative. It lasts scripted.",
+  "body": [
+   "It is caused by plane crash injuries.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as complete the tutorial until day 5."
+  ],
+  "verdict": "Overall Plane Crash Injuries is an injury best handled by avoiding its cause."
+ },
+ "restore-condition": {
+  "lead": "Restore Condition is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consume birch bark tea.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Restore Condition is a benefit best handled by avoiding its cause."
+ },
+ "rheumatic-joints": {
+  "lead": "Rheumatic Joints is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by misery mode.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as no treatment."
+  ],
+  "verdict": "Overall Rheumatic Joints is an injury best handled by avoiding its cause."
+ },
+ "risk-of-intestinal-parasites": {
+  "lead": "Risk of Intestinal Parasites is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by raw/cooked predator meat.",
+   "Treatment: Stop eating infected meat.",
+   "Recovery time is listed as 24 hours.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Risk of Intestinal Parasites is a risk best handled by avoiding its cause."
+ },
+ "scurvy": {
+  "lead": "Scurvy is a Disease affliction in The Long Dark. Its effect is negative. It lasts until treated or death.",
+  "body": [
+   "It is caused by diet low in vitamin-c.",
+   "Treatment: Consume foods high in Vitamin-C to cure Scurvy.",
+   "Recovery time is listed as immediate."
+  ],
+  "verdict": "Overall Scurvy is a disease best handled by avoiding its cause."
+ },
+ "scurvy-risk": {
+  "lead": "Scurvy Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by diet low in vitamin-c.",
+   "Treatment: Consume foods high in Vitamin-C to cure Scurvy Risk.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Scurvy Risk is a risk best handled by avoiding its cause."
+ },
+ "severe-lacerations": {
+  "lead": "Severe Lacerations is an Injury affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by cougar struggle.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as 72 hours."
+  ],
+  "verdict": "Overall Severe Lacerations is an injury best handled by avoiding its cause."
+ },
+ "sour-stomach": {
+  "lead": "Sour Stomach is an Injury affliction in The Long Dark. Its effect is negative. It lasts permanent affliction.",
+  "body": [
+   "It is caused by misery mode.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as no treatment."
+  ],
+  "verdict": "Overall Sour Stomach is an injury best handled by avoiding its cause."
+ },
+ "sprain-risk": {
+  "lead": "Sprain Risk is a Risk affliction in The Long Dark. Its effect is negative.",
+  "body": [
+   "It is caused by being encumbrance over carry weight.",
+   "Treatment: Lower Encumbrance Level.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Sprain Risk is a risk best handled by avoiding its cause."
+ },
+ "sprained-ankle": {
+  "lead": "Sprained Ankle is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated or recovery time passes.",
+  "body": [
+   "It is caused by slopes falls; wildlife struggle.",
+   "It is treated with Bandage ×1.",
+   "The tracked medical items for it are Bandage — see their pages for weight and where each is found.",
+   "Recovery time is listed as 4 hours of sleep."
+  ],
+  "verdict": "Overall Sprained Ankle is an injury you clear with Bandage."
+ },
+ "sprained-wrist": {
+  "lead": "Sprained Wrist is an Injury affliction in The Long Dark. Its effect is negative. It lasts until treated or recovery time passes.",
+  "body": [
+   "It is caused by slopes falls; wildlife struggle.",
+   "It is treated with Bandage ×1.",
+   "The tracked medical items for it are Bandage — see their pages for weight and where each is found.",
+   "Recovery time is listed as 2 hours of sleep."
+  ],
+  "verdict": "Overall Sprained Wrist is an injury you clear with Bandage."
+ },
+ "suffocation": {
+  "lead": "Suffocation is an Injury affliction in The Long Dark. Its effect is negative. It lasts instant death.",
+  "body": [
+   "It is caused by polluted air.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as cheat death or end your game."
+  ],
+  "verdict": "Overall Suffocation is an injury best handled by avoiding its cause."
+ },
+ "suffocation-risk": {
+  "lead": "Suffocation Risk is a Risk affliction in The Long Dark. Its effect is negative. It lasts until treated.",
+  "body": [
+   "It is caused by polluted air.",
+   "It is treated with Respirator.",
+   "The tracked medical items for it are Respirator — see their pages for weight and where each is found.",
+   "Recovery time is listed as immediate.",
+   "As a risk (not a full affliction) it can be prevented before it lands — treat the cause above rather than the symptom."
+  ],
+  "verdict": "Overall Suffocation Risk is a risk you clear with Respirator."
+ },
+ "sure-footing": {
+  "lead": "Sure Footing is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by worn clothing.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Sure Footing is a benefit best handled by avoiding its cause."
+ },
+ "torn-clothing": {
+  "lead": "Torn Clothing is an Injury affliction in The Long Dark. Its effect is negative. It lasts instant treatment.",
+  "body": [
+   "It is caused by predator struggle falls.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as affliction instantly heals once acquired."
+  ],
+  "verdict": "Overall Torn Clothing is an injury best handled by avoiding its cause."
+ },
+ "toxic-fog": {
+  "lead": "Toxic Fog is an affliction affliction in The Long Dark. Its effect is negative.",
+  "body": [
+   "It is caused by being within a region where toxic fog reaches 100% saturation.",
+   "Treatment: Leave the Toxic Fog covered Region."
+  ],
+  "verdict": "Overall Toxic Fog is an affliction best handled by avoiding its cause."
+ },
+ "unburdened": {
+  "lead": "Unburdened is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consume food and drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Unburdened is a benefit best handled by avoiding its cause."
+ },
+ "warming-up": {
+  "lead": "Warming Up is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by consume hot food and drink.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Warming Up is a benefit best handled by avoiding its cause."
+ },
+ "weakened-state": {
+  "lead": "Weakened State is an Injury affliction in The Long Dark. Its effect is negative. It lasts until recovery time passes.",
+  "body": [
+   "It is caused by cheat death.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured.",
+   "Recovery time is listed as experience dependent (see chart)."
+  ],
+  "verdict": "Overall Weakened State is an injury best handled by avoiding its cause."
+ },
+ "well-fed": {
+  "lead": "Well Fed is a Benefit affliction in The Long Dark. Its effect is positive.",
+  "body": [
+   "It is caused by survive 72 hours with calorie store above 0.",
+   "No specific treatment is listed — it resolves on its own or is avoided rather than cured."
+  ],
+  "verdict": "Overall Well Fed is a benefit best handled by avoiding its cause."
+ }
+}

@@ -1,0 +1,1239 @@
+{
+ "acorn-bannock": {
+  "lead": "Acorn Bannock is a Food And Drink item in The Long Dark. It provides 250 kcal and -3% hydration. It weighs 0.05 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 5000 kcal/kg its calorie density ranks #8 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Acorn Bannock is one of the most efficient Food And Drink items to carry."
+ },
+ "acorn-grounds": {
+  "lead": "Acorn Grounds is a Materials item in The Long Dark. It weighs 0.2 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Acorn Grounds is a Materials item."
+ },
+ "acorn-pancakes": {
+  "lead": "Acorn Pancakes is a Food And Drink item in The Long Dark. It provides 750 kcal and -3% hydration. It weighs 0.15 kg.",
+  "body": [
+   "Its 750 kcal puts it mid-pack of the 100 Food And Drink entries here (#41).",
+   "At 5000 kcal/kg its calorie density ranks #8 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Acorn Pancakes is one of the most efficient Food And Drink items to carry."
+ },
+ "acorns": {
+  "lead": "Acorns is a Materials item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Acorns is a Materials item."
+ },
+ "acorns-cooked---large-portion": {
+  "lead": "Acorns (Cooked - Large Portion) is a Food And Drink item in The Long Dark. It provides 320 kcal. It weighs 0.25 kg.",
+  "body": [
+   "Its 320 kcal puts it on the lighter end of the 100 Food And Drink entries here (#76).",
+   "At 1280 kcal/kg its calorie density ranks #56 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Acorns (Cooked - Large Portion) is a 320 kcal Food And Drink item."
+ },
+ "acorns-cooked": {
+  "lead": "Acorns (Cooked) is a Food And Drink item in The Long Dark. It provides 100 kcal. It weighs 0.03 kg.",
+  "body": [
+   "Its 100 kcal puts it on the lighter end of the 100 Food And Drink entries here (#97).",
+   "At 3333.33 kcal/kg its calorie density ranks #21 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Acorns (Cooked) is one of the most efficient Food And Drink items to carry."
+ },
+ "airline-food---chicken": {
+  "lead": "Airline Food - Chicken is a Food And Drink item in The Long Dark. It provides 620 kcal and 5% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 620 kcal puts it mid-pack of the 100 Food And Drink entries here (#52).",
+   "At 2480 kcal/kg its calorie density ranks #39 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Airline Food - Chicken is a 620 kcal Food And Drink item."
+ },
+ "airline-food---vegetarian": {
+  "lead": "Airline Food - Vegetarian is a Food And Drink item in The Long Dark. It provides 560 kcal and 5% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 560 kcal puts it mid-pack of the 100 Food And Drink entries here (#60).",
+   "At 2240 kcal/kg its calorie density ranks #44 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Airline Food - Vegetarian is a 560 kcal Food And Drink item."
+ },
+ "animal-fat": {
+  "lead": "Animal Fat is a Food And Drink item in The Long Dark. It provides 900 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Animal Fat is a 900 kcal Food And Drink item."
+ },
+ "bannock": {
+  "lead": "Bannock is a Food And Drink item in The Long Dark. It provides 200 kcal and -3% hydration. It weighs 0.05 kg.",
+  "body": [
+   "Its 200 kcal puts it on the lighter end of the 100 Food And Drink entries here (#94).",
+   "At 4000 kcal/kg its calorie density ranks #13 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Bannock is one of the most efficient Food And Drink items to carry."
+ },
+ "bear-meat-cooked": {
+  "lead": "Bear Meat (Cooked) is a Food And Drink item in The Long Dark. It provides 900 kcal and -15% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 15% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Bear Meat (Cooked) is a 900 kcal Food And Drink item."
+ },
+ "bear-meat-raw": {
+  "lead": "Bear Meat (Raw) is a Food And Drink item in The Long Dark. It provides 900 kcal and -5% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Bear Meat (Raw) is a 900 kcal Food And Drink item."
+ },
+ "bear-quarter": {
+  "lead": "Bear Quarter is a Food And Drink item in The Long Dark. It weighs 10 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out."
+  ],
+  "verdict": "Overall Bear Quarter is a Food And Drink item."
+ },
+ "beef-jerky": {
+  "lead": "Beef Jerky is a Food And Drink item in The Long Dark. It provides 350 kcal and -10% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 350 kcal puts it on the lighter end of the 100 Food And Drink entries here (#73).",
+   "At 3500 kcal/kg its calorie density ranks #18 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 10% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Beef Jerky is one of the most efficient Food And Drink items to carry."
+ },
+ "big-bass-cooked": {
+  "lead": "Big Bass (Cooked) is a Food And Drink item in The Long Dark. It provides 4313 kcal and -5% hydration. It weighs 15 kg.",
+  "body": [
+   "Its 4313 kcal puts it the highest-calorie of the 100 Food And Drink entries here (#1).",
+   "At 287.53 kcal/kg its calorie density ranks #103 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Big Bass (Cooked) is a 4313 kcal Food And Drink item."
+ },
+ "big-bass-raw": {
+  "lead": "Big Bass (Raw) is a Food And Drink item in The Long Dark. It provides 3750 kcal. It weighs 15 kg.",
+  "body": [
+   "Its 3750 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#2).",
+   "At 250 kcal/kg its calorie density ranks #106 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Big Bass (Raw) is a 3750 kcal Food And Drink item."
+ },
+ "birch-bark": {
+  "lead": "Birch Bark is a Fire Starting item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Birch Bark is a Fire Starting item."
+ },
+ "birch-bark-tea": {
+  "lead": "Birch Bark Tea is a First Aid item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it among the higher-calorie of the 8 First Aid entries here (#2).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Birch Bark Tea is a 100 kcal First Aid item."
+ },
+ "breyerhouse-pie": {
+  "lead": "Breyerhouse Pie is a Food And Drink item in The Long Dark. It provides 1700 kcal and -3% hydration. It weighs 0.3 kg.",
+  "body": [
+   "Its 1700 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#8).",
+   "At 5666.67 kcal/kg its calorie density ranks #6 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Breyerhouse Pie is one of the most efficient Food And Drink items to carry."
+ },
+ "broth": {
+  "lead": "Broth is a Food And Drink item in The Long Dark. It provides 680 kcal and 5% hydration. It weighs 0.8 kg.",
+  "body": [
+   "Its 680 kcal puts it mid-pack of the 100 Food And Drink entries here (#49).",
+   "At 850 kcal/kg its calorie density ranks #77 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It decays faster indoors (0.67% vs 0.17% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Broth is a 680 kcal Food And Drink item."
+ },
+ "burbot-cooked": {
+  "lead": "Burbot (Cooked) is a Food And Drink item in The Long Dark. It provides 1952 kcal and -5% hydration. It weighs 4 kg.",
+  "body": [
+   "Its 1952 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#5).",
+   "At 488 kcal/kg its calorie density ranks #86 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Burbot (Cooked) is a 1952 kcal Food And Drink item."
+ },
+ "burbot-raw": {
+  "lead": "Burbot (Raw) is a Food And Drink item in The Long Dark. It provides 1950 kcal. It weighs 6 kg.",
+  "body": [
+   "Its 1950 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#6).",
+   "At 325 kcal/kg its calorie density ranks #97 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Burbot (Raw) is a 1950 kcal Food And Drink item."
+ },
+ "burdock-root": {
+  "lead": "Burdock Root is a Materials item in The Long Dark. It weighs 0.15 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Burdock Root is a Materials item."
+ },
+ "burdock-tea": {
+  "lead": "Burdock Tea is a First Aid item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it among the higher-calorie of the 8 First Aid entries here (#2).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Burdock Tea is a 100 kcal First Aid item."
+ },
+ "caffeine-pills": {
+  "lead": "Caffeine Pills is a First Aid item in The Long Dark. It provides 5 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 5 kcal puts it on the lighter end of the 8 First Aid entries here (#7).",
+   "At 50 kcal/kg its calorie density ranks #107 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Caffeine Pills is a 5 kcal First Aid item."
+ },
+ "camber-flight-porridge": {
+  "lead": "Camber Flight Porridge is a Food And Drink item in The Long Dark. It provides 1000 kcal. It weighs 0.3 kg.",
+  "body": [
+   "Its 1000 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#20).",
+   "At 3333.33 kcal/kg its calorie density ranks #21 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Camber Flight Porridge is one of the most efficient Food And Drink items to carry."
+ },
+ "canned-corn": {
+  "lead": "Canned Corn is a Food And Drink item in The Long Dark. It provides 295 kcal and 5% hydration. It weighs 0.3 kg.",
+  "body": [
+   "Its 295 kcal puts it on the lighter end of the 100 Food And Drink entries here (#82).",
+   "At 983.33 kcal/kg its calorie density ranks #69 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It decays faster outdoors (0.83% vs 0.17% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Canned Corn is a 295 kcal Food And Drink item."
+ },
+ "canned-ham": {
+  "lead": "Canned Ham is a Food And Drink item in The Long Dark. It provides 550 kcal and -5% hydration. It weighs 0.4 kg.",
+  "body": [
+   "Its 550 kcal puts it on the lighter end of the 100 Food And Drink entries here (#61).",
+   "At 1375 kcal/kg its calorie density ranks #55 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek.",
+   "It decays faster outdoors (0.67% vs 0.13% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Canned Ham is a 550 kcal Food And Drink item."
+ },
+ "canned-pineapple": {
+  "lead": "Canned Pineapple is a Food And Drink item in The Long Dark. It provides 295 kcal and 5% hydration. It weighs 0.4 kg.",
+  "body": [
+   "Its 295 kcal puts it on the lighter end of the 100 Food And Drink entries here (#82).",
+   "At 737.5 kcal/kg its calorie density ranks #82 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It decays faster outdoors (1.67% vs 0.33% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Canned Pineapple is a 295 kcal Food And Drink item."
+ },
+ "carrot": {
+  "lead": "Carrot is a Food And Drink item in The Long Dark. It provides 175 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 175 kcal puts it on the lighter end of the 100 Food And Drink entries here (#95).",
+   "At 1750 kcal/kg its calorie density ranks #50 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Carrot is a 175 kcal Food And Drink item."
+ },
+ "cat-tail-stalk": {
+  "lead": "Cat Tail Stalk is a Food And Drink item in The Long Dark. It provides 150 kcal. It weighs 0.05 kg.",
+  "body": [
+   "Its 150 kcal puts it on the lighter end of the 100 Food And Drink entries here (#96).",
+   "At 3000 kcal/kg its calorie density ranks #25 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Cat Tail Stalk is a 150 kcal Food And Drink item."
+ },
+ "cereal": {
+  "lead": "Cereal is a Food And Drink item in The Long Dark. It provides 700 kcal and -10% hydration. It weighs 0.2 kg.",
+  "body": [
+   "Its 700 kcal puts it mid-pack of the 100 Food And Drink entries here (#47).",
+   "At 3500 kcal/kg its calorie density ranks #18 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 10% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Cereal is one of the most efficient Food And Drink items to carry."
+ },
+ "chocolate-bar": {
+  "lead": "Chocolate Bar is a Food And Drink item in The Long Dark. It provides 250 kcal and -3% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 2500 kcal/kg its calorie density ranks #35 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Chocolate Bar is a 250 kcal Food And Drink item."
+ },
+ "chocolate-bar-4-days-of-night": {
+  "lead": "Chocolate Bar (4 Days of Night) is a Food And Drink item in The Long Dark. It provides 2500 kcal and -3% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 2500 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#3).",
+   "At 25000 kcal/kg its calorie density ranks #1 of 108 foods here — the densest in the table. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Chocolate Bar (4 Days of Night) is one of the most efficient Food And Drink items to carry."
+ },
+ "coastal-fishcakes": {
+  "lead": "Coastal Fishcakes is a Food And Drink item in The Long Dark. It provides 313 kcal. It weighs 0.05 kg.",
+  "body": [
+   "Its 313 kcal puts it on the lighter end of the 100 Food And Drink entries here (#77).",
+   "At 5905.66 kcal/kg its calorie density ranks #5 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Coastal Fishcakes is one of the most efficient Food And Drink items to carry."
+ },
+ "coho-salmon-cooked": {
+  "lead": "Coho Salmon (Cooked) is a Food And Drink item in The Long Dark. It provides 1650 kcal and -5% hydration. It weighs 3.7 kg.",
+  "body": [
+   "Its 1650 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#9).",
+   "At 445.95 kcal/kg its calorie density ranks #93 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Coho Salmon (Cooked) is a 1650 kcal Food And Drink item."
+ },
+ "coho-salmon-raw": {
+  "lead": "Coho Salmon (Raw) is a Food And Drink item in The Long Dark. It provides 1650 kcal. It weighs 5.5 kg.",
+  "body": [
+   "Its 1650 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#9).",
+   "At 300 kcal/kg its calorie density ranks #98 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Coho Salmon (Raw) is a 1650 kcal Food And Drink item."
+ },
+ "condensed-milk": {
+  "lead": "Condensed Milk is a Food And Drink item in The Long Dark. It provides 750 kcal and 25% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 750 kcal puts it mid-pack of the 100 Food And Drink entries here (#41).",
+   "At 3000 kcal/kg its calorie density ranks #25 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 25% hydration instead of costing you water.",
+   "It decays faster indoors (1% vs 0.25% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Condensed Milk is a 750 kcal Food And Drink item."
+ },
+ "cooked-potato": {
+  "lead": "Cooked Potato is a Food And Drink item in The Long Dark. It provides 250 kcal and -3% hydration. It weighs 0.15 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 1666.67 kcal/kg its calorie density ranks #52 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Cooked Potato is a 250 kcal Food And Drink item."
+ },
+ "cooking-oil": {
+  "lead": "Cooking Oil is a Food And Drink item in The Long Dark. It weighs 0.75 kg.",
+  "body": [
+   "It decays at 0% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Cooking Oil is a Food And Drink item."
+ },
+ "cougar-meat-cooked": {
+  "lead": "Cougar Meat (Cooked) is a Food And Drink item in The Long Dark. It provides 800 kcal and -5% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 800 kcal puts it mid-pack of the 100 Food And Drink entries here (#37).",
+   "At 800 kcal/kg its calorie density ranks #79 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (1% vs 0.1% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Cougar Meat (Cooked) is a 800 kcal Food And Drink item."
+ },
+ "cougar-meat-raw": {
+  "lead": "Cougar Meat (Raw) is a Food And Drink item in The Long Dark. It provides 850 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 850 kcal puts it mid-pack of the 100 Food And Drink entries here (#35).",
+   "At 850 kcal/kg its calorie density ranks #77 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (1% vs 0.1% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Cougar Meat (Raw) is a 850 kcal Food And Drink item."
+ },
+ "cougar-quarter": {
+  "lead": "Cougar Quarter is a Food And Drink item in The Long Dark. It weighs 4 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out."
+  ],
+  "verdict": "Overall Cougar Quarter is a Food And Drink item."
+ },
+ "cup-of-acorn-coffee": {
+  "lead": "Cup of Acorn Coffee is a Food And Drink item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it on the lighter end of the 100 Food And Drink entries here (#97).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Cup of Acorn Coffee is a 100 kcal Food And Drink item."
+ },
+ "cup-of-coffee": {
+  "lead": "Cup of Coffee is a Food And Drink item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it on the lighter end of the 100 Food And Drink entries here (#97).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Cup of Coffee is a 100 kcal Food And Drink item."
+ },
+ "cup-of-herbal-tea": {
+  "lead": "Cup of Herbal Tea is a Food And Drink item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it on the lighter end of the 100 Food And Drink entries here (#97).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Cup of Herbal Tea is a 100 kcal Food And Drink item."
+ },
+ "cured-fish": {
+  "lead": "Cured Fish is a Food And Drink item in The Long Dark. It provides 900 kcal and -5% hydration. It weighs 0.2 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 4500 kcal/kg its calorie density ranks #12 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Cured Fish is one of the most efficient Food And Drink items to carry."
+ },
+ "cured-meat": {
+  "lead": "Cured Meat is a Food And Drink item in The Long Dark. It provides 900 kcal and -5% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 3600 kcal/kg its calorie density ranks #17 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Cured Meat is one of the most efficient Food And Drink items to carry."
+ },
+ "deer-quarter": {
+  "lead": "Deer Quarter is a Food And Drink item in The Long Dark. It weighs 5 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out."
+  ],
+  "verdict": "Overall Deer Quarter is a Food And Drink item."
+ },
+ "dockworkers-pie": {
+  "lead": "Dockworker's Pie is a Food And Drink item in The Long Dark. It provides 1500 kcal and -3% hydration. It weighs 0.3 kg.",
+  "body": [
+   "Its 1500 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#13).",
+   "At 5000 kcal/kg its calorie density ranks #8 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Dockworker's Pie is one of the most efficient Food And Drink items to carry."
+ },
+ "dog-food": {
+  "lead": "Dog Food is a Food And Drink item in The Long Dark. It provides 500 kcal and 5% hydration. It weighs 0.3 kg.",
+  "body": [
+   "Its 500 kcal puts it on the lighter end of the 100 Food And Drink entries here (#63).",
+   "At 1666.67 kcal/kg its calorie density ranks #52 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It decays faster indoors (0.67% vs 0.17% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Dog Food is a 500 kcal Food And Drink item."
+ },
+ "dried-apples": {
+  "lead": "Dried Apples is a Food And Drink item in The Long Dark. It provides 400 kcal. It weighs 0.15 kg.",
+  "body": [
+   "Its 400 kcal puts it on the lighter end of the 100 Food And Drink entries here (#72).",
+   "At 2666.67 kcal/kg its calorie density ranks #32 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Dried Apples is a 400 kcal Food And Drink item."
+ },
+ "energy-bar": {
+  "lead": "Energy Bar is a Food And Drink item in The Long Dark. It provides 500 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 500 kcal puts it on the lighter end of the 100 Food And Drink entries here (#63).",
+   "At 5000 kcal/kg its calorie density ranks #8 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Energy Bar is one of the most efficient Food And Drink items to carry."
+ },
+ "go-energy-drink": {
+  "lead": "Go! Energy Drink is a First Aid item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 100 kcal puts it among the higher-calorie of the 8 First Aid entries here (#2).",
+   "At 400 kcal/kg its calorie density ranks #94 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Go! Energy Drink is a 100 kcal First Aid item."
+ },
+ "goldeye-cooked": {
+  "lead": "Goldeye (Cooked) is a Food And Drink item in The Long Dark. It provides 720 kcal and -5% hydration. It weighs 1.6 kg.",
+  "body": [
+   "Its 720 kcal puts it mid-pack of the 100 Food And Drink entries here (#46).",
+   "At 450 kcal/kg its calorie density ranks #88 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Goldeye (Cooked) is a 720 kcal Food And Drink item."
+ },
+ "goldeye-raw": {
+  "lead": "Goldeye (Raw) is a Food And Drink item in The Long Dark. It provides 630 kcal. It weighs 2.1 kg.",
+  "body": [
+   "Its 630 kcal puts it mid-pack of the 100 Food And Drink entries here (#51).",
+   "At 300 kcal/kg its calorie density ranks #98 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Goldeye (Raw) is a 630 kcal Food And Drink item."
+ },
+ "granola-bar": {
+  "lead": "Granola Bar is a Food And Drink item in The Long Dark. It provides 300 kcal and -5% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 300 kcal puts it on the lighter end of the 100 Food And Drink entries here (#78).",
+   "At 3000 kcal/kg its calorie density ranks #25 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Granola Bar is a 300 kcal Food And Drink item."
+ },
+ "herbal-tea": {
+  "lead": "Herbal Tea is a Food And Drink item in The Long Dark. It weighs 0.01 kg.",
+  "body": [
+   "It decays at 0.07% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Herbal Tea is a Food And Drink item."
+ },
+ "home-made-soup": {
+  "lead": "Home-made Soup is a Food And Drink item in The Long Dark. It provides 600 kcal. It weighs 0.25 kg.",
+  "body": [
+   "Its 600 kcal puts it mid-pack of the 100 Food And Drink entries here (#53).",
+   "At 2400 kcal/kg its calorie density ranks #40 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Home-made Soup is a 600 kcal Food And Drink item."
+ },
+ "ketchup-chips": {
+  "lead": "Ketchup Chips is a Food And Drink item in The Long Dark. It provides 300 kcal and -6% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 300 kcal puts it on the lighter end of the 100 Food And Drink entries here (#78).",
+   "At 3000 kcal/kg its calorie density ranks #25 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 6% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Ketchup Chips is a 300 kcal Food And Drink item."
+ },
+ "lake-whitefish-cooked": {
+  "lead": "Lake Whitefish (Cooked) is a Food And Drink item in The Long Dark. It provides 575 kcal and -5% hydration. It weighs 1.5 kg.",
+  "body": [
+   "Its 575 kcal puts it mid-pack of the 100 Food And Drink entries here (#56).",
+   "At 383.33 kcal/kg its calorie density ranks #95 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Lake Whitefish (Cooked) is a 575 kcal Food And Drink item."
+ },
+ "lake-whitefish-raw": {
+  "lead": "Lake Whitefish (Raw) is a Food And Drink item in The Long Dark. It provides 575 kcal. It weighs 2.3 kg.",
+  "body": [
+   "Its 575 kcal puts it mid-pack of the 100 Food And Drink entries here (#56).",
+   "At 250 kcal/kg its calorie density ranks #104 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Lake Whitefish (Raw) is a 575 kcal Food And Drink item."
+ },
+ "last-resort-soup": {
+  "lead": "Last Resort Soup is a Food And Drink item in The Long Dark. It provides 800 kcal and 6% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 800 kcal puts it mid-pack of the 100 Food And Drink entries here (#37).",
+   "At 2285.71 kcal/kg its calorie density ranks #42 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 6% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Last Resort Soup is a 800 kcal Food And Drink item."
+ },
+ "lilys-pancakes": {
+  "lead": "Lily's Pancakes is a Food And Drink item in The Long Dark. It provides 1000 kcal. It weighs 0.15 kg.",
+  "body": [
+   "Its 1000 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#20).",
+   "At 6666.67 kcal/kg its calorie density ranks #3 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Lily's Pancakes is one of the most efficient Food And Drink items to carry."
+ },
+ "maple-syrup": {
+  "lead": "Maple Syrup is a Food And Drink item in The Long Dark. It provides 850 kcal. It weighs 0.3 kg.",
+  "body": [
+   "Its 850 kcal puts it mid-pack of the 100 Food And Drink entries here (#35).",
+   "At 2833.33 kcal/kg its calorie density ranks #31 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Maple Syrup is a 850 kcal Food And Drink item."
+ },
+ "military-grade-mre": {
+  "lead": "Military-Grade MRE is a Food And Drink item in The Long Dark. It provides 1750 kcal and 5% hydration. It weighs 0.5 kg.",
+  "body": [
+   "Its 1750 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#7).",
+   "At 3500 kcal/kg its calorie density ranks #18 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Military-Grade MRE is one of the most efficient Food And Drink items to carry."
+ },
+ "moose-meat-cooked": {
+  "lead": "Moose Meat (Cooked) is a Food And Drink item in The Long Dark. It provides 900 kcal and -5% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Moose Meat (Cooked) is a 900 kcal Food And Drink item."
+ },
+ "moose-meat-raw": {
+  "lead": "Moose Meat (Raw) is a Food And Drink item in The Long Dark. It provides 900 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Moose Meat (Raw) is a 900 kcal Food And Drink item."
+ },
+ "moose-quarter": {
+  "lead": "Moose Quarter is a Food And Drink item in The Long Dark. It weighs 10 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out."
+  ],
+  "verdict": "Overall Moose Quarter is a Food And Drink item."
+ },
+ "old-mill-flour": {
+  "lead": "Old Mill Flour is a Food And Drink item in The Long Dark. It weighs 1.5 kg.",
+  "body": [
+   "It decays at 0.25% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Old Mill Flour is a Food And Drink item."
+ },
+ "orange-soda": {
+  "lead": "Orange Soda is a Food And Drink item in The Long Dark. It provides 250 kcal and 30% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Orange Soda is a 250 kcal Food And Drink item."
+ },
+ "pancakes": {
+  "lead": "Pancakes is a Food And Drink item in The Long Dark. It provides 500 kcal and -3% hydration. It weighs 0.15 kg.",
+  "body": [
+   "Its 500 kcal puts it on the lighter end of the 100 Food And Drink entries here (#63).",
+   "At 3333.33 kcal/kg its calorie density ranks #21 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Pancakes is one of the most efficient Food And Drink items to carry."
+ },
+ "peach-pie": {
+  "lead": "Peach Pie is a Food And Drink item in The Long Dark. It provides 250 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 2500 kcal/kg its calorie density ranks #35 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Peach Pie is a 250 kcal Food And Drink item."
+ },
+ "peanut-butter": {
+  "lead": "Peanut Butter is a Food And Drink item in The Long Dark. It provides 900 kcal and -5% hydration. It weighs 0.5 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 1800 kcal/kg its calorie density ranks #49 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Peanut Butter is a 900 kcal Food And Drink item."
+ },
+ "pemmican-bar": {
+  "lead": "Pemmican Bar is a Food And Drink item in The Long Dark. It provides 450 kcal and -6% hydration. It weighs 0.06 kg.",
+  "body": [
+   "Its 450 kcal puts it on the lighter end of the 100 Food And Drink entries here (#68).",
+   "At 7200 kcal/kg its calorie density ranks #2 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 6% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (4% vs 0.8% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Pemmican Bar is one of the most efficient Food And Drink items to carry."
+ },
+ "pickles": {
+  "lead": "Pickles is a Food And Drink item in The Long Dark. It provides 650 kcal and 5% hydration. It weighs 0.6 kg.",
+  "body": [
+   "Its 650 kcal puts it mid-pack of the 100 Food And Drink entries here (#50).",
+   "At 1083.33 kcal/kg its calorie density ranks #58 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Pickles is a 650 kcal Food And Drink item."
+ },
+ "pinnacle-peaches": {
+  "lead": "Pinnacle Peaches is a Food And Drink item in The Long Dark. It provides 450 kcal and 20% hydration. It weighs 0.5 kg.",
+  "body": [
+   "Its 450 kcal puts it on the lighter end of the 100 Food And Drink entries here (#68).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 20% hydration instead of costing you water.",
+   "It decays faster outdoors (1.67% vs 0.33% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Pinnacle Peaches is a 450 kcal Food And Drink item."
+ },
+ "pork-and-beans": {
+  "lead": "Pork and Beans is a Food And Drink item in The Long Dark. It provides 600 kcal and -5% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 600 kcal puts it mid-pack of the 100 Food And Drink entries here (#53).",
+   "At 2400 kcal/kg its calorie density ranks #40 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek.",
+   "It decays faster outdoors (0.67% vs 0.13% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Pork and Beans is a 600 kcal Food And Drink item."
+ },
+ "porridge": {
+  "lead": "Porridge is a Food And Drink item in The Long Dark. It provides 350 kcal. It weighs 0.2 kg.",
+  "body": [
+   "Its 350 kcal puts it on the lighter end of the 100 Food And Drink entries here (#73).",
+   "At 1750 kcal/kg its calorie density ranks #50 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Porridge is a 350 kcal Food And Drink item."
+ },
+ "porters-soup": {
+  "lead": "Porter's Soup is a Food And Drink item in The Long Dark. It provides 1200 kcal and 6% hydration. It weighs 0.4 kg.",
+  "body": [
+   "Its 1200 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#18).",
+   "At 3000 kcal/kg its calorie density ranks #25 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 6% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Porter's Soup is a 1200 kcal Food And Drink item."
+ },
+ "potato": {
+  "lead": "Potato is a Food And Drink item in The Long Dark. It weighs 0.2 kg.",
+  "body": [
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Potato is a Food And Drink item."
+ },
+ "prepared-acorns": {
+  "lead": "Prepared Acorns is a Materials item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Prepared Acorns is a Materials item."
+ },
+ "prepared-acorns-large-portion": {
+  "lead": "Prepared Acorns (Large Portion) is a Materials item in The Long Dark. It weighs 0.25 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Prepared Acorns (Large Portion) is a Materials item."
+ },
+ "prepared-birch-bark": {
+  "lead": "Prepared Birch Bark is a First Aid item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Prepared Birch Bark is a First Aid item."
+ },
+ "prepared-burdock": {
+  "lead": "Prepared Burdock is a First Aid item in The Long Dark. It provides 275 kcal. It weighs 0.15 kg.",
+  "body": [
+   "Its 275 kcal puts it the highest-calorie of the 8 First Aid entries here (#1).",
+   "At 1833.33 kcal/kg its calorie density ranks #48 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Prepared Burdock is a 275 kcal First Aid item."
+ },
+ "prepared-reishi-mushrooms": {
+  "lead": "Prepared Reishi Mushrooms is a First Aid item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Prepared Reishi Mushrooms is a First Aid item."
+ },
+ "prepared-rose-hips": {
+  "lead": "Prepared Rose Hips is a consumable item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Prepared Rose Hips is a consumable item."
+ },
+ "preppers-pie": {
+  "lead": "Prepper's Pie is a Food And Drink item in The Long Dark. It provides 1125 kcal and -3% hydration. It weighs 0.3 kg.",
+  "body": [
+   "Its 1125 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#19).",
+   "At 3750 kcal/kg its calorie density ranks #16 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Prepper's Pie is one of the most efficient Food And Drink items to carry."
+ },
+ "ptarmigan-cooked": {
+  "lead": "Ptarmigan (Cooked) is a Food And Drink item in The Long Dark. It provides 450 kcal and -5% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 450 kcal puts it on the lighter end of the 100 Food And Drink entries here (#68).",
+   "At 450 kcal/kg its calorie density ranks #88 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Ptarmigan (Cooked) is a 450 kcal Food And Drink item."
+ },
+ "ptarmigan-raw": {
+  "lead": "Ptarmigan (Raw) is a Food And Drink item in The Long Dark. It provides 500 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 500 kcal puts it on the lighter end of the 100 Food And Drink entries here (#63).",
+   "At 500 kcal/kg its calorie density ranks #84 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Ptarmigan (Raw) is a 500 kcal Food And Drink item."
+ },
+ "ptarmigan-carcass": {
+  "lead": "Ptarmigan Carcass is a Food And Drink item in The Long Dark. It weighs 3 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out."
+  ],
+  "verdict": "Overall Ptarmigan Carcass is a Food And Drink item."
+ },
+ "ptarmigan-pie": {
+  "lead": "Ptarmigan Pie is a Food And Drink item in The Long Dark. It provides 250 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 2500 kcal/kg its calorie density ranks #35 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Ptarmigan Pie is a 250 kcal Food And Drink item."
+ },
+ "ptarmigan-stew": {
+  "lead": "Ptarmigan Stew is a Food And Drink item in The Long Dark. It provides 750 kcal and 3% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 750 kcal puts it mid-pack of the 100 Food And Drink entries here (#41).",
+   "At 2142.86 kcal/kg its calorie density ranks #45 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 3% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Ptarmigan Stew is a 750 kcal Food And Drink item."
+ },
+ "pumpkin-pie": {
+  "lead": "Pumpkin Pie is a Food And Drink item in The Long Dark. It provides 2000 kcal and -5% hydration. It weighs 0.5 kg.",
+  "body": [
+   "Its 2000 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#4).",
+   "At 4000 kcal/kg its calorie density ranks #13 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Pumpkin Pie is one of the most efficient Food And Drink items to carry."
+ },
+ "rabbit-cooked": {
+  "lead": "Rabbit (Cooked) is a Food And Drink item in The Long Dark. It provides 450 kcal and -5% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 450 kcal puts it on the lighter end of the 100 Food And Drink entries here (#68).",
+   "At 450 kcal/kg its calorie density ranks #88 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Rabbit (Cooked) is a 450 kcal Food And Drink item."
+ },
+ "rabbit-raw": {
+  "lead": "Rabbit (Raw) is a Food And Drink item in The Long Dark. It provides 500 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 500 kcal puts it on the lighter end of the 100 Food And Drink entries here (#63).",
+   "At 500 kcal/kg its calorie density ranks #84 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Rabbit (Raw) is a 500 kcal Food And Drink item."
+ },
+ "rabbit-carcass": {
+  "lead": "Rabbit Carcass is a Food And Drink item in The Long Dark. It weighs 3 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Rabbit Carcass is a Food And Drink item."
+ },
+ "rabbit-pie": {
+  "lead": "Rabbit Pie is a Food And Drink item in The Long Dark. It provides 250 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 2500 kcal/kg its calorie density ranks #35 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Rabbit Pie is a 250 kcal Food And Drink item."
+ },
+ "rabbit-stew": {
+  "lead": "Rabbit Stew is a Food And Drink item in The Long Dark. It provides 750 kcal and 3% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 750 kcal puts it mid-pack of the 100 Food And Drink entries here (#41).",
+   "At 2142.86 kcal/kg its calorie density ranks #45 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 3% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Rabbit Stew is a 750 kcal Food And Drink item."
+ },
+ "rainbow-trout-cooked": {
+  "lead": "Rainbow Trout (Cooked) is a Food And Drink item in The Long Dark. It provides 575 kcal and -5% hydration. It weighs 1.5 kg.",
+  "body": [
+   "Its 575 kcal puts it mid-pack of the 100 Food And Drink entries here (#56).",
+   "At 383.33 kcal/kg its calorie density ranks #95 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Rainbow Trout (Cooked) is a 575 kcal Food And Drink item."
+ },
+ "rainbow-trout-raw": {
+  "lead": "Rainbow Trout (Raw) is a Food And Drink item in The Long Dark. It provides 575 kcal. It weighs 2.3 kg.",
+  "body": [
+   "Its 575 kcal puts it mid-pack of the 100 Food And Drink entries here (#56).",
+   "At 250 kcal/kg its calorie density ranks #104 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Rainbow Trout (Raw) is a 575 kcal Food And Drink item."
+ },
+ "ranger-stew": {
+  "lead": "Ranger Stew is a Food And Drink item in The Long Dark. It provides 1600 kcal and -3% hydration. It weighs 0.4 kg.",
+  "body": [
+   "Its 1600 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#11).",
+   "At 4000 kcal/kg its calorie density ranks #13 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Ranger Stew is one of the most efficient Food And Drink items to carry."
+ },
+ "red-irish-lord-cooked": {
+  "lead": "Red Irish Lord (Cooked) is a Food And Drink item in The Long Dark. It provides 900 kcal and -5% hydration. It weighs 2 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 450 kcal/kg its calorie density ranks #88 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Red Irish Lord (Cooked) is a 900 kcal Food And Drink item."
+ },
+ "red-irish-lord-raw": {
+  "lead": "Red Irish Lord (Raw) is a Food And Drink item in The Long Dark. It provides 930 kcal. It weighs 3.1 kg.",
+  "body": [
+   "Its 930 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#22).",
+   "At 300 kcal/kg its calorie density ranks #98 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Red Irish Lord (Raw) is a 930 kcal Food And Drink item."
+ },
+ "reishi-mushroom": {
+  "lead": "Reishi Mushroom is a Materials item in The Long Dark. It weighs 0.05 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Reishi Mushroom is a Materials item."
+ },
+ "reishi-tea": {
+  "lead": "Reishi Tea is a First Aid item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it among the higher-calorie of the 8 First Aid entries here (#2).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Reishi Tea is a 100 kcal First Aid item."
+ },
+ "rockfish-cooked": {
+  "lead": "Rockfish (Cooked) is a Food And Drink item in The Long Dark. It provides 1462.5 kcal. It weighs 3.25 kg.",
+  "body": [
+   "Its 1462.5 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#17).",
+   "At 450 kcal/kg its calorie density ranks #88 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip."
+  ],
+  "verdict": "Overall Rockfish (Cooked) is a 1462.5 kcal Food And Drink item."
+ },
+ "rockfish-raw": {
+  "lead": "Rockfish (Raw) is a Food And Drink item in The Long Dark. It provides 1500 kcal. It weighs 5 kg.",
+  "body": [
+   "Its 1500 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#13).",
+   "At 300 kcal/kg its calorie density ranks #98 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Rockfish (Raw) is a 1500 kcal Food And Drink item."
+ },
+ "rose-hip": {
+  "lead": "Rose Hip is a consumable item in The Long Dark. It weighs 0.01 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Rose Hip is a consumable item."
+ },
+ "rose-hip-pie": {
+  "lead": "Rose Hip Pie is a Food And Drink item in The Long Dark. It provides 225 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 225 kcal puts it on the lighter end of the 100 Food And Drink entries here (#93).",
+   "At 2250 kcal/kg its calorie density ranks #43 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Rose Hip Pie is a 225 kcal Food And Drink item."
+ },
+ "rose-hip-tea": {
+  "lead": "Rose Hip Tea is a First Aid item in The Long Dark. It provides 100 kcal and 30% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 100 kcal puts it among the higher-calorie of the 8 First Aid entries here (#2).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water."
+  ],
+  "verdict": "Overall Rose Hip Tea is a 100 kcal First Aid item."
+ },
+ "running-river-oats": {
+  "lead": "Running River Oats is a Food And Drink item in The Long Dark. It weighs 0.8 kg.",
+  "body": [
+   "It decays at 0.2% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Running River Oats is a Food And Drink item."
+ },
+ "salt": {
+  "lead": "Salt is a Food And Drink item in The Long Dark. It weighs 0.25 kg.",
+  "body": [
+   "It decays at 0% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Salt is a Food And Drink item."
+ },
+ "salt-bag": {
+  "lead": "Salt (Bag) is a Food And Drink item in The Long Dark. It weighs 10 kg.",
+  "body": [
+   "It decays at 0% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Salt (Bag) is a Food And Drink item."
+ },
+ "salty-crackers": {
+  "lead": "Salty Crackers is a Food And Drink item in The Long Dark. It provides 600 kcal and -20% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 600 kcal puts it mid-pack of the 100 Food And Drink entries here (#53).",
+   "At 6000 kcal/kg its calorie density ranks #4 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 20% — pair it with water or a drink before a long trek.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Salty Crackers is one of the most efficient Food And Drink items to carry."
+ },
+ "smallmouth-bass-cooked": {
+  "lead": "Smallmouth Bass (Cooked) is a Food And Drink item in The Long Dark. It provides 1500 kcal and -5% hydration. It weighs 3.3 kg.",
+  "body": [
+   "Its 1500 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#13).",
+   "At 454.55 kcal/kg its calorie density ranks #87 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Smallmouth Bass (Cooked) is a 1500 kcal Food And Drink item."
+ },
+ "smallmouth-bass-raw": {
+  "lead": "Smallmouth Bass (Raw) is a Food And Drink item in The Long Dark. It provides 1500 kcal. It weighs 5 kg.",
+  "body": [
+   "Its 1500 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#13).",
+   "At 300 kcal/kg its calorie density ranks #98 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Smallmouth Bass (Raw) is a 1500 kcal Food And Drink item."
+ },
+ "stacys-grape-soda": {
+  "lead": "Stacy's Grape Soda is a Food And Drink item in The Long Dark. It provides 250 kcal and 30% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Stacy's Grape Soda is a 250 kcal Food And Drink item."
+ },
+ "stalkers-pie": {
+  "lead": "Stalker's Pie is a Food And Drink item in The Long Dark. It provides 1600 kcal and -3% hydration. It weighs 0.3 kg.",
+  "body": [
+   "Its 1600 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#11).",
+   "At 5333.33 kcal/kg its calorie density ranks #7 of 108 foods here — one of the densest. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 3% — pair it with water or a drink before a long trek.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Stalker's Pie is one of the most efficient Food And Drink items to carry."
+ },
+ "summit-soda": {
+  "lead": "Summit Soda is a Food And Drink item in The Long Dark. It provides 250 kcal and 30% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 250 kcal puts it on the lighter end of the 100 Food And Drink entries here (#84).",
+   "At 1000 kcal/kg its calorie density ranks #59 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 30% hydration instead of costing you water.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Summit Soda is a 250 kcal Food And Drink item."
+ },
+ "thomson-family-stew": {
+  "lead": "Thomson Family Stew is a Food And Drink item in The Long Dark. It provides 900 kcal and 3% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 2571.43 kcal/kg its calorie density ranks #33 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 3% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Thomson Family Stew is a 900 kcal Food And Drink item."
+ },
+ "tin-of-coffee": {
+  "lead": "Tin of Coffee is a Food And Drink item in The Long Dark. It weighs 0.01 kg.",
+  "body": [
+   "It decays at 0.1% per day whether stored indoors or out.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Tin of Coffee is a Food And Drink item."
+ },
+ "tin-of-sardines": {
+  "lead": "Tin of Sardines is a Food And Drink item in The Long Dark. It provides 300 kcal and 5% hydration. It weighs 0.1 kg.",
+  "body": [
+   "Its 300 kcal puts it on the lighter end of the 100 Food And Drink entries here (#78).",
+   "At 3000 kcal/kg its calorie density ranks #25 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 5% hydration instead of costing you water.",
+   "It decays faster outdoors (0.33% vs 0.07% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Tin of Sardines is a 300 kcal Food And Drink item."
+ },
+ "tomato-soup": {
+  "lead": "Tomato Soup is a Food And Drink item in The Long Dark. It provides 300 kcal and 10% hydration. It weighs 0.25 kg.",
+  "body": [
+   "Its 300 kcal puts it on the lighter end of the 100 Food And Drink entries here (#78).",
+   "At 1200 kcal/kg its calorie density ranks #57 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 10% hydration instead of costing you water.",
+   "It decays faster indoors (0.2% vs 0.05% per day), which decides where you should leave the surplus."
+  ],
+  "verdict": "Overall Tomato Soup is a 300 kcal Food And Drink item."
+ },
+ "trout-stew": {
+  "lead": "Trout Stew is a Food And Drink item in The Long Dark. It provides 750 kcal and 3% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 750 kcal puts it mid-pack of the 100 Food And Drink entries here (#41).",
+   "At 2142.86 kcal/kg its calorie density ranks #45 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 3% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Trout Stew is a 750 kcal Food And Drink item."
+ },
+ "vagabond-soup": {
+  "lead": "Vagabond Soup is a Food And Drink item in The Long Dark. It provides 550 kcal and 6% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 550 kcal puts it on the lighter end of the 100 Food And Drink entries here (#61).",
+   "At 1571.43 kcal/kg its calorie density ranks #54 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 6% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Vagabond Soup is a 550 kcal Food And Drink item."
+ },
+ "venison-cooked": {
+  "lead": "Venison (Cooked) is a Food And Drink item in The Long Dark. It provides 800 kcal and -5% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 800 kcal puts it mid-pack of the 100 Food And Drink entries here (#37).",
+   "At 800 kcal/kg its calorie density ranks #79 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 5% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Venison (Cooked) is a 800 kcal Food And Drink item."
+ },
+ "venison-raw": {
+  "lead": "Venison (Raw) is a Food And Drink item in The Long Dark. It provides 900 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 900 kcal/kg its calorie density ranks #70 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Venison (Raw) is a 900 kcal Food And Drink item."
+ },
+ "venison-pie": {
+  "lead": "Venison Pie is a Food And Drink item in The Long Dark. It provides 325 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 325 kcal puts it on the lighter end of the 100 Food And Drink entries here (#75).",
+   "At 3250 kcal/kg its calorie density ranks #24 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Venison Pie is a 325 kcal Food And Drink item."
+ },
+ "venison-stew": {
+  "lead": "Venison Stew is a Food And Drink item in The Long Dark. It provides 900 kcal and 3% hydration. It weighs 0.35 kg.",
+  "body": [
+   "Its 900 kcal puts it among the higher-calorie of the 100 Food And Drink entries here (#23).",
+   "At 2571.43 kcal/kg its calorie density ranks #33 of 108 foods here — a solid calorie-per-kg. This is the number that decides what is worth carrying on a long trip.",
+   "It is a net positive for thirst too, adding 3% hydration instead of costing you water.",
+   "It decays faster indoors (20% vs 5% per day), which decides where you should leave the surplus.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Venison Stew is a 900 kcal Food And Drink item."
+ },
+ "vitamin-c-pills": {
+  "lead": "Vitamin-C Pills is a First Aid item in The Long Dark. It provides 5 kcal. It weighs 0.1 kg.",
+  "body": [
+   "Its 5 kcal puts it on the lighter end of the 8 First Aid entries here (#7).",
+   "At 50 kcal/kg its calorie density ranks #107 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Vitamin-C Pills is a 5 kcal First Aid item."
+ },
+ "water-potable": {
+  "lead": "Water (Potable) is a Food And Drink item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Water (Potable) is a Food And Drink item."
+ },
+ "water-unsafe": {
+  "lead": "Water (Unsafe) is a Food And Drink item in The Long Dark. It weighs 1 kg.",
+  "body": [
+   "Only the headline nutrition values are recorded for this item in the source table."
+  ],
+  "verdict": "Overall Water (Unsafe) is a Food And Drink item."
+ },
+ "wolf-meat-cooked": {
+  "lead": "Wolf Meat (Cooked) is a Food And Drink item in The Long Dark. It provides 700 kcal and -10% hydration. It weighs 1 kg.",
+  "body": [
+   "Its 700 kcal puts it mid-pack of the 100 Food And Drink entries here (#47).",
+   "At 700 kcal/kg its calorie density ranks #83 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It dehydrates you by 10% — pair it with water or a drink before a long trek."
+  ],
+  "verdict": "Overall Wolf Meat (Cooked) is a 700 kcal Food And Drink item."
+ },
+ "wolf-meat-raw": {
+  "lead": "Wolf Meat (Raw) is a Food And Drink item in The Long Dark. It provides 800 kcal. It weighs 1 kg.",
+  "body": [
+   "Its 800 kcal puts it mid-pack of the 100 Food And Drink entries here (#37).",
+   "At 800 kcal/kg its calorie density ranks #79 of 108 foods here — a bulky way to carry calories. This is the number that decides what is worth carrying on a long trip.",
+   "It is renewable, so it can be re-stocked rather than only found."
+  ],
+  "verdict": "Overall Wolf Meat (Raw) is a 800 kcal Food And Drink item."
+ },
+ "wolf-quarter": {
+  "lead": "Wolf Quarter is a Food And Drink item in The Long Dark. It weighs 5 kg.",
+  "body": [
+   "It decays at 10% per day whether stored indoors or out."
+  ],
+  "verdict": "Overall Wolf Quarter is a Food And Drink item."
+ }
+}
