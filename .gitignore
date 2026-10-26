@@ -7,3 +7,4 @@ _bak_tmp*/
 dist.bak/
 _push.log
 .astro/
+_bing_*.log
