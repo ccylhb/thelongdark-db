@@ -192,10 +192,12 @@ const t = site.theme;
     <main>
       <slot />
       <AdSlot slot="1378959955" />
-    <SisterSites
-      sites={site.sisterSites}
-      hub={site.hubSite}
-    />
+    {Astro.url.pathname === "/" && (
+      <SisterSites
+        sites={site.sisterSites}
+        hub={site.hubSite}
+      />
+    )}
     </main>
     <footer class="site-footer">
       <p style="margin:0 0 0.4rem">{site.footerNote}</p>

@@ -8,5 +8,12 @@ export default defineConfig({
   site: site.siteUrl,
   output: "static",
   compressHTML: true,
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      entryLimit: 500,
+      serialize(item) {
+        return { ...item, lastmod: new Date().toISOString() };
+      },
+    }),
+  ],
 });
