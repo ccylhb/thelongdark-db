@@ -8,3 +8,5 @@ dist.bak/
 _push.log
 .astro/
 _bing_*.log
+_dep*.log
+_build_*.log
