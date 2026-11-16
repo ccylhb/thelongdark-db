@@ -10,3 +10,5 @@ _push.log
 _bing_*.log
 _dep*.log
 _build_*.log
+build_*.log
+deploy_*.log
